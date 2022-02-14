@@ -1,0 +1,10 @@
+L 12/23/2021 - 04:52:17: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/23/2021 - 04:53:17: [afk_manager4.smx] grouchyturtle86<572><STEAM_1:0:581828103><> was moved to spectate for being AFK too long.
+L 12/23/2021 - 05:06:05: [afk_manager4.smx] laha_the_goat<577><STEAM_1:0:525905734><> was moved to spectate for being AFK too long.
+L 12/23/2021 - 05:07:14: [afk_manager4.smx] Yo<582><STEAM_1:0:594016366><> was moved to spectate for being AFK too long.
+L 12/23/2021 - 05:08:23: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 12/23/2021 - 16:32:09: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/23/2021 - 16:33:47: [afk_manager4.smx] Player count for AFK Kick minimum has been reached, feature is now enabled: sm_afk_kick_min_players = 6 Current Players = 6
+L 12/23/2021 - 16:35:20: [afk_manager4.smx] Player count for AFK Kick minimum is below requirements, feature is now disabled: sm_afk_kick_min_players = 6 Current Players = 5
+L 12/23/2021 - 16:38:37: [afk_manager4.smx] FoRce_Aspect<651><STEAM_1:0:223794561><> was moved to spectate for being AFK too long.
+L 12/23/2021 - 16:40:47: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3

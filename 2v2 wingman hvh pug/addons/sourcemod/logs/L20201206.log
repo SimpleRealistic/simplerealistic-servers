@@ -1,0 +1,40 @@
+L 12/06/2020 - 00:40:22: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201206.log") (Version "1.10.0.6490")
+L 12/06/2020 - 00:40:22: -------- Mapchange to de_mirage --------
+L 12/06/2020 - 00:43:18: -------- Mapchange to cs_militia --------
+L 12/06/2020 - 10:25:47: -------- Mapchange to cs_militia --------
+L 12/06/2020 - 10:26:34: [basecommands.smx] "Leo Dooly<210><STEAM_1:0:109554979><>" changed map to "mirage"
+L 12/06/2020 - 10:26:37: [SM] Changed map to "mirage"
+L 12/06/2020 - 10:26:38: -------- Mapchange to de_mirage --------
+L 12/06/2020 - 11:51:35: -------- Mapchange to de_mirage --------
+L 12/06/2020 - 12:08:25: [basecommands.smx] "Leo Dooly<230><STEAM_1:0:109554979><>" console command (cmdline "sv_airaccelerate 300")
+L 12/06/2020 - 12:28:22: -------- Mapchange to de_mirage --------
+L 12/06/2020 - 12:57:53: [basecommands.smx] "Leo Dooly<252><STEAM_1:0:109554979><>" console command (cmdline "bot_kick")
+L 12/06/2020 - 13:01:43: -------- Mapchange to cs_office --------
+L 12/06/2020 - 13:36:00: -------- Mapchange to de_overpass --------
+L 12/06/2020 - 14:12:21: -------- Mapchange to de_inferno --------
+L 12/06/2020 - 14:13:22: [basecommands.smx] "Leo Dooly<256><STEAM_1:0:109554979><>" console command (cmdline "bot_kick")
+L 12/06/2020 - 14:32:28: [basechat.smx] "kr0md<253><STEAM_1:0:125290236><>" triggered sm_say (text Leo has small cock)
+L 12/06/2020 - 14:33:41: [basechat.smx] "kr0md<253><STEAM_1:0:125290236><>" triggered sm_say (text Leo has small cock)
+L 12/06/2020 - 14:33:42: [basechat.smx] "kr0md<253><STEAM_1:0:125290236><>" triggered sm_say (text Leo has small cock)
+L 12/06/2020 - 14:33:42: [basechat.smx] "kr0md<253><STEAM_1:0:125290236><>" triggered sm_say (text Leo has small cock)
+L 12/06/2020 - 14:33:54: [basechat.smx] "kr0md<253><STEAM_1:0:125290236><>" triggered sm_say (text Leo has small cock)
+L 12/06/2020 - 14:34:00: [basechat.smx] "kr0md<253><STEAM_1:0:125290236><>" triggered sm_say (text Leo has small cock)
+L 12/06/2020 - 14:34:00: [basechat.smx] "kr0md<253><STEAM_1:0:125290236><>" triggered sm_say (text Leo has small cock)
+L 12/06/2020 - 14:34:04: [basecommands.smx] "Leo Dooly<256><STEAM_1:0:109554979><>" kicked "kr0md<253><STEAM_1:0:125290236><>" (reason "")
+L 12/06/2020 - 14:35:49: [basecomm.smx] "Leo Dooly<256><STEAM_1:0:109554979><>" muted "prev!#0001<259><STEAM_1:0:74717497><>"
+L 12/06/2020 - 14:35:56: [basecomm.smx] "Leo Dooly<256><STEAM_1:0:109554979><>" unmuted "prev!#0001<259><STEAM_1:0:74717497><>"
+L 12/06/2020 - 14:36:16: [basechat.smx] "kr0md<261><STEAM_1:0:125290236><>" triggered sm_say (text Leo has small cock)
+L 12/06/2020 - 14:39:56: [basecommands.smx] "Leo Dooly<256><STEAM_1:0:109554979><>" console command (cmdline "bot_kick")
+L 12/06/2020 - 14:43:03: -------- Mapchange to de_mirage --------
+L 12/06/2020 - 14:47:39: [basecommands.smx] "Leo Dooly<256><STEAM_1:0:109554979><>" console command (cmdline "sv_airaccelerate 200")
+L 12/06/2020 - 15:53:05: -------- Mapchange to cs_assault --------
+L 12/06/2020 - 16:26:22: -------- Mapchange to de_overpass --------
+L 12/06/2020 - 16:38:20: -------- Mapchange to de_overpass --------
+L 12/06/2020 - 19:15:06: -------- Mapchange to de_overpass --------
+L 12/06/2020 - 19:18:08: -------- Mapchange to cs_office --------
+L 12/06/2020 - 20:26:26: -------- Mapchange to cs_office --------
+L 12/06/2020 - 20:32:07: -------- Mapchange to cs_office --------
+L 12/06/2020 - 20:34:47: -------- Mapchange to cs_office --------
+L 12/06/2020 - 21:37:20: -------- Mapchange to cs_office --------
+L 12/06/2020 - 22:22:23: -------- Mapchange to cs_office --------
+L 12/07/2020 - 12:04:22: Log file closed.

@@ -1,0 +1,98 @@
+L 01/31/2022 - 00:21:40: SourceMod error session started
+L 01/31/2022 - 00:21:40: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20220131.log")
+L 01/31/2022 - 00:21:40: Error log file session closed.
+L 01/31/2022 - 00:21:47: SourceMod error session started
+L 01/31/2022 - 00:21:47: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20220131.log")
+L 01/31/2022 - 00:21:47: [SM] Error parsing gameconfig file "/home/steam/surf/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 01/31/2022 - 00:21:47: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 01/31/2022 - 00:21:47: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 01/31/2022 - 00:21:47: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 01/31/2022 - 00:21:47: [SM] Call stack trace:
+L 01/31/2022 - 00:21:47: [SM]   [0] LoadGameConfigFile
+L 01/31/2022 - 00:21:47: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 01/31/2022 - 00:21:47: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 01/31/2022 - 02:42:56: [SM] Exception reported: Tracker stack is out of bounds
+L 01/31/2022 - 02:42:56: [SM] Blaming: unrestricted_fov.smx
+L 01/31/2022 - 02:42:56: [SM] Call stack trace:
+L 01/31/2022 - 02:42:56: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/31/2022 - 02:43:02: [SM] Exception reported: Tracker stack is out of bounds
+L 01/31/2022 - 02:43:02: [SM] Blaming: unrestricted_fov.smx
+L 01/31/2022 - 02:43:02: [SM] Call stack trace:
+L 01/31/2022 - 02:43:02: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/31/2022 - 02:49:04: [SM] Exception reported: Tracker stack is out of bounds
+L 01/31/2022 - 02:49:04: [SM] Blaming: unrestricted_fov.smx
+L 01/31/2022 - 02:49:04: [SM] Call stack trace:
+L 01/31/2022 - 02:49:04: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/31/2022 - 02:49:04: [SM]   [3] FakeClientCommand
+L 01/31/2022 - 02:49:04: [SM]   [4] Line 427, surftimer/hooks.sp::Say_Hook
+L 01/31/2022 - 05:12:34: [SM] Exception reported: Tracker stack is out of bounds
+L 01/31/2022 - 05:12:34: [SM] Blaming: unrestricted_fov.smx
+L 01/31/2022 - 05:12:34: [SM] Call stack trace:
+L 01/31/2022 - 05:12:34: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/31/2022 - 13:07:08: [SM] Exception reported: Tracker stack is out of bounds
+L 01/31/2022 - 13:07:08: [SM] Blaming: unrestricted_fov.smx
+L 01/31/2022 - 13:07:08: [SM] Call stack trace:
+L 01/31/2022 - 13:07:08: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/31/2022 - 16:01:34: [SM] Exception reported: Tracker stack is out of bounds
+L 01/31/2022 - 16:01:34: [SM] Blaming: unrestricted_fov.smx
+L 01/31/2022 - 16:01:34: [SM] Call stack trace:
+L 01/31/2022 - 16:01:34: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/31/2022 - 18:13:06: [SM] Exception reported: Tracker stack is out of bounds
+L 01/31/2022 - 18:13:06: [SM] Blaming: unrestricted_fov.smx
+L 01/31/2022 - 18:13:06: [SM] Call stack trace:
+L 01/31/2022 - 18:13:06: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/31/2022 - 18:13:11: [SM] Exception reported: Tracker stack is out of bounds
+L 01/31/2022 - 18:13:11: [SM] Blaming: unrestricted_fov.smx
+L 01/31/2022 - 18:13:11: [SM] Call stack trace:
+L 01/31/2022 - 18:13:11: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/31/2022 - 18:13:16: [SM] Exception reported: Tracker stack is out of bounds
+L 01/31/2022 - 18:13:16: [SM] Blaming: unrestricted_fov.smx
+L 01/31/2022 - 18:13:16: [SM] Call stack trace:
+L 01/31/2022 - 18:13:16: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/31/2022 - 19:31:11: [SM] Exception reported: Tracker stack is out of bounds
+L 01/31/2022 - 19:31:11: [SM] Blaming: unrestricted_fov.smx
+L 01/31/2022 - 19:31:11: [SM] Call stack trace:
+L 01/31/2022 - 19:31:11: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/31/2022 - 19:31:23: [SM] Exception reported: Tracker stack is out of bounds
+L 01/31/2022 - 19:31:23: [SM] Blaming: unrestricted_fov.smx
+L 01/31/2022 - 19:31:23: [SM] Call stack trace:
+L 01/31/2022 - 19:31:23: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/31/2022 - 19:31:33: [SM] Exception reported: Tracker stack is out of bounds
+L 01/31/2022 - 19:31:33: [SM] Blaming: unrestricted_fov.smx
+L 01/31/2022 - 19:31:33: [SM] Call stack trace:
+L 01/31/2022 - 19:31:33: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/31/2022 - 19:31:33: [SM]   [3] FakeClientCommand
+L 01/31/2022 - 19:31:33: [SM]   [4] Line 427, surftimer/hooks.sp::Say_Hook
+L 01/31/2022 - 19:31:41: [SM] Exception reported: Tracker stack is out of bounds
+L 01/31/2022 - 19:31:41: [SM] Blaming: unrestricted_fov.smx
+L 01/31/2022 - 19:31:41: [SM] Call stack trace:
+L 01/31/2022 - 19:31:41: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/31/2022 - 19:33:15: [SM] Exception reported: Tracker stack is out of bounds
+L 01/31/2022 - 19:33:15: [SM] Blaming: unrestricted_fov.smx
+L 01/31/2022 - 19:33:15: [SM] Call stack trace:
+L 01/31/2022 - 19:33:15: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/31/2022 - 19:36:59: [SM] Exception reported: Tracker stack is out of bounds
+L 01/31/2022 - 19:36:59: [SM] Blaming: unrestricted_fov.smx
+L 01/31/2022 - 19:36:59: [SM] Call stack trace:
+L 01/31/2022 - 19:36:59: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/31/2022 - 19:37:09: [SM] Exception reported: Tracker stack is out of bounds
+L 01/31/2022 - 19:37:09: [SM] Blaming: unrestricted_fov.smx
+L 01/31/2022 - 19:37:09: [SM] Call stack trace:
+L 01/31/2022 - 19:37:09: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/31/2022 - 19:37:09: [SM]   [3] FakeClientCommand
+L 01/31/2022 - 19:37:09: [SM]   [4] Line 427, surftimer/hooks.sp::Say_Hook
+L 01/31/2022 - 19:37:18: [SM] Exception reported: Tracker stack is out of bounds
+L 01/31/2022 - 19:37:18: [SM] Blaming: unrestricted_fov.smx
+L 01/31/2022 - 19:37:18: [SM] Call stack trace:
+L 01/31/2022 - 19:37:18: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/31/2022 - 22:46:56: SourceMod error session started
+L 01/31/2022 - 22:46:56: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20220131.log")
+L 01/31/2022 - 22:46:56: [SM] Error parsing gameconfig file "/home/steam/surf/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 01/31/2022 - 22:46:56: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 01/31/2022 - 22:46:56: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 01/31/2022 - 22:46:56: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 01/31/2022 - 22:46:56: [SM] Call stack trace:
+L 01/31/2022 - 22:46:56: [SM]   [0] LoadGameConfigFile
+L 01/31/2022 - 22:46:56: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 01/31/2022 - 22:46:56: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 02/01/2022 - 00:02:12: Error log file session closed.

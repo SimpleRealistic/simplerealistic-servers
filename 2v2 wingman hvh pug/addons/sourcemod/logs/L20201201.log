@@ -1,0 +1,41 @@
+L 12/01/2020 - 10:33:07: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201201.log") (Version "1.10.0.6490")
+L 12/01/2020 - 10:33:07: -------- Mapchange to de_inferno --------
+L 12/01/2020 - 10:35:02: -------- Mapchange to de_mirage --------
+L 12/01/2020 - 13:58:15: -------- Mapchange to de_mirage --------
+L 12/01/2020 - 14:01:29: -------- Mapchange to de_inferno --------
+L 12/01/2020 - 15:22:13: -------- Mapchange to de_inferno --------
+L 12/01/2020 - 15:38:40: -------- Mapchange to de_overpass --------
+L 12/01/2020 - 16:33:43: -------- Mapchange to de_overpass --------
+L 12/01/2020 - 18:00:22: -------- Mapchange to de_overpass --------
+L 12/01/2020 - 20:33:40: -------- Mapchange to de_overpass --------
+L 12/01/2020 - 20:37:28: -------- Mapchange to de_dust2 --------
+L 12/01/2020 - 20:55:57: [basecommands.smx] "Leo Dooly<137><STEAM_1:0:109554979><>" changed map to "mirage"
+L 12/01/2020 - 20:56:00: [SM] Changed map to "mirage"
+L 12/01/2020 - 20:56:01: -------- Mapchange to de_mirage --------
+L 12/01/2020 - 21:13:07: [basecommands.smx] "Leo Dooly<137><STEAM_1:0:109554979><>" changed map to "inferno"
+L 12/01/2020 - 21:13:10: [SM] Changed map to "inferno"
+L 12/01/2020 - 21:13:11: -------- Mapchange to de_inferno --------
+L 12/01/2020 - 21:29:29: [basecommands.smx] "Leo Dooly<137><STEAM_1:0:109554979><>" changed map to "overpass"
+L 12/01/2020 - 21:29:32: [SM] Changed map to "overpass"
+L 12/01/2020 - 21:29:32: -------- Mapchange to de_overpass --------
+L 12/01/2020 - 21:46:57: [basecommands.smx] "dylaN<139><STEAM_1:0:552508106><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 12/01/2020 - 21:47:03: [basecommands.smx] "dylaN<139><STEAM_1:0:552508106><>" console command (cmdline "mp_damage_scale_t_head .5")
+L 12/01/2020 - 21:48:51: [basecommands.smx] "dylaN<139><STEAM_1:0:552508106><>" console command (cmdline "sm_unpause")
+L 12/01/2020 - 21:50:50: [basechat.smx] "dylaN<139><STEAM_1:0:552508106><>" triggered sm_say (text kahzi go b;))
+L 12/01/2020 - 21:51:38: [basecommands.smx] "dylaN<139><STEAM_1:0:552508106><>" console command (cmdline "mp_restartgame 1")
+L 12/01/2020 - 21:53:08: [basecommands.smx] "dylaN<139><STEAM_1:0:552508106><>" console command (cmdline "mp_restartgame 1")
+L 12/01/2020 - 21:53:27: [basecommands.smx] "dylaN<139><STEAM_1:0:552508106><>" console command (cmdline "mp_restartgame 1")
+L 12/01/2020 - 21:53:43: [basecommands.smx] "dylaN<139><STEAM_1:0:552508106><>" console command (cmdline "sm_unpause")
+L 12/01/2020 - 21:58:00: [basecommands.smx] "dylaN<139><STEAM_1:0:552508106><>" console command (cmdline "mp_damage_scale_t_body .1")
+L 12/01/2020 - 21:59:49: [basecommands.smx] "dylaN<139><STEAM_1:0:552508106><>" console command (cmdline "mp_damage_scale_t_body .1")
+L 12/01/2020 - 22:01:19: [basecommands.smx] "dylaN<139><STEAM_1:0:552508106><>" console command (cmdline "sm_unpause")
+L 12/01/2020 - 22:04:11: [basecommands.smx] "dylaN<139><STEAM_1:0:552508106><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 12/01/2020 - 22:07:28: [basecommands.smx] "dylaN<139><STEAM_1:0:552508106><>" console command (cmdline "mp_damage_scale_t_body .1")
+L 12/01/2020 - 22:07:35: [basecommands.smx] "dylaN<139><STEAM_1:0:552508106><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 12/01/2020 - 22:07:54: [basecommands.smx] "dylaN<139><STEAM_1:0:552508106><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 12/01/2020 - 22:08:04: [basecommands.smx] "dylaN<139><STEAM_1:0:552508106><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 12/01/2020 - 22:08:07: [basecommands.smx] "dylaN<139><STEAM_1:0:552508106><>" console command (cmdline "mp_damage_scale_t_head 1")
+L 12/01/2020 - 22:16:28: [basecommands.smx] "dylaN<139><STEAM_1:0:552508106><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 12/01/2020 - 22:17:41: [basecommands.smx] "dylaN<139><STEAM_1:0:552508106><>" console command (cmdline "mp_damage_scale_ct_head")
+L 12/01/2020 - 23:43:06: -------- Mapchange to de_overpass --------
+L 12/02/2020 - 14:34:10: Log file closed.

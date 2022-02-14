@@ -1,0 +1,303 @@
+L 12/14/2021 - 20:55:44: SourceMod error session started
+L 12/14/2021 - 20:55:44: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 20:55:44: [SM] Exception reported: [SurfTimer] Unable to connect to database (Configuration "surftimer" not found)
+L 12/14/2021 - 20:55:44: [SM] Blaming: SurfTimer.smx
+L 12/14/2021 - 20:55:44: [SM] Call stack trace:
+L 12/14/2021 - 20:55:44: [SM]   [0] SetFailState
+L 12/14/2021 - 20:55:44: [SM]   [1] Line 17, surftimer/sql.sp::db_setupDatabase
+L 12/14/2021 - 20:55:44: [SM]   [2] Line 2670, SurfTimer.sp::OnPluginStart
+L 12/14/2021 - 20:55:44: [SM] Unable to load plugin "SurfTimer.smx": Error detected in plugin startup (see error logs)
+L 12/14/2021 - 20:55:47: Error log file session closed.
+L 12/14/2021 - 20:57:33: SourceMod error session started
+L 12/14/2021 - 20:57:33: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 20:57:33: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 20:57:33: [SM] Exception reported: Failed to create native "surftimer_GetTimerStatus", name is probably already in use
+L 12/14/2021 - 20:57:33: [SM] Blaming: SurfTimer.smx
+L 12/14/2021 - 20:57:33: [SM] Call stack trace:
+L 12/14/2021 - 20:57:33: [SM]   [0] CreateNative
+L 12/14/2021 - 20:57:33: [SM]   [1] Line 2924, SurfTimer.sp::AskPluginLoad2
+L 12/14/2021 - 20:57:33: [SM] Failed to load plugin "SurfTimer.smx": unexpected error 23 in AskPluginLoad callback.
+L 12/14/2021 - 20:57:33: [SM] Exception reported: [Surftimer] Unable to connect to database (Configuration "surftimer" not found)
+L 12/14/2021 - 20:57:33: [SM] Blaming: surftimer.smx
+L 12/14/2021 - 20:57:33: [SM] Call stack trace:
+L 12/14/2021 - 20:57:33: [SM]   [0] SetFailState
+L 12/14/2021 - 20:57:33: [SM]   [1] Line 17, surftimer/sql.sp::db_setupDatabase
+L 12/14/2021 - 20:57:33: [SM]   [2] Line 2680, surftimer.sp::OnPluginStart
+L 12/14/2021 - 20:57:33: [SM] Unable to load plugin "surftimer.smx": Error detected in plugin startup (see error logs)
+L 12/14/2021 - 20:57:33: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 20:57:45: Error log file session closed.
+L 12/14/2021 - 20:59:59: SourceMod error session started
+L 12/14/2021 - 20:59:59: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 20:59:59: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 20:59:59: [SM] Exception reported: Failed to create native "surftimer_GetTimerStatus", name is probably already in use
+L 12/14/2021 - 20:59:59: [SM] Blaming: SurfTimer.smx
+L 12/14/2021 - 20:59:59: [SM] Call stack trace:
+L 12/14/2021 - 20:59:59: [SM]   [0] CreateNative
+L 12/14/2021 - 20:59:59: [SM]   [1] Line 2924, SurfTimer.sp::AskPluginLoad2
+L 12/14/2021 - 20:59:59: [SM] Failed to load plugin "SurfTimer.smx": unexpected error 23 in AskPluginLoad callback.
+L 12/14/2021 - 20:59:59: [SM] Exception reported: [Surftimer] Unable to connect to database (Configuration "surftimer" not found)
+L 12/14/2021 - 20:59:59: [SM] Blaming: surftimer.smx
+L 12/14/2021 - 20:59:59: [SM] Call stack trace:
+L 12/14/2021 - 20:59:59: [SM]   [0] SetFailState
+L 12/14/2021 - 20:59:59: [SM]   [1] Line 17, surftimer/sql.sp::db_setupDatabase
+L 12/14/2021 - 20:59:59: [SM]   [2] Line 2680, surftimer.sp::OnPluginStart
+L 12/14/2021 - 20:59:59: [SM] Unable to load plugin "surftimer.smx": Error detected in plugin startup (see error logs)
+L 12/14/2021 - 20:59:59: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 21:00:02: Error log file session closed.
+L 12/14/2021 - 21:03:12: SourceMod error session started
+L 12/14/2021 - 21:03:12: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 21:03:12: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 21:03:12: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 21:03:16: Error log file session closed.
+L 12/14/2021 - 21:07:27: SourceMod error session started
+L 12/14/2021 - 21:07:27: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 21:07:27: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 21:07:27: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 21:07:59: Error log file session closed.
+L 12/14/2021 - 21:08:07: SourceMod error session started
+L 12/14/2021 - 21:08:07: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 21:08:07: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 21:08:07: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 21:08:07: [SM] Exception reported: [SurfTimer] Database tables could not be created! Error: Lost connection to MySQL server during query
+L 12/14/2021 - 21:08:07: [SM] Blaming: SurfTimer.smx
+L 12/14/2021 - 21:08:07: [SM] Call stack trace:
+L 12/14/2021 - 21:08:07: [SM]   [0] SetFailState
+L 12/14/2021 - 21:08:07: [SM]   [1] Line 117, surftimer/sql.sp::SQLTxn_CreateDatabaseFailed
+L 12/14/2021 - 21:08:10: Error log file session closed.
+L 12/14/2021 - 21:08:11: SourceMod error session started
+L 12/14/2021 - 21:08:11: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 21:08:11: [SurfTimer.smx] [SurfTimer] SQL Error (sql_selectMapRecordCallback): Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'surf_server.ck_playertimes.name' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+L 12/14/2021 - 21:08:11: [SurfTimer.smx] [SurfTimer] SQL Error (SQL_selectFastestBonusCallback): Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'surf_server.ck_bonus.name' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+L 12/14/2021 - 21:08:11: [SurfTimer.smx] [SurfTimer] SQL Error (SQL_selectBonusCountCallback): Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'surf_server.ck_zones.zoneid' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+L 12/14/2021 - 21:08:11: [SurfTimer.smx] [SurfTimer] SQL Error (sql_selectRecordCheckpointsCallback): Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'surf_server.b.cp1' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+L 12/14/2021 - 21:09:38: Error log file session closed.
+L 12/14/2021 - 21:09:39: SourceMod error session started
+L 12/14/2021 - 21:09:39: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 21:09:39: [SurfTimer.smx] [SurfTimer] SQL Error (sql_selectMapRecordCallback): Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'surf_server.ck_playertimes.name' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+L 12/14/2021 - 21:09:39: [SurfTimer.smx] [SurfTimer] SQL Error (SQL_selectFastestBonusCallback): Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'surf_server.ck_bonus.name' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+L 12/14/2021 - 21:09:39: [SurfTimer.smx] [SurfTimer] SQL Error (SQL_selectBonusCountCallback): Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'surf_server.ck_zones.zoneid' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+L 12/14/2021 - 21:09:39: [SurfTimer.smx] [SurfTimer] SQL Error (sql_selectRecordCheckpointsCallback): Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'surf_server.b.cp1' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+L 12/14/2021 - 21:10:29: Error log file session closed.
+L 12/14/2021 - 21:10:34: SourceMod error session started
+L 12/14/2021 - 21:10:34: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 21:10:34: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 21:10:34: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 21:11:15: Error log file session closed.
+L 12/14/2021 - 21:32:47: SourceMod error session started
+L 12/14/2021 - 21:32:47: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 21:32:47: [SurfTimer.smx] [SurfTimer] SQL Error (db_editSpawnLocationsCallback): Duplicate entry 'surf_utopia_noble-0-0-0' for key 'ck_spawnlocations.PRIMARY' 
+L 12/14/2021 - 21:39:36: Error log file session closed.
+L 12/14/2021 - 21:39:45: SourceMod error session started
+L 12/14/2021 - 21:39:45: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 21:39:45: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 21:39:45: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 21:39:45: [SM] Error parsing gameconfig file "/home/steam/surf/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/14/2021 - 21:39:45: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/14/2021 - 21:39:45: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/14/2021 - 21:39:45: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/14/2021 - 21:39:45: [SM] Call stack trace:
+L 12/14/2021 - 21:39:45: [SM]   [0] LoadGameConfigFile
+L 12/14/2021 - 21:39:45: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/14/2021 - 21:39:45: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/14/2021 - 21:39:48: Error log file session closed.
+L 12/14/2021 - 21:52:46: SourceMod error session started
+L 12/14/2021 - 21:52:46: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 21:52:46: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 21:52:46: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 21:52:46: [SM] Error parsing gameconfig file "/home/steam/surf/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/14/2021 - 21:52:46: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/14/2021 - 21:52:46: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/14/2021 - 21:52:46: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/14/2021 - 21:52:46: [SM] Call stack trace:
+L 12/14/2021 - 21:52:46: [SM]   [0] LoadGameConfigFile
+L 12/14/2021 - 21:52:46: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/14/2021 - 21:52:46: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/14/2021 - 21:53:06: Error log file session closed.
+L 12/14/2021 - 21:59:37: SourceMod error session started
+L 12/14/2021 - 21:59:37: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 21:59:37: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 21:59:37: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 21:59:37: [SM] Error parsing gameconfig file "/home/steam/surf/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/14/2021 - 21:59:37: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/14/2021 - 21:59:37: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/14/2021 - 21:59:37: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/14/2021 - 21:59:37: [SM] Call stack trace:
+L 12/14/2021 - 21:59:37: [SM]   [0] LoadGameConfigFile
+L 12/14/2021 - 21:59:37: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/14/2021 - 21:59:37: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/14/2021 - 22:00:34: Error log file session closed.
+L 12/14/2021 - 22:04:05: SourceMod error session started
+L 12/14/2021 - 22:04:05: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 22:04:05: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 22:04:05: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 22:04:05: [SM] Error parsing gameconfig file "/home/steam/surf/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/14/2021 - 22:04:05: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/14/2021 - 22:04:05: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/14/2021 - 22:04:05: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/14/2021 - 22:04:05: [SM] Call stack trace:
+L 12/14/2021 - 22:04:05: [SM]   [0] LoadGameConfigFile
+L 12/14/2021 - 22:04:05: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/14/2021 - 22:04:05: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/14/2021 - 22:04:08: Error log file session closed.
+L 12/14/2021 - 22:04:51: SourceMod error session started
+L 12/14/2021 - 22:04:51: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 22:04:51: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 22:04:51: [SM] Unable to load plugin "oryx-sanity.smx": Could not find required plugin "oryx"
+L 12/14/2021 - 22:04:51: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 22:04:51: [SM] Error parsing gameconfig file "/home/steam/surf/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/14/2021 - 22:04:51: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/14/2021 - 22:04:51: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/14/2021 - 22:04:51: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/14/2021 - 22:04:51: [SM] Call stack trace:
+L 12/14/2021 - 22:04:51: [SM]   [0] LoadGameConfigFile
+L 12/14/2021 - 22:04:51: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/14/2021 - 22:04:51: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/14/2021 - 22:05:50: Error log file session closed.
+L 12/14/2021 - 22:08:11: SourceMod error session started
+L 12/14/2021 - 22:08:11: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 22:08:11: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 22:08:12: [SM] Unable to load plugin "oryx-sanity.smx": Could not find required plugin "oryx"
+L 12/14/2021 - 22:08:12: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 22:08:12: [SM] Error parsing gameconfig file "/home/steam/surf/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/14/2021 - 22:08:12: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/14/2021 - 22:08:12: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/14/2021 - 22:08:12: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/14/2021 - 22:08:12: [SM] Call stack trace:
+L 12/14/2021 - 22:08:12: [SM]   [0] LoadGameConfigFile
+L 12/14/2021 - 22:08:12: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/14/2021 - 22:08:12: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/14/2021 - 22:08:14: Error log file session closed.
+L 12/14/2021 - 22:10:10: SourceMod error session started
+L 12/14/2021 - 22:10:10: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 22:10:10: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 22:10:10: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 22:10:10: [SM] Error parsing gameconfig file "/home/steam/surf/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/14/2021 - 22:10:10: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/14/2021 - 22:10:10: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/14/2021 - 22:10:10: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/14/2021 - 22:10:10: [SM] Call stack trace:
+L 12/14/2021 - 22:10:10: [SM]   [0] LoadGameConfigFile
+L 12/14/2021 - 22:10:10: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/14/2021 - 22:10:10: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/14/2021 - 22:10:14: Error log file session closed.
+L 12/14/2021 - 22:14:07: SourceMod error session started
+L 12/14/2021 - 22:14:07: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 22:14:07: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 22:14:07: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 22:14:07: [SM] Error parsing gameconfig file "/home/steam/surf/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/14/2021 - 22:14:07: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/14/2021 - 22:14:07: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/14/2021 - 22:14:07: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/14/2021 - 22:14:07: [SM] Call stack trace:
+L 12/14/2021 - 22:14:07: [SM]   [0] LoadGameConfigFile
+L 12/14/2021 - 22:14:07: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/14/2021 - 22:14:07: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/14/2021 - 22:14:10: Error log file session closed.
+L 12/14/2021 - 22:14:49: SourceMod error session started
+L 12/14/2021 - 22:14:49: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 22:14:49: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 22:14:49: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 22:14:49: [SM] Error parsing gameconfig file "/home/steam/surf/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/14/2021 - 22:14:49: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/14/2021 - 22:14:49: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/14/2021 - 22:14:49: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/14/2021 - 22:14:49: [SM] Call stack trace:
+L 12/14/2021 - 22:14:49: [SM]   [0] LoadGameConfigFile
+L 12/14/2021 - 22:14:49: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/14/2021 - 22:14:49: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/14/2021 - 22:15:48: Error log file session closed.
+L 12/14/2021 - 22:25:07: SourceMod error session started
+L 12/14/2021 - 22:25:07: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 22:25:07: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 22:25:07: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 22:25:07: [SM] Error parsing gameconfig file "/home/steam/surf/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/14/2021 - 22:25:07: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/14/2021 - 22:25:07: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/14/2021 - 22:25:07: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/14/2021 - 22:25:07: [SM] Call stack trace:
+L 12/14/2021 - 22:25:07: [SM]   [0] LoadGameConfigFile
+L 12/14/2021 - 22:25:07: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/14/2021 - 22:25:07: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/14/2021 - 22:25:12: Error log file session closed.
+L 12/14/2021 - 22:27:19: SourceMod error session started
+L 12/14/2021 - 22:27:19: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 22:27:19: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 22:27:19: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 22:27:19: [SM] Error parsing gameconfig file "/home/steam/surf/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/14/2021 - 22:27:19: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/14/2021 - 22:27:19: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/14/2021 - 22:27:19: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/14/2021 - 22:27:19: [SM] Call stack trace:
+L 12/14/2021 - 22:27:19: [SM]   [0] LoadGameConfigFile
+L 12/14/2021 - 22:27:19: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/14/2021 - 22:27:19: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/14/2021 - 22:27:21: Error log file session closed.
+L 12/14/2021 - 22:31:49: SourceMod error session started
+L 12/14/2021 - 22:31:49: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 22:31:49: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 22:31:49: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 22:31:49: [SM] Error parsing gameconfig file "/home/steam/surf/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/14/2021 - 22:31:49: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/14/2021 - 22:31:49: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/14/2021 - 22:31:49: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/14/2021 - 22:31:49: [SM] Call stack trace:
+L 12/14/2021 - 22:31:49: [SM]   [0] LoadGameConfigFile
+L 12/14/2021 - 22:31:49: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/14/2021 - 22:31:49: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/14/2021 - 22:31:51: Error log file session closed.
+L 12/14/2021 - 22:32:31: SourceMod error session started
+L 12/14/2021 - 22:32:31: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 22:32:31: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 22:32:31: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 22:32:31: [SM] Error parsing gameconfig file "/home/steam/surf/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/14/2021 - 22:32:31: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/14/2021 - 22:32:31: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/14/2021 - 22:32:31: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/14/2021 - 22:32:31: [SM] Call stack trace:
+L 12/14/2021 - 22:32:31: [SM]   [0] LoadGameConfigFile
+L 12/14/2021 - 22:32:31: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/14/2021 - 22:32:31: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/14/2021 - 22:33:08: Error log file session closed.
+L 12/14/2021 - 22:33:15: SourceMod error session started
+L 12/14/2021 - 22:33:15: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 22:33:15: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 22:33:15: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 22:33:16: [SM] Error parsing gameconfig file "/home/steam/surf/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/14/2021 - 22:33:16: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/14/2021 - 22:33:16: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/14/2021 - 22:33:16: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/14/2021 - 22:33:16: [SM] Call stack trace:
+L 12/14/2021 - 22:33:16: [SM]   [0] LoadGameConfigFile
+L 12/14/2021 - 22:33:16: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/14/2021 - 22:33:16: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/14/2021 - 22:33:19: Error log file session closed.
+L 12/14/2021 - 22:35:46: SourceMod error session started
+L 12/14/2021 - 22:35:46: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 22:35:46: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 22:35:46: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 22:35:46: [SM] Error parsing gameconfig file "/home/steam/surf/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/14/2021 - 22:35:46: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/14/2021 - 22:35:46: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/14/2021 - 22:35:46: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/14/2021 - 22:35:46: [SM] Call stack trace:
+L 12/14/2021 - 22:35:46: [SM]   [0] LoadGameConfigFile
+L 12/14/2021 - 22:35:46: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/14/2021 - 22:35:46: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/14/2021 - 22:35:50: Error log file session closed.
+L 12/14/2021 - 23:58:00: SourceMod error session started
+L 12/14/2021 - 23:58:00: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211214.log")
+L 12/14/2021 - 23:58:00: [SM] Detected parse error(s) in file "/home/steam/surf/csgo/addons/sourcemod/configs/databases.cfg"
+L 12/14/2021 - 23:58:00: [SM] Line 55: Section beginning without a matching ending
+L 12/14/2021 - 23:58:00: [SM] Unable to load extension "PTaH.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/PTaH.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 23:58:00: [SM] Unable to load extension "SteamWorks.ext": /home/steam/surf/csgo/addons/sourcemod/extensions/SteamWorks.ext.so: cannot open shared object file: No such file or directory
+L 12/14/2021 - 23:58:00: [SM] Unable to load plugin "weapons.smx": Required extension "PTaH" file("PTaH.ext") not running
+L 12/14/2021 - 23:58:00: [SM] Unable to load plugin "discord_api.smx": Required extension "SteamWorks" file("SteamWorks.ext") not running
+L 12/14/2021 - 23:58:00: [SM] Error parsing gameconfig file "/home/steam/surf/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/14/2021 - 23:58:00: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/14/2021 - 23:58:00: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/14/2021 - 23:58:00: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/14/2021 - 23:58:00: [SM] Call stack trace:
+L 12/14/2021 - 23:58:00: [SM]   [0] LoadGameConfigFile
+L 12/14/2021 - 23:58:00: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/14/2021 - 23:58:00: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/15/2021 - 00:08:11: Error log file session closed.

@@ -1,0 +1,12 @@
+L 09/03/2020 - 15:58:26: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200903.log") (Version "1.10.0.6490")
+L 09/03/2020 - 15:58:26: [basechat.smx] "kr0md<22><STEAM_1:0:125290236><>" triggered sm_say (text dont)
+L 09/03/2020 - 15:59:03: [basechat.smx] "kr0md<22><STEAM_1:0:125290236><>" triggered sm_say (text back)
+L 09/03/2020 - 16:01:23: [basechat.smx] "kr0md<22><STEAM_1:0:125290236><>" triggered sm_say (text Server might go down. Server owner doing shit)
+L 09/03/2020 - 16:06:50: [basecommands.smx] "kr0md<22><STEAM_1:0:125290236><>" console command (cmdline "address")
+L 09/03/2020 - 16:06:55: [basecommands.smx] "kr0md<22><STEAM_1:0:125290236><>" console command (cmdline "status")
+L 09/03/2020 - 16:11:47: [basecommands.smx] "kr0md<22><STEAM_1:0:125290236><>" console command (cmdline "status")
+L 09/03/2020 - 18:32:08: -------- Mapchange to de_dust2 --------
+L 09/03/2020 - 18:35:09: [basecommands.smx] "Leo Dooly<25><STEAM_1:0:109554979><>" changed map to "mirage"
+L 09/03/2020 - 18:35:12: [SM] Changed map to "mirage"
+L 09/03/2020 - 18:35:13: -------- Mapchange to de_mirage --------
+L 09/03/2020 - 21:05:41: -------- Mapchange to de_mirage --------

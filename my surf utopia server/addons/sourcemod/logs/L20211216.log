@@ -1,0 +1,65 @@
+L 12/16/2021 - 06:28:05: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211216.log") (Version "1.10.0.6528")
+L 12/16/2021 - 06:28:05: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/16/2021 - 06:28:05: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 12/16/2021 - 06:28:05: [afk_manager4.smx] [AFK Manager] Log File: addons/sourcemod/logs/afkm_20211216.log
+L 12/16/2021 - 06:28:05: [afk_manager4.smx] [AFK Manager] Detected Mod Counter-Strike: Global Offensive
+L 12/16/2021 - 06:28:56: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211216.log") (Version "1.10.0.6528")
+L 12/16/2021 - 06:28:56: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/16/2021 - 06:28:57: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 12/16/2021 - 06:28:57: [afk_manager4.smx] [AFK Manager] Log File: addons/sourcemod/logs/afkm_20211216.log
+L 12/16/2021 - 06:28:57: [afk_manager4.smx] [AFK Manager] Detected Mod Counter-Strike: Global Offensive
+L 12/16/2021 - 06:28:58: [weapons.smx] MySQL DB connection successful
+L 12/16/2021 - 06:28:58: [weapons.smx] Inactive players' data has been deleted
+L 12/16/2021 - 06:29:00: [goldenknife.smx] Hooked Cvars
+L 12/16/2021 - 06:29:38: -------- Mapchange to surf_utopia_noble --------
+L 12/16/2021 - 06:29:39: [weapons.smx] Inactive players' data has been deleted
+L 12/16/2021 - 09:16:51: -------- Mapchange to surf_utopia_noble --------
+L 12/16/2021 - 09:16:52: [weapons.smx] Inactive players' data has been deleted
+L 12/16/2021 - 10:45:46: -------- Mapchange to surf_utopia_noble --------
+L 12/16/2021 - 10:45:47: [weapons.smx] Inactive players' data has been deleted
+L 12/16/2021 - 14:42:55: -------- Mapchange to surf_utopia_noble --------
+L 12/16/2021 - 14:42:56: [weapons.smx] Inactive players' data has been deleted
+L 12/16/2021 - 15:03:56: -------- Mapchange to surf_utopia_noble --------
+L 12/16/2021 - 15:03:57: [weapons.smx] Inactive players' data has been deleted
+L 12/16/2021 - 16:34:27: -------- Mapchange to surf_utopia_noble --------
+L 12/16/2021 - 16:34:28: [weapons.smx] Inactive players' data has been deleted
+L 12/16/2021 - 16:36:24: -------- Mapchange to surf_utopia_noble --------
+L 12/16/2021 - 16:36:25: [weapons.smx] Inactive players' data has been deleted
+L 12/16/2021 - 16:58:34: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 16:58:42: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 16:59:32: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:01:45: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:01:50: [playercommands.smx] "pot head<48><STEAM_1:0:23861894><>" slapped "pot head<48><STEAM_1:0:23861894><>" (damage "0")
+L 12/16/2021 - 17:01:51: [playercommands.smx] "pot head<48><STEAM_1:0:23861894><>" slapped "pot head<48><STEAM_1:0:23861894><>" (damage "0")
+L 12/16/2021 - 17:01:52: [playercommands.smx] "pot head<48><STEAM_1:0:23861894><>" slapped "pot head<48><STEAM_1:0:23861894><>" (damage "1")
+L 12/16/2021 - 17:01:54: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:01:57: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:01:59: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:02:04: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:02:04: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:02:07: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:02:26: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:02:50: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:04:28: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:04:39: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:04:40: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:04:41: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:04:41: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:04:42: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:04:43: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:04:57: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:04:59: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:05:03: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:05:09: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:05:11: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:05:13: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:05:14: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:07:09: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:07:28: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:07:57: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 17:08:25: [funcommands.smx] "pot head<48><STEAM_1:0:23861894><>" toggled noclip on "pot head<48><STEAM_1:0:23861894><>"
+L 12/16/2021 - 20:05:59: -------- Mapchange to surf_utopia_noble --------
+L 12/16/2021 - 20:06:00: [weapons.smx] Inactive players' data has been deleted
+L 12/16/2021 - 20:43:59: -------- Mapchange to surf_utopia_noble --------
+L 12/16/2021 - 20:44:00: [weapons.smx] Inactive players' data has been deleted
+L 12/17/2021 - 00:40:37: Log file closed.

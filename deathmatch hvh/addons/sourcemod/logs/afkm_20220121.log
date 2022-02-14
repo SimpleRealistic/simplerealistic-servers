@@ -1,0 +1,2 @@
+L 01/21/2022 - 16:29:40: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 01/21/2022 - 16:30:05: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3

@@ -1,0 +1,21 @@
+L 09/26/2020 - 11:50:50: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20200926.log") (Version "1.10.0.6490")
+L 09/26/2020 - 11:50:50: -------- Mapchange to de_dust2 --------
+L 09/26/2020 - 12:21:03: -------- Mapchange to de_dust2 --------
+L 09/26/2020 - 17:08:00: -------- Mapchange to de_dust2 --------
+L 09/26/2020 - 17:10:32: -------- Mapchange to de_dust2 --------
+L 09/26/2020 - 17:30:48: [basechat.smx] "deep<45><STEAM_1:1:508039303><>" triggered sm_say (text join vc)
+L 09/26/2020 - 17:30:48: [basechat.smx] "deep<45><STEAM_1:1:508039303><>" triggered sm_say (text join vc)
+L 09/26/2020 - 17:30:48: [basechat.smx] "deep<45><STEAM_1:1:508039303><>" triggered sm_say (text join vc)
+L 09/26/2020 - 17:30:48: [basechat.smx] "deep<45><STEAM_1:1:508039303><>" triggered sm_say (text join vc)
+L 09/26/2020 - 17:30:49: [basechat.smx] "deep<45><STEAM_1:1:508039303><>" triggered sm_say (text join vc)
+L 09/26/2020 - 17:30:49: [basechat.smx] "deep<45><STEAM_1:1:508039303><>" triggered sm_say (text join vc)
+L 09/26/2020 - 18:26:45: -------- Mapchange to de_mirage --------
+L 09/26/2020 - 18:27:45: [playercommands.smx] "deep<49><STEAM_1:1:508039303><>" renamed "deep<49><STEAM_1:1:508039303><>" (to "youtube.com/dylanhook")
+L 09/26/2020 - 18:41:28: [basecommands.smx] "youtube.com/dylanhook<49><STEAM_1:1:508039303><>" console command (cmdline "sm_unpause ")
+L 09/26/2020 - 18:46:44: [playercommands.smx] "youtube.com/dylanhook<49><STEAM_1:1:508039303><>" slapped "alexpsp00<47><STEAM_1:0:88446723><>" (damage "0")
+L 09/26/2020 - 18:46:56: [playercommands.smx] "youtube.com/dylanhook<49><STEAM_1:1:508039303><>" slapped "super gamer<59><STEAM_1:0:555117119><>" (damage "0")
+L 09/26/2020 - 18:46:57: [playercommands.smx] "youtube.com/dylanhook<49><STEAM_1:1:508039303><>" slapped "super gamer<59><STEAM_1:0:555117119><>" (damage "0")
+L 09/26/2020 - 18:46:58: [playercommands.smx] "youtube.com/dylanhook<49><STEAM_1:1:508039303><>" slapped "super gamer<59><STEAM_1:0:555117119><>" (damage "0")
+L 09/26/2020 - 18:46:58: [playercommands.smx] "youtube.com/dylanhook<49><STEAM_1:1:508039303><>" slapped "super gamer<59><STEAM_1:0:555117119><>" (damage "0")
+L 09/26/2020 - 18:47:02: [playercommands.smx] "youtube.com/dylanhook<49><STEAM_1:1:508039303><>" slapped "super gamer<59><STEAM_1:0:555117119><>" (damage "0")
+L 09/27/2020 - 19:12:48: Log file closed.

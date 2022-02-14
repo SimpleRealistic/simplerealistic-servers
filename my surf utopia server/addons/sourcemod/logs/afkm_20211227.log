@@ -1,0 +1,6 @@
+L 12/27/2021 - 01:06:52: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/27/2021 - 01:07:52: [afk_manager4.smx] TheeRealWill<1313><STEAM_1:0:603275299><> was moved to spectate for being AFK too long.
+L 12/27/2021 - 01:16:05: [afk_manager4.smx] Butter Dog...<1325><STEAM_1:1:547536451><> was moved to spectate for being AFK too long.
+L 12/27/2021 - 01:16:09: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 12/28/2021 - 00:22:24: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/28/2021 - 00:37:03: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3

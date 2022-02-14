@@ -1,0 +1,14 @@
+L 01/04/2022 - 18:41:44: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 01/04/2022 - 19:04:34: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 01/04/2022 - 22:07:43: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 01/04/2022 - 22:11:09: [afk_manager4.smx] ?<9><STEAM_1:1:561538477><> was moved to spectate for being AFK too long.
+L 01/04/2022 - 22:13:29: [afk_manager4.smx] ?<9><STEAM_1:1:561538477><> was moved to spectate for being AFK too long.
+L 01/04/2022 - 22:15:28: [afk_manager4.smx] ?<9><STEAM_1:1:561538477><> was moved to spectate for being AFK too long.
+L 01/04/2022 - 22:17:59: [afk_manager4.smx] ?<9><STEAM_1:1:561538477><> was moved to spectate for being AFK too long.
+L 01/04/2022 - 22:19:15: [afk_manager4.smx] ?<9><STEAM_1:1:561538477><> was moved to spectate for being AFK too long.
+L 01/04/2022 - 22:23:29: [afk_manager4.smx] Player count for AFK Kick minimum has been reached, feature is now enabled: sm_afk_kick_min_players = 6 Current Players = 6
+L 01/04/2022 - 22:23:55: [afk_manager4.smx] П<11><STEAM_1:1:17977136><> was moved to spectate for being AFK too long.
+L 01/04/2022 - 22:30:20: [afk_manager4.smx] П<11><STEAM_1:1:17977136><> was moved to spectate for being AFK too long.
+L 01/04/2022 - 22:43:52: [afk_manager4.smx] Player count for AFK Kick minimum is below requirements, feature is now disabled: sm_afk_kick_min_players = 6 Current Players = 5
+L 01/04/2022 - 22:48:13: [afk_manager4.smx] П<11><STEAM_1:1:17977136><> was moved to spectate for being AFK too long.
+L 01/04/2022 - 23:01:56: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3

@@ -1,0 +1,50 @@
+L 01/31/2022 - 12:41:23: SourceMod error session started
+L 01/31/2022 - 12:41:23: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20220131.log")
+L 01/31/2022 - 12:41:23: [SM] Exception reported: Entity 2 (2) is invalid
+L 01/31/2022 - 12:41:23: [SM] Blaming: DisableRadar.smx
+L 01/31/2022 - 12:41:23: [SM] Call stack trace:
+L 01/31/2022 - 12:41:23: [SM]   [0] GetEntProp
+L 01/31/2022 - 12:41:23: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 01/31/2022 - 12:41:23: [SM] Exception reported: Entity 2 (2) is invalid
+L 01/31/2022 - 12:41:23: [SM] Blaming: DisableRadar.smx
+L 01/31/2022 - 12:41:23: [SM] Call stack trace:
+L 01/31/2022 - 12:41:23: [SM]   [0] GetEntProp
+L 01/31/2022 - 12:41:23: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 01/31/2022 - 13:02:47: Error log file session closed.
+L 01/31/2022 - 14:52:14: SourceMod error session started
+L 01/31/2022 - 14:52:14: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20220131.log")
+L 01/31/2022 - 14:52:14: [SM] Exception reported: Entity 2 (2) is invalid
+L 01/31/2022 - 14:52:14: [SM] Blaming: DisableRadar.smx
+L 01/31/2022 - 14:52:14: [SM] Call stack trace:
+L 01/31/2022 - 14:52:14: [SM]   [0] GetEntProp
+L 01/31/2022 - 14:52:14: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 01/31/2022 - 14:52:14: [SM] Exception reported: Entity 2 (2) is invalid
+L 01/31/2022 - 14:52:14: [SM] Blaming: DisableRadar.smx
+L 01/31/2022 - 14:52:14: [SM] Call stack trace:
+L 01/31/2022 - 14:52:14: [SM]   [0] GetEntProp
+L 01/31/2022 - 14:52:14: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 01/31/2022 - 15:12:17: Error log file session closed.
+L 01/31/2022 - 15:12:42: SourceMod error session started
+L 01/31/2022 - 15:12:42: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20220131.log")
+L 01/31/2022 - 15:12:42: [SM] Exception reported: Entity 2 (2) is invalid
+L 01/31/2022 - 15:12:42: [SM] Blaming: DisableRadar.smx
+L 01/31/2022 - 15:12:42: [SM] Call stack trace:
+L 01/31/2022 - 15:12:42: [SM]   [0] GetEntProp
+L 01/31/2022 - 15:12:42: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 01/31/2022 - 15:12:42: [SM] Exception reported: Entity 2 (2) is invalid
+L 01/31/2022 - 15:12:42: [SM] Blaming: DisableRadar.smx
+L 01/31/2022 - 15:12:42: [SM] Call stack trace:
+L 01/31/2022 - 15:12:42: [SM]   [0] GetEntProp
+L 01/31/2022 - 15:12:42: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 01/31/2022 - 22:47:39: SourceMod error session started
+L 01/31/2022 - 22:47:39: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20220131.log")
+L 01/31/2022 - 22:47:39: [SM] Unable to load plugin "rockthevote.smx": Could not find required plugin "mapchooser"
+L 01/31/2022 - 22:47:39: [SM] Error parsing gameconfig file "/home/steam/deathmatch/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 01/31/2022 - 22:47:39: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 01/31/2022 - 22:47:39: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 01/31/2022 - 22:47:39: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 01/31/2022 - 22:47:39: [SM] Call stack trace:
+L 01/31/2022 - 22:47:39: [SM]   [0] LoadGameConfigFile
+L 01/31/2022 - 22:47:39: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 01/31/2022 - 22:47:39: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 01/31/2022 - 23:41:56: Error log file session closed.

@@ -1,0 +1,28 @@
+L 08/16/2020 - 20:55:54: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200816.log") (Version "1.10.0.6490")
+L 08/16/2020 - 20:55:54: -------- Mapchange to de_mirage --------
+L 08/16/2020 - 22:28:22: -------- Mapchange to de_mirage --------
+L 08/16/2020 - 23:04:29: -------- Mapchange to de_overpass --------
+L 08/16/2020 - 23:10:31: [basechat.smx] "kr0md<495><STEAM_1:0:125290236><>" triggered sm_say (text Can't change replicated ConVar sv_airaccelerate from console of client, only server operator can change its value)
+L 08/16/2020 - 23:10:50: [basechat.smx] "kr0md<495><STEAM_1:0:125290236><>" triggered sm_say (text I don't have rcon pass)
+L 08/16/2020 - 23:12:29: [basechat.smx] "kr0md<495><STEAM_1:0:125290236><>" triggered sm_say (text  !cvar sv_airaccerelate 100)
+L 08/16/2020 - 23:13:08: [basechat.smx] "kr0md<495><STEAM_1:0:125290236><>" triggered sm_say (text [SM] Unable to find cvar: sv_airaccerelate)
+L 08/16/2020 - 23:14:45: [basechat.smx] "kr0md<495><STEAM_1:0:125290236><>" triggered sm_say (text [SM] Unable to find cvar: sv_airaccerelate)
+L 08/16/2020 - 23:14:46: [basechat.smx] "kr0md<495><STEAM_1:0:125290236><>" triggered sm_say (text [SM] Unable to find cvar: sv_airaccerelate)
+L 08/16/2020 - 23:14:47: [basechat.smx] "kr0md<495><STEAM_1:0:125290236><>" triggered sm_say (text [SM] Unable to find cvar: sv_airaccerelate)
+L 08/16/2020 - 23:14:57: [basechat.smx] "kr0md<495><STEAM_1:0:125290236><>" triggered sm_say (text I don't have rcon password)
+L 08/16/2020 - 23:15:48: [basecommands.smx] "kr0md<495><STEAM_1:0:125290236><>" changed cvar (cvar "sv_airaccelerate") (value "100")
+L 08/16/2020 - 23:15:57: [basechat.smx] "kr0md<495><STEAM_1:0:125290236><>" triggered sm_say (text !cvar sv_airaccelerate 100)
+L 08/16/2020 - 23:17:05: [basechat.smx] "kr0md<495><STEAM_1:0:125290236><>" triggered sm_say (text wat)
+L 08/16/2020 - 23:17:45: [basebans.smx] "kr0md<495><STEAM_1:0:125290236><>" banned "Egzit.RVG<509><STEAM_1:1:439817112><>" (minutes "5") (reason "")
+L 08/16/2020 - 23:20:10: [basebans.smx] "Console<0><Console><Console>" removed ban (filter "76561198839899953")
+L 08/16/2020 - 23:20:30: [basebans.smx] "Console<0><Console><Console>" removed ban (filter "76561198839899953")
+L 08/16/2020 - 23:21:44: [basebans.smx] "kr0md<495><STEAM_1:0:125290236><>" banned "Egzit.RVG<511><STEAM_1:1:439817112><>" (minutes "0") (reason "5v5")
+L 08/16/2020 - 23:22:01: [basebans.smx] "kr0md<495><STEAM_1:0:125290236><>" banned "Egzit.RVG<512><STEAM_1:1:439817112><>" (minutes "0") (reason "")
+L 08/16/2020 - 23:22:19: [basebans.smx] "kr0md<495><STEAM_1:0:125290236><>" banned "Egzit.RVG<513><STEAM_1:1:439817112><>" (minutes "0") (reason "")
+L 08/16/2020 - 23:22:35: [basebans.smx] "kr0md<495><STEAM_1:0:125290236><>" banned "Egzit.RVG<514><STEAM_1:1:439817112><>" (minutes "0") (reason "")
+L 08/16/2020 - 23:22:49: [basechat.smx] "kr0md<495><STEAM_1:0:125290236><>" triggered sm_say (text nice server plugin)
+L 08/16/2020 - 23:23:19: [basebans.smx] "kr0md<495><STEAM_1:0:125290236><>" banned "Egzit.RVG<515><STEAM_1:1:439817112><>" (minutes "0") (reason "Other")
+L 08/16/2020 - 23:23:36: [basechat.smx] "kr0md<495><STEAM_1:0:125290236><>" triggered sm_say (text nice server plugin dylan)
+L 08/16/2020 - 23:23:47: [basecommands.smx] "kr0md<495><STEAM_1:0:125290236><>" kicked "Egzit.RVG<516><STEAM_1:1:439817112><>" (reason "")
+L 08/16/2020 - 23:24:09: [basechat.smx] "kr0md<495><STEAM_1:0:125290236><>" triggered sm_say (text this server lol)
+L 08/17/2020 - 02:52:34: Log file closed.

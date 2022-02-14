@@ -1,0 +1,14 @@
+L 07/22/2020 - 00:28:47: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200722.log") (Version "1.10.0.6490")
+L 07/22/2020 - 00:28:47: -------- Mapchange to de_mirage --------
+L 07/22/2020 - 16:17:56: -------- Mapchange to de_mirage --------
+L 07/22/2020 - 16:31:40: -------- Mapchange to de_dust2 --------
+L 07/22/2020 - 16:32:07: [basecommands.smx] "dylan<87><STEAM_1:0:152419574><>" changed map to "assault"
+L 07/22/2020 - 16:32:10: [SM] Changed map to "assault"
+L 07/22/2020 - 16:32:11: -------- Mapchange to cs_assault --------
+L 07/22/2020 - 16:44:14: [basecommands.smx] "dylan<87><STEAM_1:0:152419574><>" kicked "rr<88><STEAM_1:0:32935648><>" (reason "throwing (0-5)")
+L 07/22/2020 - 16:46:30: [basebans.smx] "dylan<87><STEAM_1:0:152419574><>" banned "lowkey<85><STEAM_1:1:549178511><>" (minutes "0") (reason "disrespect")
+L 07/22/2020 - 22:32:50: -------- Mapchange to cs_assault --------
+L 07/22/2020 - 22:35:26: -------- Mapchange to cs_office --------
+L 07/22/2020 - 22:50:55: [basecommands.smx] "dylan<106><STEAM_1:0:549088253><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/22/2020 - 22:57:58: [basecommands.smx] "dylan<106><STEAM_1:0:549088253><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/23/2020 - 16:30:41: Log file closed.

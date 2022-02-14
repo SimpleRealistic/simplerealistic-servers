@@ -1,0 +1,60 @@
+L 12/20/2020 - 01:58:23: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201220.log") (Version "1.10.0.6502")
+L 12/20/2020 - 01:58:23: -------- Mapchange to de_train --------
+L 12/20/2020 - 02:20:54: -------- Mapchange to de_train --------
+L 12/20/2020 - 02:28:30: -------- Mapchange to de_bank --------
+L 12/20/2020 - 02:31:09: -------- Mapchange to de_overpass --------
+L 12/20/2020 - 03:13:02: -------- Mapchange to de_overpass --------
+L 12/20/2020 - 03:17:23: -------- Mapchange to cs_office --------
+L 12/20/2020 - 09:46:45: -------- Mapchange to cs_office --------
+L 12/20/2020 - 09:50:54: -------- Mapchange to cs_office --------
+L 12/20/2020 - 11:15:28: -------- Mapchange to cs_office --------
+L 12/20/2020 - 12:07:15: -------- Mapchange to cs_office --------
+L 12/20/2020 - 12:28:05: -------- Mapchange to cs_office --------
+L 12/20/2020 - 12:32:00: [basechat.smx] "ilioz<110><STEAM_1:1:7942706><>" triggered sm_chat (text )
+L 12/20/2020 - 14:04:24: -------- Mapchange to cs_office --------
+L 12/20/2020 - 14:06:51: -------- Mapchange to cs_office --------
+L 12/20/2020 - 14:10:23: -------- Mapchange to cs_office --------
+L 12/20/2020 - 14:11:54: -------- Mapchange to de_inferno --------
+L 12/20/2020 - 14:38:44: -------- Mapchange to cs_militia --------
+L 12/20/2020 - 14:45:27: -------- Mapchange to de_mirage --------
+L 12/20/2020 - 16:12:40: -------- Mapchange to de_mirage --------
+L 12/20/2020 - 16:23:17: -------- Mapchange to de_bank --------
+L 12/20/2020 - 16:44:00: -------- Mapchange to de_bank --------
+L 12/20/2020 - 16:50:16: -------- Mapchange to de_nuke --------
+L 12/20/2020 - 18:50:36: -------- Mapchange to de_nuke --------
+L 12/20/2020 - 18:52:43: [basecommands.smx] "cho cha chi cha<124><STEAM_1:1:527029555><>" changed map to "mirage"
+L 12/20/2020 - 18:52:46: [SM] Changed map to "mirage"
+L 12/20/2020 - 18:52:47: -------- Mapchange to de_mirage --------
+L 12/20/2020 - 19:05:27: [basecommands.smx] "cho cha chi cha<124><STEAM_1:1:527029555><>" console command (cmdline "sm_unpause")
+L 12/20/2020 - 19:45:21: -------- Mapchange to de_mirage --------
+L 12/20/2020 - 19:56:30: [basechat.smx] "Bored<132><STEAM_1:1:113204936><>" triggered sm_say (text i have u on xbox?)
+L 12/20/2020 - 19:56:39: [basechat.smx] "Bored<132><STEAM_1:1:113204936><>" triggered sm_say (text VeoN Indys )
+L 12/20/2020 - 19:56:51: [basechat.smx] "Bored<132><STEAM_1:1:113204936><>" triggered sm_say (text ill look)
+L 12/20/2020 - 19:57:06: [basechat.smx] "Bored<132><STEAM_1:1:113204936><>" triggered sm_say (text cuz i know the 2 owners )
+L 12/20/2020 - 19:57:54: [basechat.smx] "Bored<132><STEAM_1:1:113204936><>" triggered sm_say (text https://prnt.sc/w6ta0k)
+L 12/20/2020 - 19:58:03: [basechat.smx] "Bored<132><STEAM_1:1:113204936><>" triggered sm_say (text thats the screenshot of u saying what u said)
+L 12/20/2020 - 19:58:29: [basechat.smx] "Bored<132><STEAM_1:1:113204936><>" triggered sm_say (text what?)
+L 12/20/2020 - 19:58:36: [basechat.smx] "Bored<132><STEAM_1:1:113204936><>" triggered sm_say (text ok so it isnt just me)
+L 12/20/2020 - 19:58:47: [basechat.smx] "Bored<132><STEAM_1:1:113204936><>" triggered sm_say (text u want my discord?)
+L 12/20/2020 - 19:58:57: [basechat.smx] "Bored<132><STEAM_1:1:113204936><>" triggered sm_say (text Bored#1993)
+L 12/20/2020 - 19:59:34: [basechat.smx] "Bored<132><STEAM_1:1:113204936><>" triggered sm_say (text did u add me? )
+L 12/20/2020 - 20:05:21: [playercommands.smx] "Bored<132><STEAM_1:1:113204936><>" slapped "Trxstcn<131><STEAM_1:1:528026520><>" (damage "0")
+L 12/20/2020 - 20:06:32: [playercommands.smx] "Bored<132><STEAM_1:1:113204936><>" slayed "Trxstcn<131><STEAM_1:1:528026520><>"
+L 12/20/2020 - 20:18:37: [funcommands.smx] "Bored<133><STEAM_1:1:113204936><>" ignited "SHINE<130><STEAM_1:0:522665646><>" (seconds "20.000000")
+L 12/20/2020 - 20:21:12: [basecommands.smx] "Bored<133><STEAM_1:1:113204936><>" kicked "SHINE<130><STEAM_1:0:522665646><>" (reason "")
+L 12/20/2020 - 20:22:14: [playercommands.smx] "Bored<133><STEAM_1:1:113204936><>" slayed "SHINE<134><STEAM_1:0:522665646><>"
+L 12/20/2020 - 20:22:54: [playercommands.smx] "Bored<133><STEAM_1:1:113204936><>" slayed "SHINE<134><STEAM_1:0:522665646><>"
+L 12/20/2020 - 20:29:34: [funcommands.smx] "Bored<133><STEAM_1:1:113204936><>" drugged "SHINE<134><STEAM_1:0:522665646><>"
+L 12/20/2020 - 20:29:48: [funcommands.smx] "Bored<133><STEAM_1:1:113204936><>" toggled noclip on "Bored<133><STEAM_1:1:113204936><>"
+L 12/20/2020 - 20:30:26: [funcommands.smx] "Bored<133><STEAM_1:1:113204936><>" set a FreezeBomb on "SHINE<134><STEAM_1:0:522665646><>"
+L 12/20/2020 - 20:30:26: [funcommands.smx] "Bored<133><STEAM_1:1:113204936><>" set a FreezeBomb on "Trxstcn<131><STEAM_1:1:528026520><>"
+L 12/20/2020 - 20:30:41: [funcommands.smx] "Bored<133><STEAM_1:1:113204936><>" set a FreezeBomb on "SHINE<134><STEAM_1:0:522665646><>"
+L 12/20/2020 - 20:30:41: [funcommands.smx] "Bored<133><STEAM_1:1:113204936><>" set a FreezeBomb on "Trxstcn<131><STEAM_1:1:528026520><>"
+L 12/20/2020 - 20:30:58: [funcommands.smx] "Bored<133><STEAM_1:1:113204936><>" set a beacon on "SHINE<134><STEAM_1:0:522665646><>"
+L 12/20/2020 - 20:30:58: [funcommands.smx] "Bored<133><STEAM_1:1:113204936><>" set a beacon on "Trxstcn<131><STEAM_1:1:528026520><>"
+L 12/20/2020 - 20:31:16: [playercommands.smx] "Bored<133><STEAM_1:1:113204936><>" slapped "Trxstcn<131><STEAM_1:1:528026520><>" (damage "0")
+L 12/20/2020 - 20:31:20: [playercommands.smx] "Bored<133><STEAM_1:1:113204936><>" slapped "Trxstcn<131><STEAM_1:1:528026520><>" (damage "0")
+L 12/20/2020 - 20:31:25: [playercommands.smx] "Bored<133><STEAM_1:1:113204936><>" slayed "Trxstcn<131><STEAM_1:1:528026520><>"
+L 12/20/2020 - 20:31:44: [playercommands.smx] "Bored<133><STEAM_1:1:113204936><>" slapped "Trxstcn<131><STEAM_1:1:528026520><>" (damage "0")
+L 12/20/2020 - 21:51:03: -------- Mapchange to de_mirage --------
+L 12/21/2020 - 02:32:04: Log file closed.

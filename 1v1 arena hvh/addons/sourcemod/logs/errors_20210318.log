@@ -1,0 +1,155 @@
+L 03/18/2021 - 12:24:24: SourceMod error session started
+L 03/18/2021 - 12:24:24: Info (map "am_aztec2015") (file "/home/steam/arena/csgo/addons/sourcemod/logs/errors_20210318.log")
+L 03/18/2021 - 12:24:24: Failed to auto generate config for multi1v1.smx, make sure the directory has write permission.
+L 03/18/2021 - 12:24:48: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 03/18/2021 - 12:24:48: [SM] Blaming: multi1v1.smx
+L 03/18/2021 - 12:24:48: [SM] Call stack trace:
+L 03/18/2021 - 12:24:48: [SM]   [1] Line 864, multi1v1.sp::Event_OnPlayerDeath
+L 03/18/2021 - 12:25:33: Error log file session closed.
+L 03/18/2021 - 12:25:34: SourceMod error session started
+L 03/18/2021 - 12:25:34: Info (map "am_aztec2015") (file "/home/steam/arena/csgo/addons/sourcemod/logs/errors_20210318.log")
+L 03/18/2021 - 12:25:34: Failed to auto generate config for multi1v1.smx, make sure the directory has write permission.
+L 03/18/2021 - 12:33:25: Error log file session closed.
+L 03/18/2021 - 12:33:26: SourceMod error session started
+L 03/18/2021 - 12:33:26: Info (map "am_aztec2015") (file "/home/steam/arena/csgo/addons/sourcemod/logs/errors_20210318.log")
+L 03/18/2021 - 12:33:26: Failed to auto generate config for multi1v1.smx, make sure the directory has write permission.
+L 03/18/2021 - 12:43:12: Error log file session closed.
+L 03/18/2021 - 12:43:13: SourceMod error session started
+L 03/18/2021 - 12:43:13: Info (map "am_aztec2015") (file "/home/steam/arena/csgo/addons/sourcemod/logs/errors_20210318.log")
+L 03/18/2021 - 12:43:13: Failed to auto generate config for multi1v1.smx, make sure the directory has write permission.
+L 03/18/2021 - 12:51:39: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 03/18/2021 - 12:51:39: [SM] Blaming: multi1v1.smx
+L 03/18/2021 - 12:51:39: [SM] Call stack trace:
+L 03/18/2021 - 12:51:39: [SM]   [1] Line 864, multi1v1.sp::Event_OnPlayerDeath
+L 03/18/2021 - 12:52:13: Error log file session closed.
+L 03/18/2021 - 12:52:14: SourceMod error session started
+L 03/18/2021 - 12:52:14: Info (map "am_crashz_stonetiles20") (file "/home/steam/arena/csgo/addons/sourcemod/logs/errors_20210318.log")
+L 03/18/2021 - 12:52:14: Failed to auto generate config for multi1v1.smx, make sure the directory has write permission.
+L 03/18/2021 - 12:53:20: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 03/18/2021 - 12:53:20: [SM] Blaming: multi1v1.smx
+L 03/18/2021 - 12:53:20: [SM] Call stack trace:
+L 03/18/2021 - 12:53:20: [SM]   [1] Line 864, multi1v1.sp::Event_OnPlayerDeath
+L 03/18/2021 - 12:53:41: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 03/18/2021 - 12:53:41: [SM] Blaming: multi1v1.smx
+L 03/18/2021 - 12:53:41: [SM] Call stack trace:
+L 03/18/2021 - 12:53:41: [SM]   [1] Line 864, multi1v1.sp::Event_OnPlayerDeath
+L 03/18/2021 - 13:00:12: Error log file session closed.
+L 03/18/2021 - 13:00:13: SourceMod error session started
+L 03/18/2021 - 13:00:13: Info (map "am_crashz_stonetiles20") (file "/home/steam/arena/csgo/addons/sourcemod/logs/errors_20210318.log")
+L 03/18/2021 - 13:00:13: Failed to auto generate config for multi1v1.smx, make sure the directory has write permission.
+L 03/18/2021 - 13:00:57: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 03/18/2021 - 13:00:57: [SM] Blaming: multi1v1.smx
+L 03/18/2021 - 13:00:57: [SM] Call stack trace:
+L 03/18/2021 - 13:00:57: [SM]   [1] Line 864, multi1v1.sp::Event_OnPlayerDeath
+L 03/18/2021 - 13:17:59: Error log file session closed.
+L 03/18/2021 - 13:18:00: SourceMod error session started
+L 03/18/2021 - 13:18:00: Info (map "am_crashz_stonetiles20") (file "/home/steam/arena/csgo/addons/sourcemod/logs/errors_20210318.log")
+L 03/18/2021 - 13:18:00: Failed to auto generate config for multi1v1.smx, make sure the directory has write permission.
+L 03/18/2021 - 13:18:50: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 03/18/2021 - 13:18:50: [SM] Blaming: multi1v1.smx
+L 03/18/2021 - 13:18:50: [SM] Call stack trace:
+L 03/18/2021 - 13:18:50: [SM]   [1] Line 864, multi1v1.sp::Event_OnPlayerDeath
+L 03/18/2021 - 13:24:25: Error log file session closed.
+L 03/18/2021 - 13:24:26: SourceMod error session started
+L 03/18/2021 - 13:24:26: Info (map "am_crashz_stonetiles20") (file "/home/steam/arena/csgo/addons/sourcemod/logs/errors_20210318.log")
+L 03/18/2021 - 13:24:26: Failed to auto generate config for multi1v1.smx, make sure the directory has write permission.
+L 03/18/2021 - 13:25:45: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 03/18/2021 - 13:25:45: [SM] Blaming: multi1v1.smx
+L 03/18/2021 - 13:25:45: [SM] Call stack trace:
+L 03/18/2021 - 13:25:45: [SM]   [1] Line 864, multi1v1.sp::Event_OnPlayerDeath
+L 03/18/2021 - 14:05:28: Error log file session closed.
+L 03/18/2021 - 14:05:29: SourceMod error session started
+L 03/18/2021 - 14:05:29: Info (map "am_crashz_stonetiles20") (file "/home/steam/arena/csgo/addons/sourcemod/logs/errors_20210318.log")
+L 03/18/2021 - 14:05:29: Failed to auto generate config for multi1v1.smx, make sure the directory has write permission.
+L 03/18/2021 - 14:42:36: Error log file session closed.
+L 03/18/2021 - 14:42:36: SourceMod error session started
+L 03/18/2021 - 14:42:36: Info (map "am_crashz_stonetiles20") (file "/home/steam/arena/csgo/addons/sourcemod/logs/errors_20210318.log")
+L 03/18/2021 - 14:42:36: Failed to auto generate config for multi1v1.smx, make sure the directory has write permission.
+L 03/18/2021 - 14:49:04: Error log file session closed.
+L 03/18/2021 - 14:49:05: SourceMod error session started
+L 03/18/2021 - 14:49:05: Info (map "am_cubes") (file "/home/steam/arena/csgo/addons/sourcemod/logs/errors_20210318.log")
+L 03/18/2021 - 14:49:05: Failed to auto generate config for multi1v1.smx, make sure the directory has write permission.
+L 03/18/2021 - 14:49:55: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 03/18/2021 - 14:49:55: [SM] Blaming: multi1v1.smx
+L 03/18/2021 - 14:49:55: [SM] Call stack trace:
+L 03/18/2021 - 14:49:55: [SM]   [1] Line 864, multi1v1.sp::Event_OnPlayerDeath
+L 03/18/2021 - 14:52:10: Error log file session closed.
+L 03/18/2021 - 14:52:11: SourceMod error session started
+L 03/18/2021 - 14:52:11: Info (map "am_cubes") (file "/home/steam/arena/csgo/addons/sourcemod/logs/errors_20210318.log")
+L 03/18/2021 - 14:52:11: Failed to auto generate config for multi1v1.smx, make sure the directory has write permission.
+L 03/18/2021 - 14:57:16: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 03/18/2021 - 14:57:16: [SM] Blaming: multi1v1.smx
+L 03/18/2021 - 14:57:16: [SM] Call stack trace:
+L 03/18/2021 - 14:57:16: [SM]   [1] Line 864, multi1v1.sp::Event_OnPlayerDeath
+L 03/18/2021 - 14:57:25: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 03/18/2021 - 14:57:25: [SM] Blaming: multi1v1.smx
+L 03/18/2021 - 14:57:25: [SM] Call stack trace:
+L 03/18/2021 - 14:57:25: [SM]   [1] Line 864, multi1v1.sp::Event_OnPlayerDeath
+L 03/18/2021 - 14:57:29: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 03/18/2021 - 14:57:29: [SM] Blaming: multi1v1.smx
+L 03/18/2021 - 14:57:29: [SM] Call stack trace:
+L 03/18/2021 - 14:57:29: [SM]   [1] Line 864, multi1v1.sp::Event_OnPlayerDeath
+L 03/18/2021 - 14:57:31: Error log file session closed.
+L 03/18/2021 - 14:57:32: SourceMod error session started
+L 03/18/2021 - 14:57:32: Info (map "am_cubes") (file "/home/steam/arena/csgo/addons/sourcemod/logs/errors_20210318.log")
+L 03/18/2021 - 14:57:32: Failed to auto generate config for multi1v1.smx, make sure the directory has write permission.
+L 03/18/2021 - 15:00:11: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 03/18/2021 - 15:00:11: [SM] Blaming: multi1v1.smx
+L 03/18/2021 - 15:00:11: [SM] Call stack trace:
+L 03/18/2021 - 15:00:11: [SM]   [1] Line 864, multi1v1.sp::Event_OnPlayerDeath
+L 03/18/2021 - 15:01:40: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 03/18/2021 - 15:01:40: [SM] Blaming: multi1v1.smx
+L 03/18/2021 - 15:01:40: [SM] Call stack trace:
+L 03/18/2021 - 15:01:40: [SM]   [1] Line 864, multi1v1.sp::Event_OnPlayerDeath
+L 03/18/2021 - 15:40:10: Error log file session closed.
+L 03/18/2021 - 15:40:11: SourceMod error session started
+L 03/18/2021 - 15:40:11: Info (map "am_cubes") (file "/home/steam/arena/csgo/addons/sourcemod/logs/errors_20210318.log")
+L 03/18/2021 - 15:40:11: Failed to auto generate config for multi1v1.smx, make sure the directory has write permission.
+L 03/18/2021 - 15:46:23: Error log file session closed.
+L 03/18/2021 - 15:46:24: SourceMod error session started
+L 03/18/2021 - 15:46:24: Info (map "am_palace_32") (file "/home/steam/arena/csgo/addons/sourcemod/logs/errors_20210318.log")
+L 03/18/2021 - 15:46:24: Failed to auto generate config for multi1v1.smx, make sure the directory has write permission.
+L 03/18/2021 - 15:50:04: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 03/18/2021 - 15:50:04: [SM] Blaming: multi1v1.smx
+L 03/18/2021 - 15:50:04: [SM] Call stack trace:
+L 03/18/2021 - 15:50:04: [SM]   [1] Line 864, multi1v1.sp::Event_OnPlayerDeath
+L 03/18/2021 - 15:50:07: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 03/18/2021 - 15:50:07: [SM] Blaming: multi1v1.smx
+L 03/18/2021 - 15:50:07: [SM] Call stack trace:
+L 03/18/2021 - 15:50:07: [SM]   [1] Line 864, multi1v1.sp::Event_OnPlayerDeath
+L 03/18/2021 - 15:59:43: Error log file session closed.
+L 03/18/2021 - 15:59:44: SourceMod error session started
+L 03/18/2021 - 15:59:44: Info (map "am_palace_32") (file "/home/steam/arena/csgo/addons/sourcemod/logs/errors_20210318.log")
+L 03/18/2021 - 15:59:44: Failed to auto generate config for multi1v1.smx, make sure the directory has write permission.
+L 03/18/2021 - 16:00:29: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 03/18/2021 - 16:00:29: [SM] Blaming: multi1v1.smx
+L 03/18/2021 - 16:00:29: [SM] Call stack trace:
+L 03/18/2021 - 16:00:29: [SM]   [1] Line 864, multi1v1.sp::Event_OnPlayerDeath
+L 03/18/2021 - 16:04:08: Error log file session closed.
+L 03/18/2021 - 16:04:09: SourceMod error session started
+L 03/18/2021 - 16:04:09: Info (map "am_palace_32") (file "/home/steam/arena/csgo/addons/sourcemod/logs/errors_20210318.log")
+L 03/18/2021 - 16:04:09: Failed to auto generate config for multi1v1.smx, make sure the directory has write permission.
+L 03/18/2021 - 16:05:08: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 03/18/2021 - 16:05:08: [SM] Blaming: multi1v1.smx
+L 03/18/2021 - 16:05:08: [SM] Call stack trace:
+L 03/18/2021 - 16:05:08: [SM]   [1] Line 864, multi1v1.sp::Event_OnPlayerDeath
+L 03/18/2021 - 16:11:58: Error log file session closed.
+L 03/18/2021 - 16:11:59: SourceMod error session started
+L 03/18/2021 - 16:11:59: Info (map "am_palace_32") (file "/home/steam/arena/csgo/addons/sourcemod/logs/errors_20210318.log")
+L 03/18/2021 - 16:11:59: Failed to auto generate config for multi1v1.smx, make sure the directory has write permission.
+L 03/18/2021 - 16:14:06: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 03/18/2021 - 16:14:06: [SM] Blaming: multi1v1.smx
+L 03/18/2021 - 16:14:06: [SM] Call stack trace:
+L 03/18/2021 - 16:14:06: [SM]   [1] Line 864, multi1v1.sp::Event_OnPlayerDeath
+L 03/18/2021 - 16:14:08: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 03/18/2021 - 16:14:08: [SM] Blaming: multi1v1.smx
+L 03/18/2021 - 16:14:08: [SM] Call stack trace:
+L 03/18/2021 - 16:14:08: [SM]   [1] Line 864, multi1v1.sp::Event_OnPlayerDeath
+L 03/18/2021 - 16:15:20: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 03/18/2021 - 16:15:20: [SM] Blaming: multi1v1.smx
+L 03/18/2021 - 16:15:20: [SM] Call stack trace:
+L 03/18/2021 - 16:15:20: [SM]   [1] Line 864, multi1v1.sp::Event_OnPlayerDeath
+L 03/18/2021 - 17:02:33: Error log file session closed.
+L 03/18/2021 - 17:02:34: SourceMod error session started
+L 03/18/2021 - 17:02:34: Info (map "am_palace_32") (file "/home/steam/arena/csgo/addons/sourcemod/logs/errors_20210318.log")
+L 03/18/2021 - 17:02:34: Failed to auto generate config for multi1v1.smx, make sure the directory has write permission.

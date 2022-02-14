@@ -1,0 +1,336 @@
+L 10/26/2020 - 18:38:13: SourceMod error session started
+L 10/26/2020 - 18:38:13: Info (map "de_dust2") (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/errors_20201026.log")
+L 10/26/2020 - 18:38:13: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 10/26/2020 - 18:38:13: [SM] Error (line 0, column 0): Stream failed to open
+L 10/26/2020 - 18:50:54: Error log file session closed.
+L 10/26/2020 - 18:50:54: SourceMod error session started
+L 10/26/2020 - 18:50:54: Info (map "de_dust2") (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/errors_20201026.log")
+L 10/26/2020 - 18:50:54: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 10/26/2020 - 18:50:54: [SM] Error (line 0, column 0): Stream failed to open
+L 10/26/2020 - 19:23:20: Error log file session closed.
+L 10/26/2020 - 19:23:20: SourceMod error session started
+L 10/26/2020 - 19:23:20: Info (map "de_dust2") (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/errors_20201026.log")
+L 10/26/2020 - 19:23:20: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 10/26/2020 - 19:23:20: [SM] Error (line 0, column 0): Stream failed to open
+L 10/26/2020 - 20:32:13: Error log file session closed.
+L 10/26/2020 - 20:32:13: SourceMod error session started
+L 10/26/2020 - 20:32:13: Info (map "de_dust2") (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/errors_20201026.log")
+L 10/26/2020 - 20:32:13: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 10/26/2020 - 20:32:13: [SM] Error (line 0, column 0): Stream failed to open
+L 10/26/2020 - 20:32:33: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:32:33: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:32:33: [SM] Call stack trace:
+L 10/26/2020 - 20:32:33: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:32:33: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:32:33: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:32:33: [SM] Call stack trace:
+L 10/26/2020 - 20:32:33: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:32:50: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:32:50: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:32:50: [SM] Call stack trace:
+L 10/26/2020 - 20:32:50: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:33:05: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:33:05: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:33:05: [SM] Call stack trace:
+L 10/26/2020 - 20:33:05: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:33:17: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:33:17: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:33:17: [SM] Call stack trace:
+L 10/26/2020 - 20:33:17: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:34:09: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:34:09: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:34:09: [SM] Call stack trace:
+L 10/26/2020 - 20:34:09: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:34:42: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:34:42: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:34:42: [SM] Call stack trace:
+L 10/26/2020 - 20:34:42: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:34:50: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:34:50: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:34:50: [SM] Call stack trace:
+L 10/26/2020 - 20:34:50: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:34:56: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:34:56: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:34:56: [SM] Call stack trace:
+L 10/26/2020 - 20:34:56: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:35:05: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:35:05: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:35:05: [SM] Call stack trace:
+L 10/26/2020 - 20:35:05: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:35:34: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:35:34: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:35:34: [SM] Call stack trace:
+L 10/26/2020 - 20:35:34: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:35:51: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:35:51: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:35:51: [SM] Call stack trace:
+L 10/26/2020 - 20:35:51: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:36:11: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:36:11: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:36:11: [SM] Call stack trace:
+L 10/26/2020 - 20:36:11: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:36:21: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:36:21: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:36:21: [SM] Call stack trace:
+L 10/26/2020 - 20:36:21: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:36:43: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:36:43: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:36:43: [SM] Call stack trace:
+L 10/26/2020 - 20:36:43: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:36:56: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:36:56: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:36:56: [SM] Call stack trace:
+L 10/26/2020 - 20:36:56: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:37:06: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:37:06: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:37:06: [SM] Call stack trace:
+L 10/26/2020 - 20:37:06: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:37:33: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:37:33: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:37:33: [SM] Call stack trace:
+L 10/26/2020 - 20:37:33: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:37:59: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:37:59: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:37:59: [SM] Call stack trace:
+L 10/26/2020 - 20:37:59: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:38:20: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:38:20: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:38:20: [SM] Call stack trace:
+L 10/26/2020 - 20:38:20: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:38:43: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:38:43: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:38:43: [SM] Call stack trace:
+L 10/26/2020 - 20:38:43: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:39:07: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:39:07: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:39:07: [SM] Call stack trace:
+L 10/26/2020 - 20:39:07: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:39:25: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:39:25: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:39:25: [SM] Call stack trace:
+L 10/26/2020 - 20:39:25: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:39:49: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:39:49: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:39:49: [SM] Call stack trace:
+L 10/26/2020 - 20:39:49: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:40:09: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:40:09: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:40:09: [SM] Call stack trace:
+L 10/26/2020 - 20:40:09: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:41:13: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:41:13: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:41:13: [SM] Call stack trace:
+L 10/26/2020 - 20:41:13: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:41:36: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:41:36: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:41:36: [SM] Call stack trace:
+L 10/26/2020 - 20:41:36: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:41:50: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:41:50: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:41:50: [SM] Call stack trace:
+L 10/26/2020 - 20:41:50: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:42:18: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:42:18: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:42:18: [SM] Call stack trace:
+L 10/26/2020 - 20:42:18: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:42:39: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:42:39: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:42:39: [SM] Call stack trace:
+L 10/26/2020 - 20:42:39: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:42:59: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:42:59: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:42:59: [SM] Call stack trace:
+L 10/26/2020 - 20:42:59: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:43:41: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:43:41: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:43:41: [SM] Call stack trace:
+L 10/26/2020 - 20:43:41: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:44:01: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:44:01: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:44:01: [SM] Call stack trace:
+L 10/26/2020 - 20:44:01: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:44:07: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:44:07: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:44:07: [SM] Call stack trace:
+L 10/26/2020 - 20:44:07: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:44:20: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:44:20: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:44:20: [SM] Call stack trace:
+L 10/26/2020 - 20:44:20: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:44:32: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:44:32: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:44:32: [SM] Call stack trace:
+L 10/26/2020 - 20:44:32: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:44:46: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:44:46: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:44:46: [SM] Call stack trace:
+L 10/26/2020 - 20:44:46: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:44:57: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:44:57: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:44:57: [SM] Call stack trace:
+L 10/26/2020 - 20:44:57: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:45:32: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:45:32: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:45:32: [SM] Call stack trace:
+L 10/26/2020 - 20:45:32: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:45:52: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:45:52: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:45:52: [SM] Call stack trace:
+L 10/26/2020 - 20:45:52: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:46:02: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:46:02: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:46:02: [SM] Call stack trace:
+L 10/26/2020 - 20:46:02: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:46:37: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:46:37: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:46:37: [SM] Call stack trace:
+L 10/26/2020 - 20:46:37: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:47:06: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:47:06: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:47:06: [SM] Call stack trace:
+L 10/26/2020 - 20:47:06: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:47:18: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:47:18: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:47:18: [SM] Call stack trace:
+L 10/26/2020 - 20:47:18: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:47:39: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:47:39: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:47:39: [SM] Call stack trace:
+L 10/26/2020 - 20:47:39: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:47:54: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:47:54: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:47:54: [SM] Call stack trace:
+L 10/26/2020 - 20:47:54: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:48:25: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:48:25: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:48:25: [SM] Call stack trace:
+L 10/26/2020 - 20:48:25: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:48:33: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:48:33: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:48:33: [SM] Call stack trace:
+L 10/26/2020 - 20:48:33: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:48:39: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:48:39: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:48:39: [SM] Call stack trace:
+L 10/26/2020 - 20:48:39: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:49:23: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:49:23: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:49:23: [SM] Call stack trace:
+L 10/26/2020 - 20:49:23: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:50:30: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:50:30: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:50:30: [SM] Call stack trace:
+L 10/26/2020 - 20:50:30: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:51:05: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:51:05: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:51:05: [SM] Call stack trace:
+L 10/26/2020 - 20:51:05: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:51:14: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:51:14: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:51:14: [SM] Call stack trace:
+L 10/26/2020 - 20:51:14: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:51:22: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:51:22: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:51:22: [SM] Call stack trace:
+L 10/26/2020 - 20:51:22: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:51:30: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:51:30: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:51:30: [SM] Call stack trace:
+L 10/26/2020 - 20:51:30: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:51:43: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:51:43: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:51:43: [SM] Call stack trace:
+L 10/26/2020 - 20:51:43: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:52:05: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:52:05: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:52:05: [SM] Call stack trace:
+L 10/26/2020 - 20:52:05: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:52:40: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:52:40: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:52:40: [SM] Call stack trace:
+L 10/26/2020 - 20:52:40: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:52:53: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:52:53: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:52:53: [SM] Call stack trace:
+L 10/26/2020 - 20:52:53: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:53:17: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:53:17: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:53:17: [SM] Call stack trace:
+L 10/26/2020 - 20:53:17: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:53:23: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:53:23: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:53:23: [SM] Call stack trace:
+L 10/26/2020 - 20:53:23: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:53:31: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:53:31: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:53:31: [SM] Call stack trace:
+L 10/26/2020 - 20:53:31: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:53:51: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:53:51: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:53:51: [SM] Call stack trace:
+L 10/26/2020 - 20:53:51: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:54:38: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:54:38: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:54:38: [SM] Call stack trace:
+L 10/26/2020 - 20:54:38: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:55:01: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:55:01: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:55:01: [SM] Call stack trace:
+L 10/26/2020 - 20:55:01: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:55:23: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:55:23: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:55:23: [SM] Call stack trace:
+L 10/26/2020 - 20:55:23: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:55:51: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:55:51: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:55:51: [SM] Call stack trace:
+L 10/26/2020 - 20:55:51: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:56:19: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:56:19: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:56:19: [SM] Call stack trace:
+L 10/26/2020 - 20:56:19: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:56:26: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:56:26: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:56:26: [SM] Call stack trace:
+L 10/26/2020 - 20:56:26: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:56:39: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:56:39: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:56:39: [SM] Call stack trace:
+L 10/26/2020 - 20:56:39: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:56:56: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:56:56: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:56:56: [SM] Call stack trace:
+L 10/26/2020 - 20:56:56: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:57:33: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:57:33: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:57:33: [SM] Call stack trace:
+L 10/26/2020 - 20:57:33: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:58:04: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:58:04: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:58:04: [SM] Call stack trace:
+L 10/26/2020 - 20:58:04: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:58:19: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:58:19: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:58:19: [SM] Call stack trace:
+L 10/26/2020 - 20:58:19: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 20:58:54: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 20:58:54: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 20:58:54: [SM] Call stack trace:
+L 10/26/2020 - 20:58:54: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 21:00:07: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 21:00:07: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 21:00:07: [SM] Call stack trace:
+L 10/26/2020 - 21:00:07: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 21:01:44: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 21:01:44: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 21:01:44: [SM] Call stack trace:
+L 10/26/2020 - 21:01:44: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 21:01:57: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 21:01:57: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 21:01:57: [SM] Call stack trace:
+L 10/26/2020 - 21:01:57: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/26/2020 - 21:02:06: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/26/2020 - 21:02:06: [SM] Blaming: weapon_restrict.smx
+L 10/26/2020 - 21:02:06: [SM] Call stack trace:
+L 10/26/2020 - 21:02:06: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/27/2020 - 18:12:34: Error log file session closed.

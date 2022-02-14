@@ -1,0 +1,16 @@
+L 10/12/2020 - 15:06:03: SourceMod error session started
+L 10/12/2020 - 15:06:03: Info (map "de_mirage") (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/errors_20201012.log")
+L 10/12/2020 - 15:06:03: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 10/12/2020 - 15:06:03: [SM] Error (line 0, column 0): Stream failed to open
+L 10/12/2020 - 23:55:00: Error log file session closed.
+L 10/12/2020 - 23:55:00: SourceMod error session started
+L 10/12/2020 - 23:55:00: Info (map "de_mirage") (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/errors_20201012.log")
+L 10/12/2020 - 23:55:00: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 10/12/2020 - 23:55:00: [SM] Error (line 0, column 0): Stream failed to open
+L 10/12/2020 - 23:57:31: [SM] Exception reported: Language phrase "Player_Connected_From" not found (arg 3)
+L 10/12/2020 - 23:57:31: [SM] Blaming: advadmin.smx
+L 10/12/2020 - 23:57:31: [SM] Call stack trace:
+L 10/12/2020 - 23:57:31: [SM]   [0] VFormat
+L 10/12/2020 - 23:57:31: [SM]   [1] Line 386, /groups/sourcemod/compiler-1.10/include/halflife.inc::PrintToChatAll
+L 10/12/2020 - 23:57:31: [SM]   [2] Line 141, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::OnClientAuthorized
+L 10/13/2020 - 00:04:49: Error log file session closed.

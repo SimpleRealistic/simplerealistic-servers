@@ -1,0 +1,58 @@
+L 08/25/2020 - 11:40:29: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200825.log") (Version "1.10.0.6490")
+L 08/25/2020 - 11:40:29: -------- Mapchange to de_bank --------
+L 08/25/2020 - 11:41:34: [basecommands.smx] "kr0md<127><STEAM_1:0:125290236><>" changed map to "overpass"
+L 08/25/2020 - 11:41:37: [SM] Changed map to "overpass"
+L 08/25/2020 - 11:41:37: -------- Mapchange to de_overpass --------
+L 08/25/2020 - 11:47:30: -------- Mapchange to cs_militia --------
+L 08/25/2020 - 11:47:52: [basecommands.smx] "kr0md<127><STEAM_1:0:125290236><>" changed map to "overpass"
+L 08/25/2020 - 11:47:55: [SM] Changed map to "overpass"
+L 08/25/2020 - 11:47:56: -------- Mapchange to de_overpass --------
+L 08/25/2020 - 13:07:21: -------- Mapchange to de_overpass --------
+L 08/25/2020 - 13:27:43: -------- Mapchange to de_overpass --------
+L 08/25/2020 - 13:29:05: [basecommands.smx] "kr0md<131><STEAM_1:0:125290236><>" changed map to "inferno"
+L 08/25/2020 - 13:29:08: [SM] Changed map to "inferno"
+L 08/25/2020 - 13:29:09: -------- Mapchange to de_inferno --------
+L 08/25/2020 - 13:48:35: [basecommands.smx] "kr0md<131><STEAM_1:0:125290236><>" console command (cmdline "status")
+L 08/25/2020 - 16:59:22: -------- Mapchange to de_inferno --------
+L 08/25/2020 - 17:01:58: [basecommands.smx] "kr0md<137><STEAM_1:0:125290236><>" changed map to "mirage"
+L 08/25/2020 - 17:02:01: [SM] Changed map to "mirage"
+L 08/25/2020 - 17:02:01: -------- Mapchange to de_mirage --------
+L 08/25/2020 - 20:00:52: -------- Mapchange to de_mirage --------
+L 08/25/2020 - 20:02:18: [basecommands.smx] "kr0md<138><STEAM_1:0:125290236><>" changed map to "overpass"
+L 08/25/2020 - 20:02:21: [SM] Changed map to "overpass"
+L 08/25/2020 - 20:02:21: -------- Mapchange to de_overpass --------
+L 08/25/2020 - 20:36:47: [basecommands.smx] "kr0md<138><STEAM_1:0:125290236><>" changed map to "mirage"
+L 08/25/2020 - 20:36:50: [SM] Changed map to "mirage"
+L 08/25/2020 - 20:36:51: -------- Mapchange to de_mirage --------
+L 08/25/2020 - 20:37:41: [basechat.smx] "kr0md<138><STEAM_1:0:125290236><>" triggered sm_say (text This map good?)
+L 08/25/2020 - 20:39:15: [basecommands.smx] "kr0md<138><STEAM_1:0:125290236><>" console command (cmdline "status")
+L 08/25/2020 - 20:41:45: [basechat.smx] "kr0md<138><STEAM_1:0:125290236><>" triggered sm_say (text HAHHAHAHAA)
+L 08/25/2020 - 20:52:58: [basechat.smx] "kr0md<138><STEAM_1:0:125290236><>" triggered sm_say (text wyom)
+L 08/25/2020 - 20:53:06: [basechat.smx] "kr0md<138><STEAM_1:0:125290236><>" triggered sm_say (text drop a nade)
+L 08/25/2020 - 20:53:10: [basechat.smx] "kr0md<138><STEAM_1:0:125290236><>" triggered sm_say (text see what happens lol)
+L 08/25/2020 - 20:53:20: [basechat.smx] "kr0md<138><STEAM_1:0:125290236><>" triggered sm_say (text chicken splosion)
+L 08/25/2020 - 20:53:40: [basechat.smx] "kr0md<138><STEAM_1:0:125290236><>" triggered sm_say (text do .unpause)
+L 08/25/2020 - 20:53:42: [basechat.smx] "kr0md<138><STEAM_1:0:125290236><>" triggered sm_say (text restar)
+L 08/25/2020 - 20:56:21: [funcommands.smx] "kr0md<138><STEAM_1:0:125290236><>" drugged "Wyom<139><STEAM_1:1:558351597><>"
+L 08/25/2020 - 20:56:32: [funcommands.smx] "kr0md<138><STEAM_1:0:125290236><>" undrugged "Wyom<139><STEAM_1:1:558351597><>"
+L 08/25/2020 - 20:56:34: [funcommands.smx] "kr0md<138><STEAM_1:0:125290236><>" drugged "Wyom<139><STEAM_1:1:558351597><>"
+L 08/25/2020 - 20:56:37: [funcommands.smx] "kr0md<138><STEAM_1:0:125290236><>" drugged "Jonathan<140><STEAM_1:1:548670004><>"
+L 08/25/2020 - 20:56:41: [funcommands.smx] "kr0md<138><STEAM_1:0:125290236><>" undrugged "Jonathan<140><STEAM_1:1:548670004><>"
+L 08/25/2020 - 20:56:46: [funcommands.smx] "kr0md<138><STEAM_1:0:125290236><>" drugged "Jonathan<140><STEAM_1:1:548670004><>"
+L 08/25/2020 - 20:56:49: [funcommands.smx] "kr0md<138><STEAM_1:0:125290236><>" undrugged "Jonathan<140><STEAM_1:1:548670004><>"
+L 08/25/2020 - 20:56:58: [funcommands.smx] "kr0md<138><STEAM_1:0:125290236><>" undrugged "Wyom<139><STEAM_1:1:558351597><>"
+L 08/25/2020 - 20:57:03: [basechat.smx] "kr0md<138><STEAM_1:0:125290236><>" triggered sm_say (text LOL)
+L 08/25/2020 - 20:57:11: [basechat.smx] "kr0md<138><STEAM_1:0:125290236><>" triggered sm_say (text HE STILL KILLED YOU)
+L 08/25/2020 - 20:57:16: [basechat.smx] "kr0md<138><STEAM_1:0:125290236><>" triggered sm_say (text stopped)
+L 08/25/2020 - 20:57:50: [funcommands.smx] "kr0md<138><STEAM_1:0:125290236><>" set blind on "Jonathan<140><STEAM_1:1:548670004><>" (amount "255")
+L 08/25/2020 - 20:58:09: [funcommands.smx] "kr0md<138><STEAM_1:0:125290236><>" set blind on "Jonathan<140><STEAM_1:1:548670004><>" (amount "0")
+L 08/25/2020 - 20:58:30: [funcommands.smx] "kr0md<138><STEAM_1:0:125290236><>" set a beacon on "Jonathan<140><STEAM_1:1:548670004><>"
+L 08/25/2020 - 20:58:33: [funcommands.smx] "kr0md<138><STEAM_1:0:125290236><>" removed a beacon on "Jonathan<140><STEAM_1:1:548670004><>"
+L 08/25/2020 - 20:58:35: [funcommands.smx] "kr0md<138><STEAM_1:0:125290236><>" set a beacon on "Wyom<139><STEAM_1:1:558351597><>"
+L 08/25/2020 - 20:58:37: [funcommands.smx] "kr0md<138><STEAM_1:0:125290236><>" removed a beacon on "Wyom<139><STEAM_1:1:558351597><>"
+L 08/25/2020 - 20:59:20: [funcommands.smx] "kr0md<138><STEAM_1:0:125290236><>" set a TimeBomb on "Jonathan<140><STEAM_1:1:548670004><>"
+L 08/25/2020 - 20:59:27: [funcommands.smx] "kr0md<138><STEAM_1:0:125290236><>" removed a TimeBomb on "Jonathan<140><STEAM_1:1:548670004><>"
+L 08/25/2020 - 21:50:06: -------- Mapchange to de_mirage --------
+L 08/25/2020 - 22:45:07: -------- Mapchange to de_mirage --------
+L 08/25/2020 - 22:57:26: -------- Mapchange to de_mirage --------
+L 08/26/2020 - 20:45:16: Log file closed.

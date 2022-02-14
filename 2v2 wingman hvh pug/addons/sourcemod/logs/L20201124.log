@@ -1,0 +1,21 @@
+L 11/24/2020 - 14:36:32: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201124.log") (Version "1.10.0.6490")
+L 11/24/2020 - 14:36:32: -------- Mapchange to de_mirage --------
+L 11/24/2020 - 14:40:31: -------- Mapchange to de_overpass --------
+L 11/24/2020 - 15:38:56: -------- Mapchange to de_overpass --------
+L 11/24/2020 - 15:45:41: -------- Mapchange to de_bank --------
+L 11/24/2020 - 15:48:32: [basecommands.smx] "Leo Dooly<69><STEAM_1:0:547658231><>" kicked "ilioz<68><STEAM_1:1:7942706><>" (reason "they are 1v1ing")
+L 11/24/2020 - 16:49:14: -------- Mapchange to de_bank --------
+L 11/24/2020 - 16:52:52: -------- Mapchange to de_train --------
+L 11/24/2020 - 16:54:44: [basecommands.smx] "dylan<71><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 11/24/2020 - 16:57:25: [basecommands.smx] "dylan<71><STEAM_1:1:511092287><>" changed map to "mirage"
+L 11/24/2020 - 16:57:28: [SM] Changed map to "mirage"
+L 11/24/2020 - 16:57:29: -------- Mapchange to de_mirage --------
+L 11/24/2020 - 16:58:09: [basecommands.smx] "dylan<71><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 11/24/2020 - 16:59:07: [basecommands.smx] "dylan<71><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 11/24/2020 - 16:59:09: [basecommands.smx] "dylan<71><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 11/24/2020 - 17:03:43: [basecommands.smx] "dylan<71><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 11/24/2020 - 17:06:52: [basecommands.smx] "dylan<71><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 11/24/2020 - 17:07:11: [basecommands.smx] "dylan<71><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 11/24/2020 - 17:11:09: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201124.log") (Version "1.10.0.6490")
+L 11/24/2020 - 17:11:09: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 11/25/2020 - 03:03:18: Log file closed.

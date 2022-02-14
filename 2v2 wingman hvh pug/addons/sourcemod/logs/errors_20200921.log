@@ -1,0 +1,143 @@
+L 09/21/2020 - 17:35:51: SourceMod error session started
+L 09/21/2020 - 17:35:51: Info (map "de_dust2") (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/errors_20200921.log")
+L 09/21/2020 - 17:35:51: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 09/21/2020 - 17:35:51: [SM] Error (line 0, column 0): Stream failed to open
+L 09/21/2020 - 17:37:03: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 17:37:03: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 17:37:03: [SM] Call stack trace:
+L 09/21/2020 - 17:37:03: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 17:38:01: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 17:38:01: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 17:38:01: [SM] Call stack trace:
+L 09/21/2020 - 17:38:01: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 17:41:11: [SM] Exception reported: Language phrase "Player_Connected_From" not found (arg 3)
+L 09/21/2020 - 17:41:11: [SM] Blaming: advadmin.smx
+L 09/21/2020 - 17:41:11: [SM] Call stack trace:
+L 09/21/2020 - 17:41:11: [SM]   [0] VFormat
+L 09/21/2020 - 17:41:11: [SM]   [1] Line 386, /groups/sourcemod/compiler-1.10/include/halflife.inc::PrintToChatAll
+L 09/21/2020 - 17:41:11: [SM]   [2] Line 141, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::OnClientAuthorized
+L 09/21/2020 - 17:42:04: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 17:42:04: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 17:42:04: [SM] Call stack trace:
+L 09/21/2020 - 17:42:04: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 17:47:09: [SM] Exception reported: Language phrase "Player_Connected_From" not found (arg 3)
+L 09/21/2020 - 17:47:09: [SM] Blaming: advadmin.smx
+L 09/21/2020 - 17:47:09: [SM] Call stack trace:
+L 09/21/2020 - 17:47:09: [SM]   [0] VFormat
+L 09/21/2020 - 17:47:09: [SM]   [1] Line 386, /groups/sourcemod/compiler-1.10/include/halflife.inc::PrintToChatAll
+L 09/21/2020 - 17:47:09: [SM]   [2] Line 141, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::OnClientAuthorized
+L 09/21/2020 - 17:49:39: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 17:49:39: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 17:49:39: [SM] Call stack trace:
+L 09/21/2020 - 17:49:39: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 17:50:58: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 17:50:58: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 17:50:58: [SM] Call stack trace:
+L 09/21/2020 - 17:50:58: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 17:52:44: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 17:52:44: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 17:52:44: [SM] Call stack trace:
+L 09/21/2020 - 17:52:44: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 17:53:41: [SM] Exception reported: Language phrase "Player_Connected_From" not found (arg 3)
+L 09/21/2020 - 17:53:41: [SM] Blaming: advadmin.smx
+L 09/21/2020 - 17:53:41: [SM] Call stack trace:
+L 09/21/2020 - 17:53:41: [SM]   [0] VFormat
+L 09/21/2020 - 17:53:41: [SM]   [1] Line 386, /groups/sourcemod/compiler-1.10/include/halflife.inc::PrintToChatAll
+L 09/21/2020 - 17:53:41: [SM]   [2] Line 141, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::OnClientAuthorized
+L 09/21/2020 - 17:54:52: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 17:54:52: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 17:54:52: [SM] Call stack trace:
+L 09/21/2020 - 17:54:52: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 17:54:53: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 17:54:53: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 17:54:53: [SM] Call stack trace:
+L 09/21/2020 - 17:54:53: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 17:58:03: [SM] Exception reported: Language phrase "Player_Connected_From" not found (arg 3)
+L 09/21/2020 - 17:58:03: [SM] Blaming: advadmin.smx
+L 09/21/2020 - 17:58:03: [SM] Call stack trace:
+L 09/21/2020 - 17:58:03: [SM]   [0] VFormat
+L 09/21/2020 - 17:58:03: [SM]   [1] Line 386, /groups/sourcemod/compiler-1.10/include/halflife.inc::PrintToChatAll
+L 09/21/2020 - 17:58:03: [SM]   [2] Line 141, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::OnClientAuthorized
+L 09/21/2020 - 18:10:30: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 18:10:30: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 18:10:30: [SM] Call stack trace:
+L 09/21/2020 - 18:10:30: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 18:12:06: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 18:12:06: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 18:12:06: [SM] Call stack trace:
+L 09/21/2020 - 18:12:06: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 18:13:21: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 18:13:21: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 18:13:21: [SM] Call stack trace:
+L 09/21/2020 - 18:13:21: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 18:15:52: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 18:15:52: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 18:15:52: [SM] Call stack trace:
+L 09/21/2020 - 18:15:52: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 18:21:03: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 18:21:03: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 18:21:03: [SM] Call stack trace:
+L 09/21/2020 - 18:21:03: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 18:23:37: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 18:23:37: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 18:23:37: [SM] Call stack trace:
+L 09/21/2020 - 18:23:37: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 18:25:40: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 18:25:40: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 18:25:40: [SM] Call stack trace:
+L 09/21/2020 - 18:25:40: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 18:27:04: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 18:27:04: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 18:27:04: [SM] Call stack trace:
+L 09/21/2020 - 18:27:04: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 18:28:49: [SM] Exception reported: Language phrase "Player_Connected_From" not found (arg 3)
+L 09/21/2020 - 18:28:49: [SM] Blaming: advadmin.smx
+L 09/21/2020 - 18:28:49: [SM] Call stack trace:
+L 09/21/2020 - 18:28:49: [SM]   [0] VFormat
+L 09/21/2020 - 18:28:49: [SM]   [1] Line 386, /groups/sourcemod/compiler-1.10/include/halflife.inc::PrintToChatAll
+L 09/21/2020 - 18:28:49: [SM]   [2] Line 141, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::OnClientAuthorized
+L 09/21/2020 - 18:29:04: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 18:29:04: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 18:29:04: [SM] Call stack trace:
+L 09/21/2020 - 18:29:04: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 18:34:07: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 18:34:07: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 18:34:07: [SM] Call stack trace:
+L 09/21/2020 - 18:34:07: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 18:35:18: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 18:35:18: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 18:35:18: [SM] Call stack trace:
+L 09/21/2020 - 18:35:18: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 18:37:17: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 18:37:17: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 18:37:17: [SM] Call stack trace:
+L 09/21/2020 - 18:37:17: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 18:40:48: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 18:40:48: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 18:40:48: [SM] Call stack trace:
+L 09/21/2020 - 18:40:48: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 18:44:38: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 18:44:38: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 18:44:38: [SM] Call stack trace:
+L 09/21/2020 - 18:44:38: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 18:45:49: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 18:45:49: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 18:45:49: [SM] Call stack trace:
+L 09/21/2020 - 18:45:49: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 18:48:44: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/21/2020 - 18:48:44: [SM] Blaming: weapon_restrict.smx
+L 09/21/2020 - 18:48:44: [SM] Call stack trace:
+L 09/21/2020 - 18:48:44: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/21/2020 - 18:51:41: [SM] Exception reported: Language phrase "Player_Connected_From" not found (arg 3)
+L 09/21/2020 - 18:51:41: [SM] Blaming: advadmin.smx
+L 09/21/2020 - 18:51:41: [SM] Call stack trace:
+L 09/21/2020 - 18:51:41: [SM]   [0] VFormat
+L 09/21/2020 - 18:51:41: [SM]   [1] Line 386, /groups/sourcemod/compiler-1.10/include/halflife.inc::PrintToChatAll
+L 09/21/2020 - 18:51:41: [SM]   [2] Line 141, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::OnClientAuthorized
+L 09/21/2020 - 18:51:54: [SM] Exception reported: Language phrase "Player_Connected" not found (arg 3)
+L 09/21/2020 - 18:51:54: [SM] Blaming: advadmin.smx
+L 09/21/2020 - 18:51:54: [SM] Call stack trace:
+L 09/21/2020 - 18:51:54: [SM]   [0] VFormat
+L 09/21/2020 - 18:51:54: [SM]   [1] Line 386, /groups/sourcemod/compiler-1.10/include/halflife.inc::PrintToChatAll
+L 09/21/2020 - 18:51:54: [SM]   [2] Line 145, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::OnClientAuthorized
+L 09/22/2020 - 10:19:06: Error log file session closed.

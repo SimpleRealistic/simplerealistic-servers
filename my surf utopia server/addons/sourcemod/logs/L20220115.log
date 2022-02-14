@@ -1,0 +1,55 @@
+L 01/15/2022 - 00:13:35: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20220115.log") (Version "1.10.0.6528")
+L 01/15/2022 - 00:13:35: [afk_manager4.smx] [AFK Manager] Log File: addons/sourcemod/logs/afkm_20220115.log
+L 01/15/2022 - 00:13:36: [weapons.smx] Inactive players' data has been deleted
+L 01/15/2022 - 00:35:55: -------- Mapchange to surf_utopia_noble --------
+L 01/15/2022 - 00:35:56: [weapons.smx] Inactive players' data has been deleted
+L 01/15/2022 - 01:25:23: -------- Mapchange to surf_utopia_noble --------
+L 01/15/2022 - 01:25:25: [weapons.smx] Inactive players' data has been deleted
+L 01/15/2022 - 01:28:49: -------- Mapchange to surf_utopia_noble --------
+L 01/15/2022 - 01:28:50: [weapons.smx] Inactive players' data has been deleted
+L 01/15/2022 - 01:34:44: -------- Mapchange to surf_utopia_noble --------
+L 01/15/2022 - 01:34:45: [weapons.smx] Inactive players' data has been deleted
+L 01/15/2022 - 01:38:16: -------- Mapchange to surf_utopia_noble --------
+L 01/15/2022 - 01:38:17: [weapons.smx] Inactive players' data has been deleted
+L 01/15/2022 - 02:02:32: Log file closed.
+L 01/15/2022 - 02:02:42: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20220115.log") (Version "1.10.0.6528")
+L 01/15/2022 - 02:02:42: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 01/15/2022 - 02:02:42: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 01/15/2022 - 02:02:42: [afk_manager4.smx] [AFK Manager] Log File: addons/sourcemod/logs/afkm_20220115.log
+L 01/15/2022 - 02:02:42: [afk_manager4.smx] [AFK Manager] Detected Mod Counter-Strike: Global Offensive
+L 01/15/2022 - 02:02:43: [weapons.smx] MySQL DB connection successful
+L 01/15/2022 - 02:02:43: [weapons.smx] Inactive players' data has been deleted
+L 01/15/2022 - 02:02:45: [goldenknife.smx] Hooked Cvars
+L 01/15/2022 - 02:04:22: -------- Mapchange to surf_utopia_noble --------
+L 01/15/2022 - 02:04:23: [weapons.smx] Inactive players' data has been deleted
+L 01/15/2022 - 02:04:54: Log file closed.
+L 01/15/2022 - 02:06:46: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20220115.log") (Version "1.10.0.6528")
+L 01/15/2022 - 02:06:46: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 01/15/2022 - 02:06:46: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 01/15/2022 - 02:06:46: [afk_manager4.smx] [AFK Manager] Log File: addons/sourcemod/logs/afkm_20220115.log
+L 01/15/2022 - 02:06:46: [afk_manager4.smx] [AFK Manager] Detected Mod Counter-Strike: Global Offensive
+L 01/15/2022 - 02:06:48: [weapons.smx] MySQL DB connection successful
+L 01/15/2022 - 02:06:48: [weapons.smx] Inactive players' data has been deleted
+L 01/15/2022 - 02:06:49: [goldenknife.smx] Hooked Cvars
+L 01/15/2022 - 02:07:46: Log file closed.
+L 01/15/2022 - 02:07:53: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20220115.log") (Version "1.10.0.6528")
+L 01/15/2022 - 02:07:53: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 01/15/2022 - 02:07:53: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 01/15/2022 - 02:07:53: [afk_manager4.smx] [AFK Manager] Log File: addons/sourcemod/logs/afkm_20220115.log
+L 01/15/2022 - 02:07:53: [afk_manager4.smx] [AFK Manager] Detected Mod Counter-Strike: Global Offensive
+L 01/15/2022 - 02:07:55: [weapons.smx] MySQL DB connection successful
+L 01/15/2022 - 02:07:55: [weapons.smx] Inactive players' data has been deleted
+L 01/15/2022 - 02:07:56: [goldenknife.smx] Hooked Cvars
+L 01/15/2022 - 02:22:15: [basecomm.smx] "dylan<18><STEAM_1:0:152419574><>" muted "GOTV<2><BOT><>"
+L 01/15/2022 - 02:22:15: [basecomm.smx] "dylan<18><STEAM_1:0:152419574><>" muted "Diggy<9><STEAM_1:0:34186315><>"
+L 01/15/2022 - 02:22:15: [basecomm.smx] "dylan<18><STEAM_1:0:152419574><>" muted "fika (00:47:36)<7><BOT><>"
+L 01/15/2022 - 02:22:15: [basecomm.smx] "dylan<18><STEAM_1:0:152419574><>" muted "Alex.seven123<10><STEAM_1:1:634992194><>"
+L 01/15/2022 - 02:22:15: [basecomm.smx] "dylan<18><STEAM_1:0:152419574><>" muted "SacredBunny7<11><STEAM_1:0:26971166><>"
+L 01/15/2022 - 02:22:15: [basecomm.smx] "dylan<18><STEAM_1:0:152419574><>" muted "SquidBitsくコ:彡<12><STEAM_1:0:37161424><>"
+L 01/15/2022 - 02:22:15: [basecomm.smx] "dylan<18><STEAM_1:0:152419574><>" muted "Gyro<19><STEAM_1:1:36946293><>"
+L 01/15/2022 - 02:22:15: [basecomm.smx] "dylan<18><STEAM_1:0:152419574><>" muted "Dektwa<15><STEAM_1:1:207094270><>"
+L 01/15/2022 - 02:22:15: [basecomm.smx] "dylan<18><STEAM_1:0:152419574><>" muted "Yardee 4.0<16><STEAM_1:1:553187922><>"
+L 01/15/2022 - 02:22:15: [basecomm.smx] "dylan<18><STEAM_1:0:152419574><>" muted "TommyTaintSmacker<17><STEAM_1:1:441296658><>"
+L 01/15/2022 - 02:22:15: [basecomm.smx] "dylan<18><STEAM_1:0:152419574><>" muted "dylan<18><STEAM_1:0:152419574><>"
+L 01/15/2022 - 02:22:15: [basecomm.smx] "dylan<18><STEAM_1:0:152419574><>" muted "Angela Ziegler<20><STEAM_1:1:222196193><>"
+L 01/16/2022 - 01:54:06: Log file closed.

@@ -1,0 +1,30 @@
+L 02/14/2021 - 12:37:43: SourceMod log file session started (file "/home/tcagame/jackm1/599/csgo/addons/sourcemod/logs/L20210214.log") (Version "1.10.0.6502")
+L 02/14/2021 - 12:37:43: -------- Mapchange to de_cache --------
+L 02/14/2021 - 12:40:35: -------- Mapchange to de_shortdust --------
+L 02/14/2021 - 14:25:16: -------- Mapchange to de_shortdust --------
+L 02/14/2021 - 14:27:38: -------- Mapchange to de_overpass --------
+L 02/14/2021 - 17:02:47: -------- Mapchange to de_overpass --------
+L 02/14/2021 - 17:03:33: [basecommands.smx] "Leo Dooly<146><STEAM_1:0:109554979><>" changed map to "mirage"
+L 02/14/2021 - 17:03:36: [SM] Changed map to "mirage"
+L 02/14/2021 - 17:03:37: -------- Mapchange to de_mirage --------
+L 02/14/2021 - 17:21:02: -------- Mapchange to de_inferno --------
+L 02/14/2021 - 17:31:45: [basecommands.smx] "Leo Dooly<146><STEAM_1:0:109554979><>" changed map to "mirage"
+L 02/14/2021 - 17:31:48: [SM] Changed map to "mirage"
+L 02/14/2021 - 17:31:49: -------- Mapchange to de_mirage --------
+L 02/14/2021 - 18:55:25: -------- Mapchange to de_mirage --------
+L 02/14/2021 - 18:58:03: [basecommands.smx] "death4two<154><STEAM_1:1:89148858><>" console command (cmdline "map de_bank")
+L 02/14/2021 - 18:58:03: -------- Mapchange to de_bank --------
+L 02/14/2021 - 18:58:57: [basecommands.smx] "death4two<154><STEAM_1:1:89148858><>" console command (cmdline "mp_afterroundmoney 16000")
+L 02/14/2021 - 19:02:11: [basecommands.smx] "death4two<154><STEAM_1:1:89148858><>" console command (cmdline "mp_afterroundmoney 16000")
+L 02/14/2021 - 19:03:49: [basecommands.smx] "death4two<154><STEAM_1:1:89148858><>" console command (cmdline "mp_afterroundmoney 16000")
+L 02/14/2021 - 19:09:03: [basecommands.smx] "death4two<154><STEAM_1:1:89148858><>" console command (cmdline "map de_lake")
+L 02/14/2021 - 19:09:04: -------- Mapchange to de_lake --------
+L 02/14/2021 - 19:13:16: [basecommands.smx] "death4two<154><STEAM_1:1:89148858><>" console command (cmdline "mp_afterroundmoney 16000")
+L 02/14/2021 - 19:25:11: [basecommands.smx] "death4two<154><STEAM_1:1:89148858><>" console command (cmdline "map de_shortdust")
+L 02/14/2021 - 19:25:12: -------- Mapchange to de_shortdust --------
+L 02/14/2021 - 19:35:15: [basecommands.smx] "death4two<154><STEAM_1:1:89148858><>" kicked "ballsack45<157><STEAM_1:0:589625879><>" (reason "")
+L 02/14/2021 - 19:35:17: [basecommands.smx] "death4two<154><STEAM_1:1:89148858><>" kicked "Noodle Head!<156><STEAM_1:0:588820417><>" (reason "")
+L 02/14/2021 - 20:29:46: -------- Mapchange to de_shortdust --------
+L 02/14/2021 - 20:37:54: -------- Mapchange to de_shortdust --------
+L 02/14/2021 - 21:49:08: -------- Mapchange to de_shortdust --------
+L 02/15/2021 - 09:32:01: Log file closed.

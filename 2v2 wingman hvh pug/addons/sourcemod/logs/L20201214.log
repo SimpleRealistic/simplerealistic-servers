@@ -1,0 +1,43 @@
+L 12/14/2020 - 09:04:31: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201214.log") (Version "1.10.0.6490")
+L 12/14/2020 - 09:04:31: -------- Mapchange to de_cache --------
+L 12/14/2020 - 09:24:31: -------- Mapchange to de_overpass --------
+L 12/14/2020 - 10:07:16: -------- Mapchange to de_overpass --------
+L 12/14/2020 - 18:39:37: -------- Mapchange to de_inferno --------
+L 12/14/2020 - 20:26:35: -------- Mapchange to de_bank --------
+L 12/14/2020 - 21:10:47: [basecommands.smx] "Leo Dooly<385><STEAM_1:0:109554979><>" console command (cmdline "sv_airaccelerate 350")
+L 12/14/2020 - 21:17:26: [basecommands.smx] "Leo Dooly<385><STEAM_1:0:109554979><>" console command (cmdline "bot_kick")
+L 12/14/2020 - 21:19:20: -------- Mapchange to de_inferno --------
+L 12/14/2020 - 21:20:36: [basecommands.smx] "Leo Dooly<385><STEAM_1:0:109554979><>" console command (cmdline "sv_airaccelerate 350")
+L 12/14/2020 - 21:21:06: [basecommands.smx] "Leo Dooly<385><STEAM_1:0:109554979><>" console command (cmdline "sv_airaccelerate 350")
+L 12/14/2020 - 21:27:23: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201214.log") (Version "1.10.0.6490")
+L 12/14/2020 - 21:27:23: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/14/2020 - 21:27:29: -------- Mapchange to de_dust2 --------
+L 12/14/2020 - 21:28:36: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201214.log") (Version "1.10.0.6490")
+L 12/14/2020 - 21:28:36: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/14/2020 - 21:28:41: -------- Mapchange to de_dust2 --------
+L 12/14/2020 - 21:30:13: [basecommands.smx] "Leo Dooly<18><STEAM_1:0:109554979><>" changed map to "inferno"
+L 12/14/2020 - 21:30:16: [SM] Changed map to "inferno"
+L 12/14/2020 - 21:30:18: -------- Mapchange to de_inferno --------
+L 12/14/2020 - 21:30:56: [basecommands.smx] "Leo Dooly<18><STEAM_1:0:109554979><>" console command (cmdline "sv_airaccelerate 350")
+L 12/14/2020 - 22:31:44: -------- Mapchange to de_inferno --------
+L 12/14/2020 - 22:34:22: -------- Mapchange to de_mirage --------
+L 12/14/2020 - 22:53:17: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201214.log") (Version "1.10.0.6490")
+L 12/14/2020 - 22:53:17: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/14/2020 - 22:53:32: -------- Mapchange to de_dust2 --------
+L 12/14/2020 - 22:58:06: -------- Mapchange to cs_assault --------
+L 12/14/2020 - 23:19:20: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" console command (cmdline "mp_restartgame 1")
+L 12/14/2020 - 23:20:47: -------- Mapchange to de_mirage --------
+L 12/14/2020 - 23:22:03: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "sv_accelerate 300")
+L 12/14/2020 - 23:22:31: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "sv_accelerate 300")
+L 12/14/2020 - 23:22:42: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "sv_airaccelerate 300")
+L 12/14/2020 - 23:23:35: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "sv_airaccelerate ")
+L 12/14/2020 - 23:23:46: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "sv_airaccelerate 100")
+L 12/14/2020 - 23:23:56: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "sv_airaccelerate ")
+L 12/14/2020 - 23:24:07: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "sv_accelerate 5.6")
+L 12/14/2020 - 23:24:09: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "sv_accelerate ")
+L 12/14/2020 - 23:24:12: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "sv_accelerate 5.5")
+L 12/14/2020 - 23:38:05: -------- Mapchange to de_dust2 --------
+L 12/14/2020 - 23:39:21: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "sv_airaccelerate 300")
+L 12/14/2020 - 23:57:46: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201214.log") (Version "1.10.0.6490")
+L 12/14/2020 - 23:57:46: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/15/2020 - 02:46:40: Log file closed.

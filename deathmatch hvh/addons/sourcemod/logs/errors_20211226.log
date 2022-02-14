@@ -1,0 +1,36 @@
+L 12/26/2021 - 21:20:15: SourceMod error session started
+L 12/26/2021 - 21:20:15: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20211226.log")
+L 12/26/2021 - 21:20:15: [SM] Exception reported: Entity 2 (2) is invalid
+L 12/26/2021 - 21:20:15: [SM] Blaming: DisableRadar.smx
+L 12/26/2021 - 21:20:15: [SM] Call stack trace:
+L 12/26/2021 - 21:20:15: [SM]   [0] GetEntProp
+L 12/26/2021 - 21:20:15: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 12/26/2021 - 21:20:15: [SM] Exception reported: Entity 2 (2) is invalid
+L 12/26/2021 - 21:20:15: [SM] Blaming: DisableRadar.smx
+L 12/26/2021 - 21:20:15: [SM] Call stack trace:
+L 12/26/2021 - 21:20:15: [SM]   [0] GetEntProp
+L 12/26/2021 - 21:20:15: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 12/26/2021 - 21:20:15: [SM] Exception reported: Entity 2 (2) is invalid
+L 12/26/2021 - 21:20:15: [SM] Blaming: DisableRadar.smx
+L 12/26/2021 - 21:20:15: [SM] Call stack trace:
+L 12/26/2021 - 21:20:15: [SM]   [0] GetEntProp
+L 12/26/2021 - 21:20:15: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 12/26/2021 - 21:20:15: [SM] Exception reported: Entity 2 (2) is invalid
+L 12/26/2021 - 21:20:15: [SM] Blaming: DisableRadar.smx
+L 12/26/2021 - 21:20:15: [SM] Call stack trace:
+L 12/26/2021 - 21:20:15: [SM]   [0] GetEntProp
+L 12/26/2021 - 21:20:15: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 12/26/2021 - 21:39:44: Error log file session closed.
+L 12/26/2021 - 21:40:34: SourceMod error session started
+L 12/26/2021 - 21:40:34: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20211226.log")
+L 12/26/2021 - 21:40:34: [SM] Exception reported: Entity 2 (2) is invalid
+L 12/26/2021 - 21:40:34: [SM] Blaming: DisableRadar.smx
+L 12/26/2021 - 21:40:34: [SM] Call stack trace:
+L 12/26/2021 - 21:40:34: [SM]   [0] GetEntProp
+L 12/26/2021 - 21:40:34: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 12/26/2021 - 21:40:34: [SM] Exception reported: Entity 2 (2) is invalid
+L 12/26/2021 - 21:40:34: [SM] Blaming: DisableRadar.smx
+L 12/26/2021 - 21:40:34: [SM] Call stack trace:
+L 12/26/2021 - 21:40:34: [SM]   [0] GetEntProp
+L 12/26/2021 - 21:40:34: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 12/27/2021 - 00:21:20: Error log file session closed.

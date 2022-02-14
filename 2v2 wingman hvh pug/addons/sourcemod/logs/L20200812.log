@@ -1,0 +1,29 @@
+L 08/12/2020 - 09:28:30: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200812.log") (Version "1.10.0.6490")
+L 08/12/2020 - 09:28:30: -------- Mapchange to de_overpass --------
+L 08/12/2020 - 10:31:59: -------- Mapchange to de_overpass --------
+L 08/12/2020 - 22:18:01: -------- Mapchange to de_overpass --------
+L 08/12/2020 - 22:32:06: -------- Mapchange to cs_office --------
+L 08/12/2020 - 22:43:27: [basecommands.smx] "dylan<206><STEAM_1:0:152419574><>" console command (cmdline "mp_restartgame 1")
+L 08/12/2020 - 22:56:17: [funcommands.smx] "dylan<206><STEAM_1:0:152419574><>" froze "Jonathan<207><STEAM_1:1:446994528><>"
+L 08/12/2020 - 22:56:17: [funcommands.smx] "dylan<206><STEAM_1:0:152419574><>" froze "dylan<206><STEAM_1:0:152419574><>"
+L 08/12/2020 - 22:56:17: [funcommands.smx] "dylan<206><STEAM_1:0:152419574><>" froze "Noface<219><STEAM_1:0:550435244><>"
+L 08/12/2020 - 22:56:17: [funcommands.smx] "dylan<206><STEAM_1:0:152419574><>" froze "peen<209><STEAM_1:1:198643341><>"
+L 08/12/2020 - 22:56:17: [funcommands.smx] "dylan<206><STEAM_1:0:152419574><>" froze "sell hek <3<218><STEAM_1:1:61918988><>"
+L 08/12/2020 - 22:56:44: [funcommands.smx] "dylan<206><STEAM_1:0:152419574><>" froze "peen<209><STEAM_1:1:198643341><>"
+L 08/12/2020 - 22:56:44: [funcommands.smx] "dylan<206><STEAM_1:0:152419574><>" froze "sell hek <3<218><STEAM_1:1:61918988><>"
+L 08/12/2020 - 22:57:06: [funcommands.smx] "dylan<222><STEAM_1:0:152419574><>" froze "peen<209><STEAM_1:1:198643341><>"
+L 08/12/2020 - 22:57:11: [funcommands.smx] "dylan<222><STEAM_1:0:152419574><>" set a FireBomb on "peen<209><STEAM_1:1:198643341><>"
+L 08/12/2020 - 23:05:44: [playercommands.smx] "dylan<222><STEAM_1:0:152419574><>" slayed "sell hek <3<225><STEAM_1:1:61918988><>"
+L 08/12/2020 - 23:05:44: [playercommands.smx] "dylan<222><STEAM_1:0:152419574><>" slayed "dylan<222><STEAM_1:0:152419574><>"
+L 08/12/2020 - 23:05:44: [playercommands.smx] "dylan<222><STEAM_1:0:152419574><>" slayed ".!. (-_-) .!.<220><STEAM_1:0:493565671><>"
+L 08/12/2020 - 23:05:44: [playercommands.smx] "dylan<222><STEAM_1:0:152419574><>" slayed "ring0<221><STEAM_1:1:595044><>"
+L 08/12/2020 - 23:05:44: [playercommands.smx] "dylan<222><STEAM_1:0:152419574><>" slayed "Prev<223><STEAM_1:1:488265829><>"
+L 08/12/2020 - 23:09:29: [basecommands.smx] "dylan<222><STEAM_1:0:152419574><>" kicked "roblox.cc<226><STEAM_1:1:526458448><>" (reason "")
+L 08/12/2020 - 23:13:48: -------- Mapchange to cs_office --------
+L 08/12/2020 - 23:37:05: [playercommands.smx] "dylan<222><STEAM_1:0:152419574><>" renamed "xXSquishyTootx<214><STEAM_1:1:104907919><>" (to "toe")
+L 08/12/2020 - 23:37:52: [playercommands.smx] "dylan<222><STEAM_1:0:152419574><>" renamed "toe<214><STEAM_1:1:104907919><>" (to "toenail")
+L 08/12/2020 - 23:51:59: [basecommands.smx] "dylan<222><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/12/2020 - 23:52:21: [basecommands.smx] "dylan<222><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body1")
+L 08/12/2020 - 23:52:23: [basecommands.smx] "dylan<222><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/12/2020 - 23:58:22: [basecommands.smx] "dylan<222><STEAM_1:0:152419574><>" kicked "PowerPuffGirls<202><STEAM_1:0:500251296><>" (reason "")
+L 08/13/2020 - 00:00:07: Log file closed.

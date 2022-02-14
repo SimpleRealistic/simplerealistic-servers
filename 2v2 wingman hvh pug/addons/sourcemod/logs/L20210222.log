@@ -1,0 +1,20 @@
+L 02/22/2021 - 10:53:04: SourceMod log file session started (file "/home/tcagame/jackm1/599/csgo/addons/sourcemod/logs/L20210222.log") (Version "1.10.0.6502")
+L 02/22/2021 - 10:53:04: -------- Mapchange to de_bank --------
+L 02/22/2021 - 10:59:38: -------- Mapchange to de_vertigo --------
+L 02/22/2021 - 11:54:52: -------- Mapchange to de_vertigo --------
+L 02/22/2021 - 12:43:50: [SM] Changed map to "de_dust"
+L 02/22/2021 - 12:43:52: -------- Mapchange to de_dust2 --------
+L 02/22/2021 - 15:15:09: -------- Mapchange to de_dust2 --------
+L 02/22/2021 - 15:19:05: -------- Mapchange to de_inferno --------
+L 02/22/2021 - 15:33:59: -------- Mapchange to de_lake --------
+L 02/22/2021 - 15:46:53: -------- Mapchange to de_lake --------
+L 02/22/2021 - 17:51:34: -------- Mapchange to de_lake --------
+L 02/22/2021 - 18:01:42: -------- Mapchange to de_lake --------
+L 02/22/2021 - 18:01:57: [basecommands.smx] "death4two<109><STEAM_1:1:89148858><>" console command (cmdline "map de_bank")
+L 02/22/2021 - 18:01:57: -------- Mapchange to de_bank --------
+L 02/22/2021 - 18:04:28: [basecommands.smx] "death4two<109><STEAM_1:1:89148858><>" console command (cmdline "say gl")
+L 02/22/2021 - 18:07:27: [basechat.smx] "death4two<109><STEAM_1:1:89148858><>" triggered sm_say (text 2x1 hm)
+L 02/22/2021 - 18:07:29: [basechat.smx] "death4two<109><STEAM_1:1:89148858><>" triggered sm_say (text lmao)
+L 02/22/2021 - 21:13:08: -------- Mapchange to de_bank --------
+L 02/22/2021 - 21:15:59: -------- Mapchange to de_overpass --------
+L 02/23/2021 - 00:53:50: Log file closed.

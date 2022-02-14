@@ -1,0 +1,17 @@
+L 10/02/2020 - 11:30:07: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201002.log") (Version "1.10.0.6490")
+L 10/02/2020 - 11:30:07: -------- Mapchange to de_mirage --------
+L 10/02/2020 - 18:43:00: -------- Mapchange to de_mirage --------
+L 10/02/2020 - 18:47:04: -------- Mapchange to de_train --------
+L 10/02/2020 - 19:17:31: -------- Mapchange to de_dust2 --------
+L 10/02/2020 - 20:27:19: -------- Mapchange to de_dust2 --------
+L 10/02/2020 - 20:38:15: [basebans.smx] "dylan<108><STEAM_1:1:526494088><>" banned "imkoda<104><STEAM_1:0:458037811><>" (minutes "30") (reason "")
+L 10/02/2020 - 20:38:20: [basebans.smx] "dylan<108><STEAM_1:1:526494088><>" banned "pro bed-wetter<105><STEAM_1:1:198643341><>" (minutes "30") (reason "")
+L 10/02/2020 - 20:38:36: [basecommands.smx] "dylan<108><STEAM_1:1:526494088><>" console command (cmdline "bot_kick")
+L 10/02/2020 - 20:38:46: [basechat.smx] "dylan<108><STEAM_1:1:526494088><>" triggered sm_say (text dm me if they rejoin)
+L 10/02/2020 - 20:40:48: -------- Mapchange to cs_assault --------
+L 10/02/2020 - 21:38:16: -------- Mapchange to cs_assault --------
+L 10/02/2020 - 21:40:05: [basecommands.smx] "Leo Dooly<115><STEAM_1:0:109554979><>" changed map to "mirage"
+L 10/02/2020 - 21:40:08: [SM] Changed map to "mirage"
+L 10/02/2020 - 21:40:08: -------- Mapchange to de_mirage --------
+L 10/02/2020 - 22:06:13: [playercommands.smx] "Leo Dooly<116><STEAM_1:0:109554979><>" slayed "youtube.com/c/Remidys<118><STEAM_1:1:466270468><>"
+L 10/03/2020 - 12:35:24: Log file closed.

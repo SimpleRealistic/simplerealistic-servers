@@ -1,0 +1,18 @@
+L 11/25/2020 - 14:44:15: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201125.log") (Version "1.10.0.6490")
+L 11/25/2020 - 14:44:15: -------- Mapchange to de_dust2 --------
+L 11/25/2020 - 14:51:03: [basecommands.smx] "dylan<6><STEAM_1:1:511092287><>" console command (cmdline "BOT_ADD_T")
+L 11/25/2020 - 14:51:12: [basecommands.smx] "dylan<6><STEAM_1:1:511092287><>" console command (cmdline "BOT_ADD_T")
+L 11/25/2020 - 14:51:15: [funcommands.smx] "dylan<6><STEAM_1:1:511092287><>" toggled noclip on "dylan<6><STEAM_1:1:511092287><>"
+L 11/25/2020 - 14:51:28: [funcommands.smx] "dylan<6><STEAM_1:1:511092287><>" toggled noclip on "dylan<6><STEAM_1:1:511092287><>"
+L 11/25/2020 - 14:52:27: [basecommands.smx] "dylan<6><STEAM_1:1:511092287><>" console command (cmdline "bot_kick")
+L 11/25/2020 - 14:54:18: [funcommands.smx] "dylan<6><STEAM_1:1:511092287><>" toggled noclip on "death4two<5><STEAM_1:1:89148858><>"
+L 11/25/2020 - 14:54:33: [funcommands.smx] "dylan<6><STEAM_1:1:511092287><>" toggled noclip on "death4two<5><STEAM_1:1:89148858><>"
+L 11/25/2020 - 14:54:59: [funcommands.smx] "dylan<6><STEAM_1:1:511092287><>" toggled noclip on "death4two<5><STEAM_1:1:89148858><>"
+L 11/25/2020 - 14:56:49: [basechat.smx] "COVID-20 LITE<10><STEAM_1:0:454543747><>" triggered sm_say (text r u configing)
+L 11/25/2020 - 14:57:13: [basechat.smx] "COVID-20 LITE<10><STEAM_1:0:454543747><>" triggered sm_say (text very nice)
+L 11/25/2020 - 14:57:33: [basechat.smx] "COVID-20 LITE<10><STEAM_1:0:454543747><>" triggered sm_say (text can I 1v1 someone?)
+L 11/25/2020 - 15:20:17: [basecommands.smx] "COVID-20 LITE<10><STEAM_1:0:454543747><>" console command (cmdline "bot_kick")
+L 11/25/2020 - 17:20:46: -------- Mapchange to de_dust2 --------
+L 11/25/2020 - 17:27:31: -------- Mapchange to de_dust2 --------
+L 11/25/2020 - 20:48:05: -------- Mapchange to de_dust2 --------
+L 11/26/2020 - 00:49:46: Log file closed.

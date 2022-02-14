@@ -1,0 +1,44 @@
+L 02/16/2021 - 10:35:33: SourceMod log file session started (file "/home/tcagame/jackm1/599/csgo/addons/sourcemod/logs/L20210216.log") (Version "1.10.0.6502")
+L 02/16/2021 - 10:35:33: -------- Mapchange to de_shortdust --------
+L 02/16/2021 - 12:41:19: -------- Mapchange to de_shortdust --------
+L 02/16/2021 - 13:09:08: [SM] Changed map to "de_dust"
+L 02/16/2021 - 13:09:11: -------- Mapchange to de_dust2 --------
+L 02/16/2021 - 14:10:33: [SM] Changed map to "de_dust"
+L 02/16/2021 - 14:10:37: -------- Mapchange to de_dust2 --------
+L 02/16/2021 - 14:25:36: [SM] Changed map to "de_dust"
+L 02/16/2021 - 14:25:39: -------- Mapchange to de_dust2 --------
+L 02/16/2021 - 14:33:44: [SM] Changed map to "de_dust"
+L 02/16/2021 - 14:33:47: -------- Mapchange to de_dust2 --------
+L 02/16/2021 - 15:54:00: -------- Mapchange to de_dust2 --------
+L 02/16/2021 - 16:06:14: [basecommands.smx] "death4two<231><STEAM_1:1:89148858><>" console command (cmdline "say ironic")
+L 02/16/2021 - 16:07:48: [basecommands.smx] "death4two<231><STEAM_1:1:89148858><>" console command (cmdline "say p paste")
+L 02/16/2021 - 16:09:40: [basecommands.smx] "death4two<231><STEAM_1:1:89148858><>" console command (cmdline "say 1")
+L 02/16/2021 - 16:11:15: [basecommands.smx] "death4two<231><STEAM_1:1:89148858><>" console command (cmdline "say god drip")
+L 02/16/2021 - 16:11:19: [basecommands.smx] "death4two<231><STEAM_1:1:89148858><>" console command (cmdline "say xd")
+L 02/16/2021 - 16:15:04: [basecommands.smx] "death4two<231><STEAM_1:1:89148858><>" console command (cmdline "1")
+L 02/16/2021 - 16:15:06: [basecommands.smx] "death4two<231><STEAM_1:1:89148858><>" console command (cmdline "say 1")
+L 02/16/2021 - 16:15:40: [basecommands.smx] "death4two<231><STEAM_1:1:89148858><>" console command (cmdline "map de_bank")
+L 02/16/2021 - 16:15:41: -------- Mapchange to de_bank --------
+L 02/16/2021 - 16:17:59: [basecommands.smx] "death4two<231><STEAM_1:1:89148858><>" console command (cmdline "noclip")
+L 02/16/2021 - 16:18:14: [basecommands.smx] "death4two<231><STEAM_1:1:89148858><>" console command (cmdline "god death4two")
+L 02/16/2021 - 16:18:32: [basecommands.smx] "death4two<231><STEAM_1:1:89148858><>" console command (cmdline "sm_health death4two 1000")
+L 02/16/2021 - 16:18:35: [basecommands.smx] "death4two<231><STEAM_1:1:89148858><>" console command (cmdline "sm_health death4two 100")
+L 02/16/2021 - 16:22:33: [basecommands.smx] "death4two<231><STEAM_1:1:89148858><>" console command (cmdline "say H$")
+L 02/16/2021 - 16:26:12: [basecommands.smx] "death4two<231><STEAM_1:1:89148858><>" console command (cmdline "say what r u doing nigga")
+L 02/16/2021 - 16:33:27: [basecommands.smx] "death4two<231><STEAM_1:1:89148858><>" console command (cmdline "say tick tok")
+L 02/16/2021 - 16:34:09: [basecommands.smx] "death4two<231><STEAM_1:1:89148858><>" console command (cmdline "say what map")
+L 02/16/2021 - 16:34:15: [basecommands.smx] "death4two<231><STEAM_1:1:89148858><>" console command (cmdline "not dust or bank")
+L 02/16/2021 - 16:34:20: [basecommands.smx] "death4two<231><STEAM_1:1:89148858><>" console command (cmdline "say not dust or bank")
+L 02/16/2021 - 16:34:31: [basecommands.smx] "death4two<231><STEAM_1:1:89148858><>" console command (cmdline "map de_shortdust")
+L 02/16/2021 - 16:34:31: -------- Mapchange to de_shortdust --------
+L 02/16/2021 - 16:48:03: [basecommands.smx] "death4two<231><STEAM_1:1:89148858><>" console command (cmdline "say gh")
+L 02/16/2021 - 16:48:13: [basechat.smx] "death4two<231><STEAM_1:1:89148858><>" triggered sm_say (text lets see)
+L 02/16/2021 - 16:55:06: [basecommands.smx] "death4two<231><STEAM_1:1:89148858><>" console command (cmdline "say HAHAHAHAHA")
+L 02/16/2021 - 17:46:32: -------- Mapchange to de_shortdust --------
+L 02/16/2021 - 19:16:05: -------- Mapchange to de_shortdust --------
+L 02/16/2021 - 19:24:14: -------- Mapchange to de_inferno --------
+L 02/16/2021 - 20:10:16: -------- Mapchange to de_inferno --------
+L 02/16/2021 - 20:12:01: -------- Mapchange to de_inferno --------
+L 02/16/2021 - 20:21:33: -------- Mapchange to de_vertigo --------
+L 02/16/2021 - 21:34:25: -------- Mapchange to de_vertigo --------
+L 02/17/2021 - 06:44:21: Log file closed.

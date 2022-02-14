@@ -1,0 +1,12 @@
+L 12/25/2021 - 18:55:59: SourceMod error session started
+L 12/25/2021 - 18:55:59: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20211225.log")
+L 12/25/2021 - 18:55:59: [SM] Unable to load plugin "rockthevote.smx": Could not find required plugin "mapchooser"
+L 12/25/2021 - 18:55:59: [SM] Error parsing gameconfig file "/home/steam/deathmatch/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/25/2021 - 18:55:59: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/25/2021 - 18:55:59: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/25/2021 - 18:55:59: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/25/2021 - 18:55:59: [SM] Call stack trace:
+L 12/25/2021 - 18:55:59: [SM]   [0] LoadGameConfigFile
+L 12/25/2021 - 18:55:59: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/25/2021 - 18:55:59: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/25/2021 - 19:00:21: Error log file session closed.

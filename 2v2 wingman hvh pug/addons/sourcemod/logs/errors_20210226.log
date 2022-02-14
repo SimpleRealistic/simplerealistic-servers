@@ -1,0 +1,10 @@
+L 02/26/2021 - 13:39:28: SourceMod error session started
+L 02/26/2021 - 13:39:28: Info (map "de_overpass") (file "/home/tcagame/jackm1/599/csgo/addons/sourcemod/logs/errors_20210226.log")
+L 02/26/2021 - 13:39:28: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 02/26/2021 - 13:39:28: [SM] Error (line 0, column 0): Stream failed to open
+L 02/26/2021 - 22:05:55: Error log file session closed.
+L 02/26/2021 - 22:05:55: SourceMod error session started
+L 02/26/2021 - 22:05:55: Info (map "de_overpass") (file "/home/tcagame/jackm1/599/csgo/addons/sourcemod/logs/errors_20210226.log")
+L 02/26/2021 - 22:05:55: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 02/26/2021 - 22:05:55: [SM] Error (line 0, column 0): Stream failed to open
+L 02/27/2021 - 19:02:12: Error log file session closed.

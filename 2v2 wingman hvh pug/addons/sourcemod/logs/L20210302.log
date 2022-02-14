@@ -1,0 +1,24 @@
+L 03/02/2021 - 00:16:18: SourceMod log file session started (file "/home/tcagame/jackm1/599/csgo/addons/sourcemod/logs/L20210302.log") (Version "1.10.0.6502")
+L 03/02/2021 - 00:16:18: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 03/02/2021 - 00:35:42: -------- Mapchange to de_inferno --------
+L 03/02/2021 - 00:41:24: -------- Mapchange to de_inferno --------
+L 03/02/2021 - 00:44:18: [basecommands.smx] "youtube.com/dylanhook<4><STEAM_1:0:23861894><>" changed cvar (cvar "sv_full_alltalk") (value "1")
+L 03/02/2021 - 00:44:24: [basecommands.smx] "youtube.com/dylanhook<4><STEAM_1:0:23861894><>" console command (cmdline "sv_alltalk 1")
+L 03/02/2021 - 00:46:09: -------- Mapchange to de_inferno --------
+L 03/02/2021 - 00:46:59: [basecommands.smx] "youtube.com/dylanhook<4><STEAM_1:0:23861894><>" console command (cmdline "sv_full_alltalk 1")
+L 03/02/2021 - 00:52:21: [basecommands.smx] "youtube.com/dylanhook<4><STEAM_1:0:23861894><>" console command (cmdline "sv_full_alltalk ")
+L 03/02/2021 - 00:52:23: [basecommands.smx] "youtube.com/dylanhook<4><STEAM_1:0:23861894><>" console command (cmdline "sv_full_alltalk 1")
+L 03/02/2021 - 00:55:16: [basecommands.smx] "youtube.com/dylanhook<4><STEAM_1:0:23861894><>" console command (cmdline "sv_full_alltalk ")
+L 03/02/2021 - 00:55:17: [basecommands.smx] "youtube.com/dylanhook<4><STEAM_1:0:23861894><>" console command (cmdline "sv_full_alltalk 1")
+L 03/02/2021 - 00:55:37: [basecommands.smx] "youtube.com/dylanhook<4><STEAM_1:0:23861894><>" console command (cmdline "sv_full_alltalk ")
+L 03/02/2021 - 00:55:47: [basecommands.smx] "youtube.com/dylanhook<4><STEAM_1:0:23861894><>" console command (cmdline "sv_full_alltalk")
+L 03/02/2021 - 00:55:48: [basecommands.smx] "youtube.com/dylanhook<4><STEAM_1:0:23861894><>" console command (cmdline "sv_full_alltalk ")
+L 03/02/2021 - 00:55:48: [basecommands.smx] "youtube.com/dylanhook<4><STEAM_1:0:23861894><>" console command (cmdline "sv_full_alltalk")
+L 03/02/2021 - 01:02:42: -------- Mapchange to de_shortdust --------
+L 03/02/2021 - 01:03:05: [basecommands.smx] "youtube.com/dylanhook<4><STEAM_1:0:23861894><>" changed map to "train"
+L 03/02/2021 - 01:03:08: [SM] Changed map to "train"
+L 03/02/2021 - 01:03:08: -------- Mapchange to training1 --------
+L 03/02/2021 - 01:03:29: [basecommands.smx] "youtube.com/dylanhook<4><STEAM_1:0:23861894><>" changed map to "de_train"
+L 03/02/2021 - 01:03:32: [SM] Changed map to "de_train"
+L 03/02/2021 - 01:03:33: -------- Mapchange to de_train --------
+L 03/02/2021 - 13:40:21: -------- Mapchange to de_train --------

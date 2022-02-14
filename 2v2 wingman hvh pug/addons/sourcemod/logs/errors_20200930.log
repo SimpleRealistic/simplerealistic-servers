@@ -1,0 +1,10 @@
+L 09/30/2020 - 16:30:48: SourceMod error session started
+L 09/30/2020 - 16:30:48: Info (map "de_mirage") (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/errors_20200930.log")
+L 09/30/2020 - 16:30:48: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 09/30/2020 - 16:30:48: [SM] Error (line 0, column 0): Stream failed to open
+L 09/30/2020 - 17:13:53: Error log file session closed.
+L 09/30/2020 - 17:13:53: SourceMod error session started
+L 09/30/2020 - 17:13:53: Info (map "de_mirage") (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/errors_20200930.log")
+L 09/30/2020 - 17:13:53: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 09/30/2020 - 17:13:53: [SM] Error (line 0, column 0): Stream failed to open
+L 10/01/2020 - 21:06:12: Error log file session closed.

@@ -1,0 +1,71 @@
+L 11/14/2020 - 08:46:44: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201114.log") (Version "1.10.0.6490")
+L 11/14/2020 - 08:46:44: -------- Mapchange to cs_militia --------
+L 11/14/2020 - 08:49:12: -------- Mapchange to de_lake --------
+L 11/14/2020 - 14:15:15: -------- Mapchange to de_lake --------
+L 11/14/2020 - 14:54:47: -------- Mapchange to de_lake --------
+L 11/14/2020 - 15:05:33: -------- Mapchange to de_cache --------
+L 11/14/2020 - 16:47:18: -------- Mapchange to de_cache --------
+L 11/14/2020 - 16:51:52: -------- Mapchange to de_overpass --------
+L 11/14/2020 - 17:26:10: -------- Mapchange to de_bank --------
+L 11/14/2020 - 17:36:15: -------- Mapchange to de_mirage --------
+L 11/14/2020 - 18:00:05: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201114.log") (Version "1.10.0.6490")
+L 11/14/2020 - 18:00:05: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 11/14/2020 - 18:00:10: -------- Mapchange to de_dust2 --------
+L 11/14/2020 - 18:01:37: [basecommands.smx] "rovan<8><STEAM_1:1:511092287><>" kicked "runeldo<7><STEAM_1:1:563684119><>" (reason ""you are not a player in this match"")
+L 11/14/2020 - 18:04:38: -------- Mapchange to cs_italy --------
+L 11/14/2020 - 18:10:46: [basecommands.smx] "rovan<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damagescale_ct")
+L 11/14/2020 - 18:10:56: [basecommands.smx] "rovan<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 11/14/2020 - 18:11:12: [playercommands.smx] "rovan<8><STEAM_1:1:511092287><>" renamed "Someone that noone will know<2><STEAM_1:0:198068028><>" (to "player uid # 1")
+L 11/14/2020 - 18:11:12: [playercommands.smx] "rovan<8><STEAM_1:1:511092287><>" renamed "1010101010101010101<3><STEAM_1:0:240591137><>" (to "player uid # 2")
+L 11/14/2020 - 18:11:12: [playercommands.smx] "rovan<8><STEAM_1:1:511092287><>" renamed "$$ THE FRENCH $$<4><STEAM_1:1:6218248><>" (to "player uid # 3")
+L 11/14/2020 - 18:11:12: [playercommands.smx] "rovan<8><STEAM_1:1:511092287><>" renamed "$$ TRENDSETTER $$<5><STEAM_1:1:449161731><>" (to "player uid # 4")
+L 11/14/2020 - 18:11:12: [playercommands.smx] "rovan<8><STEAM_1:1:511092287><>" renamed ",<6><STEAM_1:1:527197653><>" (to "player uid # 5")
+L 11/14/2020 - 18:11:12: [playercommands.smx] "rovan<8><STEAM_1:1:511092287><>" renamed "e peek user<18><STEAM_1:1:549024067><>" (to "player uid # 6")
+L 11/14/2020 - 18:11:12: [playercommands.smx] "rovan<8><STEAM_1:1:511092287><>" renamed "rovan<8><STEAM_1:1:511092287><>" (to "player uid # 7")
+L 11/14/2020 - 18:11:12: [playercommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" renamed "what is anti aim and why we hak<9><STEAM_1:1:1425092><>" (to "player uid # 8")
+L 11/14/2020 - 18:11:12: [playercommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" renamed "Nae Nae<19><STEAM_1:0:543219149><>" (to "player uid # 9")
+L 11/14/2020 - 18:11:12: [playercommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" renamed "MY FIRST STORY<11><STEAM_1:0:182229334><>" (to "player uid # 10")
+L 11/14/2020 - 18:11:12: [playercommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" renamed "$$ TRENDBREAKER $$<15><STEAM_1:0:548971565><>" (to "player uid # 11")
+L 11/14/2020 - 18:14:40: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 11/14/2020 - 18:14:53: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 11/14/2020 - 18:17:40: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 11/14/2020 - 18:18:48: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 11/14/2020 - 18:21:31: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 11/14/2020 - 18:21:47: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 11/14/2020 - 18:22:52: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 11/14/2020 - 18:22:56: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 11/14/2020 - 18:25:46: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 11/14/2020 - 18:27:38: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 11/14/2020 - 18:29:17: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_t_body .3")
+L 11/14/2020 - 18:29:22: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 11/14/2020 - 18:29:48: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 11/14/2020 - 18:29:52: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 11/14/2020 - 18:30:52: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 11/14/2020 - 18:31:15: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 11/14/2020 - 18:33:58: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 11/14/2020 - 18:34:00: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 11/14/2020 - 18:37:49: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 11/14/2020 - 18:38:45: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 11/14/2020 - 18:41:27: [playercommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" renamed "Nae Nae<21><STEAM_1:0:543219149><>" (to "player uid #")
+L 11/14/2020 - 18:42:39: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 11/14/2020 - 18:42:41: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 11/14/2020 - 18:42:55: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 11/14/2020 - 18:42:58: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 11/14/2020 - 18:43:57: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 11/14/2020 - 18:43:59: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 11/14/2020 - 18:45:41: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 11/14/2020 - 18:45:43: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 11/14/2020 - 18:46:00: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 11/14/2020 - 18:46:34: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 11/14/2020 - 18:47:26: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 11/14/2020 - 18:47:43: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" kicked "NathaN^<22><STEAM_1:1:571410340><>" (reason "")
+L 11/14/2020 - 18:48:36: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 11/14/2020 - 18:48:43: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_ct_body")
+L 11/14/2020 - 18:50:36: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 11/14/2020 - 18:51:30: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 11/14/2020 - 18:51:47: [basecommands.smx] "player uid # 7<8><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 11/14/2020 - 19:40:07: -------- Mapchange to cs_italy --------
+L 11/14/2020 - 19:42:10: -------- Mapchange to de_train --------
+L 11/14/2020 - 19:52:23: -------- Mapchange to cs_assault --------
+L 11/14/2020 - 20:37:30: -------- Mapchange to de_safehouse --------
+L 11/15/2020 - 09:33:44: Log file closed.

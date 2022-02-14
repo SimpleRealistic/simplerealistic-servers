@@ -1,0 +1,100 @@
+L 12/12/2020 - 10:57:49: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201212.log") (Version "1.10.0.6490")
+L 12/12/2020 - 10:57:49: [basechat.smx] "Leo Dooly<99><STEAM_1:0:109554979><>" triggered sm_say (text when is this match going to finish)
+L 12/12/2020 - 10:59:09: [basechat.smx] "Leo Dooly<99><STEAM_1:0:109554979><>" triggered sm_say (text when is this match going to finish)
+L 12/12/2020 - 10:59:43: [basechat.smx] "Leo Dooly<99><STEAM_1:0:109554979><>" triggered sm_say (text when is this match going to finish)
+L 12/12/2020 - 11:01:10: [basechat.smx] "Leo Dooly<99><STEAM_1:0:109554979><>" triggered sm_say (text when is this match going to finish)
+L 12/12/2020 - 11:01:10: [basechat.smx] "Leo Dooly<99><STEAM_1:0:109554979><>" triggered sm_say (text when is this match going to finish)
+L 12/12/2020 - 11:01:10: [basechat.smx] "Leo Dooly<99><STEAM_1:0:109554979><>" triggered sm_say (text when is this match going to finish)
+L 12/12/2020 - 11:01:10: [basechat.smx] "Leo Dooly<99><STEAM_1:0:109554979><>" triggered sm_say (text when is this match going to finish)
+L 12/12/2020 - 11:01:11: [basechat.smx] "Leo Dooly<99><STEAM_1:0:109554979><>" triggered sm_say (text when is this match going to finish)
+L 12/12/2020 - 11:01:27: [basechat.smx] "Leo Dooly<99><STEAM_1:0:109554979><>" triggered sm_say (text im bouta end it if no one responds)
+L 12/12/2020 - 11:01:27: [basechat.smx] "Leo Dooly<99><STEAM_1:0:109554979><>" triggered sm_say (text im bouta end it if no one responds)
+L 12/12/2020 - 11:01:28: [basechat.smx] "Leo Dooly<99><STEAM_1:0:109554979><>" triggered sm_say (text im bouta end it if no one responds)
+L 12/12/2020 - 11:01:28: [basechat.smx] "Leo Dooly<99><STEAM_1:0:109554979><>" triggered sm_say (text im bouta end it if no one responds)
+L 12/12/2020 - 11:01:28: [basechat.smx] "Leo Dooly<99><STEAM_1:0:109554979><>" triggered sm_say (text im bouta end it if no one responds)
+L 12/12/2020 - 11:01:28: [basechat.smx] "Leo Dooly<99><STEAM_1:0:109554979><>" triggered sm_say (text im bouta end it if no one responds)
+L 12/12/2020 - 11:04:31: [basecommands.smx] "Leo Dooly<99><STEAM_1:0:109554979><>" kicked "strong hack user<98><STEAM_1:0:436375769><>" (reason "")
+L 12/12/2020 - 11:04:34: [basecommands.smx] "Leo Dooly<99><STEAM_1:0:109554979><>" kicked "cxloudCS<88><STEAM_1:1:120548077><>" (reason "")
+L 12/12/2020 - 11:05:55: [basecommands.smx] "Leo Dooly<99><STEAM_1:0:109554979><>" changed map to "mirage"
+L 12/12/2020 - 11:05:58: [SM] Changed map to "mirage"
+L 12/12/2020 - 11:05:59: -------- Mapchange to de_mirage --------
+L 12/12/2020 - 11:08:29: [basecommands.smx] "Leo Dooly<99><STEAM_1:0:109554979><>" console command (cmdline "sv_airaccelerate 350")
+L 12/12/2020 - 11:40:40: -------- Mapchange to de_mirage --------
+L 12/12/2020 - 11:48:40: -------- Mapchange to cs_office --------
+L 12/12/2020 - 11:55:25: [basecommands.smx] "Leo Dooly<110><STEAM_1:0:109554979><>" console command (cmdline "sv_airaccelerate 350")
+L 12/12/2020 - 12:29:17: -------- Mapchange to cs_militia --------
+L 12/12/2020 - 15:03:24: -------- Mapchange to cs_militia --------
+L 12/12/2020 - 15:08:36: -------- Mapchange to de_mirage --------
+L 12/12/2020 - 15:47:44: -------- Mapchange to de_mirage --------
+L 12/12/2020 - 16:00:48: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text sv side 5$ per round)
+L 12/12/2020 - 16:00:49: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text sv side 5$ per round)
+L 12/12/2020 - 16:00:50: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text sv side 5$ per round)
+L 12/12/2020 - 16:00:50: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text sv side 5$ per round)
+L 12/12/2020 - 16:00:50: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text sv side 5$ per round)
+L 12/12/2020 - 16:00:50: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text sv side 5$ per round)
+L 12/12/2020 - 16:00:51: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text sv side 5$ per round)
+L 12/12/2020 - 16:00:51: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text sv side 5$ per round)
+L 12/12/2020 - 16:00:51: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text sv side 5$ per round)
+L 12/12/2020 - 16:00:51: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text sv side 5$ per round)
+L 12/12/2020 - 16:00:52: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text sv side 5$ per round)
+L 12/12/2020 - 16:00:52: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text sv side 5$ per round)
+L 12/12/2020 - 16:01:03: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text pay me)
+L 12/12/2020 - 16:01:11: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text paypal)
+L 12/12/2020 - 16:01:16: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text 5$)
+L 12/12/2020 - 16:01:21: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text for godmode)
+L 12/12/2020 - 16:01:27: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text stfu skotadi)
+L 12/12/2020 - 16:01:33: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text i gave u ot)
+L 12/12/2020 - 16:01:44: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text o dam)
+L 12/12/2020 - 16:01:47: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text u right)
+L 12/12/2020 - 16:01:54: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text aight u want it now?)
+L 12/12/2020 - 16:01:59: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text NAH)
+L 12/12/2020 - 16:02:25: [basechat.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" triggered sm_say (text i need to learn how to do it)
+L 12/12/2020 - 16:11:16: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "mp_damage_headshot_only 1")
+L 12/12/2020 - 16:11:39: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "mp_damage_headshot_only 1")
+L 12/12/2020 - 16:13:18: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "weapon_accuracy_nospread "1"")
+L 12/12/2020 - 16:13:36: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "sv_cheats 1")
+L 12/12/2020 - 16:13:38: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "weapon_accuracy_nospread "1"")
+L 12/12/2020 - 16:14:35: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "ssv_staminamax "0"sv_staminajumpcost "0"sv_staminalandcost "0"sv_staminarecoveryrate "0"sv_airaccelerate "2000"sv_accelerate_use_weapon_speed "0"sv_maxvelocity "3500"sv_airmove "1"")
+L 12/12/2020 - 16:14:41: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "sv_staminamax "0"sv_staminajumpcost "0"sv_staminalandcost "0"sv_staminarecoveryrate "0"sv_airaccelerate "2000"sv_accelerate_use_weapon_speed "0"sv_maxvelocity "3500"sv_airmove "1"")
+L 12/12/2020 - 16:15:17: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "sv_airaccelerate "2000"")
+L 12/12/2020 - 16:15:49: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "sv_airaccelerate "2000"")
+L 12/12/2020 - 16:15:53: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "sv_airaccelerate 2000")
+L 12/12/2020 - 16:16:01: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "weapon_accuracy_nospread "1"")
+L 12/12/2020 - 16:16:04: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "sv_cheats 1")
+L 12/12/2020 - 16:16:06: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "weapon_accuracy_nospread "1"")
+L 12/12/2020 - 16:16:39: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "sv_cheats 1")
+L 12/12/2020 - 16:16:40: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "weapon_accuracy_nospread "1"")
+L 12/12/2020 - 16:16:50: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "sv_airaccelerate 2000")
+L 12/12/2020 - 16:17:10: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "sv_maxvelocity 3500")
+L 12/12/2020 - 16:18:02: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "sv_enablebunnyhopping "1"")
+L 12/12/2020 - 16:18:17: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "sv_staminajumpcost "0"")
+L 12/12/2020 - 16:18:34: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "sv_airaccelerate 200000")
+L 12/12/2020 - 16:18:54: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "sv_enablebunnyhopping "1"")
+L 12/12/2020 - 16:20:35: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "mp_damage_headshot_only 1")
+L 12/12/2020 - 16:26:02: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "sv_cheats 1")
+L 12/12/2020 - 16:26:09: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "mp_damage_headshot_only 1")
+L 12/12/2020 - 16:26:12: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "sv_enablebunnyhopping "1"")
+L 12/12/2020 - 16:26:16: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "sv_airaccelerate 200000")
+L 12/12/2020 - 16:26:21: [basecommands.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" console command (cmdline "sv_airaccelerate 2000")
+L 12/12/2020 - 16:38:53: [basebans.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" banned "I MAKE FUNNY sextape<145><STEAM_1:0:556885981><>" (minutes "5") (reason "")
+L 12/12/2020 - 16:39:25: [basebans.smx] "Leo Dooly<144><STEAM_1:0:109554979><>" removed ban (filter "sex")
+L 12/12/2020 - 18:07:44: -------- Mapchange to de_mirage --------
+L 12/12/2020 - 18:12:24: [basecommands.smx] "Leo Dooly<156><STEAM_1:0:109554979><>" console command (cmdline "sv_airaccelerate 350")
+L 12/12/2020 - 18:51:11: [playercommands.smx] "Leo Dooly<156><STEAM_1:0:109554979><>" slayed "kr0md<159><STEAM_1:0:125290236><>"
+L 12/12/2020 - 19:06:22: [basecommands.smx] "Leo Dooly<156><STEAM_1:0:109554979><>" changed map to "inferno"
+L 12/12/2020 - 19:06:25: [SM] Changed map to "inferno"
+L 12/12/2020 - 19:06:26: -------- Mapchange to de_inferno --------
+L 12/12/2020 - 19:24:27: [basecomm.smx] "Leo Dooly<156><STEAM_1:0:109554979><>" gagged "prev!#0001<158><STEAM_1:0:74717497><>"
+L 12/12/2020 - 19:25:09: [basecomm.smx] "Leo Dooly<156><STEAM_1:0:109554979><>" ungagged "prev!#0001<158><STEAM_1:0:74717497><>"
+L 12/12/2020 - 21:34:34: -------- Mapchange to de_inferno --------
+L 12/12/2020 - 21:41:06: -------- Mapchange to de_bank --------
+L 12/12/2020 - 22:20:41: -------- Mapchange to de_bank --------
+L 12/12/2020 - 22:24:56: -------- Mapchange to de_bank --------
+L 12/12/2020 - 22:26:52: [basecommands.smx] "Leo Dooly<195><STEAM_1:0:109554979><>" console command (cmdline "sv_airaccelerate 350")
+L 12/12/2020 - 22:47:06: [basecommands.smx] "Leo Dooly<195><STEAM_1:0:109554979><>" changed map to "mirage"
+L 12/12/2020 - 22:47:09: [SM] Changed map to "mirage"
+L 12/12/2020 - 22:47:09: -------- Mapchange to de_mirage --------
+L 12/12/2020 - 22:47:42: [basecommands.smx] "Leo Dooly<195><STEAM_1:0:109554979><>" console command (cmdline "sv_airaccelerate 350")
+L 12/12/2020 - 22:53:30: [basecommands.smx] "Leo Dooly<195><STEAM_1:0:109554979><>" console command (cmdline "sm_unpause")
+L 12/12/2020 - 23:52:06: -------- Mapchange to de_mirage --------
+L 12/13/2020 - 00:39:17: Log file closed.

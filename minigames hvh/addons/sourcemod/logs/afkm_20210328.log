@@ -1,0 +1,6 @@
+L 03/28/2021 - 17:36:07: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 03/28/2021 - 17:37:35: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 03/28/2021 - 23:00:42: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 03/28/2021 - 23:04:36: [afk_manager4.smx] Gomi<22><STEAM_1:1:86794297><> was moved to spectate for being AFK too long.
+L 03/28/2021 - 23:13:57: [afk_manager4.smx] BigBlue<26><STEAM_1:1:53714820><> was moved to spectate for being AFK too long.
+L 03/28/2021 - 23:19:03: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3

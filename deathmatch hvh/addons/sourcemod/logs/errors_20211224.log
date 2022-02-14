@@ -1,0 +1,26 @@
+L 12/24/2021 - 10:58:29: SourceMod error session started
+L 12/24/2021 - 10:58:29: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20211224.log")
+L 12/24/2021 - 10:58:29: [SM] Exception reported: Entity 3 (3) is invalid
+L 12/24/2021 - 10:58:29: [SM] Blaming: DisableRadar.smx
+L 12/24/2021 - 10:58:29: [SM] Call stack trace:
+L 12/24/2021 - 10:58:29: [SM]   [0] GetEntProp
+L 12/24/2021 - 10:58:29: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 12/24/2021 - 10:58:29: [SM] Exception reported: Entity 3 (3) is invalid
+L 12/24/2021 - 10:58:29: [SM] Blaming: DisableRadar.smx
+L 12/24/2021 - 10:58:29: [SM] Call stack trace:
+L 12/24/2021 - 10:58:29: [SM]   [0] GetEntProp
+L 12/24/2021 - 10:58:29: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 12/24/2021 - 12:07:28: Error log file session closed.
+L 12/24/2021 - 17:29:59: SourceMod error session started
+L 12/24/2021 - 17:29:59: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20211224.log")
+L 12/24/2021 - 17:29:59: [SM] Exception reported: Entity 2 (2) is invalid
+L 12/24/2021 - 17:29:59: [SM] Blaming: DisableRadar.smx
+L 12/24/2021 - 17:29:59: [SM] Call stack trace:
+L 12/24/2021 - 17:29:59: [SM]   [0] GetEntProp
+L 12/24/2021 - 17:29:59: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 12/24/2021 - 17:29:59: [SM] Exception reported: Entity 2 (2) is invalid
+L 12/24/2021 - 17:29:59: [SM] Blaming: DisableRadar.smx
+L 12/24/2021 - 17:29:59: [SM] Call stack trace:
+L 12/24/2021 - 17:29:59: [SM]   [0] GetEntProp
+L 12/24/2021 - 17:29:59: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 12/24/2021 - 19:31:11: Error log file session closed.

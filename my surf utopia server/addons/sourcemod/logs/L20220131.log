@@ -1,0 +1,81 @@
+L 01/31/2022 - 00:21:47: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20220131.log") (Version "1.10.0.6528")
+L 01/31/2022 - 00:21:47: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 01/31/2022 - 00:21:47: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 01/31/2022 - 00:21:47: [afk_manager4.smx] [AFK Manager] Log File: addons/sourcemod/logs/afkm_20220131.log
+L 01/31/2022 - 00:21:47: [afk_manager4.smx] [AFK Manager] Detected Mod Counter-Strike: Global Offensive
+L 01/31/2022 - 00:21:49: [weapons.smx] MySQL DB connection successful
+L 01/31/2022 - 00:21:49: [weapons.smx] Inactive players' data has been deleted
+L 01/31/2022 - 00:21:50: [goldenknife.smx] Hooked Cvars
+L 01/31/2022 - 01:16:47: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" froze "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:16:48: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" froze "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:16:50: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" froze "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:16:52: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" froze "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:16:53: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" froze "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:16:54: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" froze "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:16:58: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" froze "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:16:58: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" froze "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:17:20: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" froze "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:17:22: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" froze "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:17:24: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" froze "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:17:25: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" froze "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:17:25: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" froze "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:17:27: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" froze "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:17:27: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" froze "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:17:28: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" froze "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:17:30: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" froze "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:17:32: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" froze "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:17:33: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" froze "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:17:39: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" set a FireBomb on "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:17:42: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" froze "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:17:55: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slayed "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:17:59: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" set blind on "stop trolling me<12><STEAM_1:0:460338288><>" (amount "0")
+L 01/31/2022 - 01:18:01: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" set blind on "stop trolling me<12><STEAM_1:0:460338288><>" (amount "100")
+L 01/31/2022 - 01:18:06: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" set blind on "stop trolling me<12><STEAM_1:0:460338288><>" (amount "255")
+L 01/31/2022 - 01:18:53: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" set blind on "stop trolling me<12><STEAM_1:0:460338288><>" (amount "240")
+L 01/31/2022 - 01:19:08: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" set blind on "stop trolling me<12><STEAM_1:0:460338288><>" (amount "255")
+L 01/31/2022 - 01:19:14: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" set blind on "stop trolling me<12><STEAM_1:0:460338288><>" (amount "0")
+L 01/31/2022 - 01:19:34: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" drugged "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:19:58: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" undrugged "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:20:17: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" ignited "stop trolling me<12><STEAM_1:0:460338288><>" (seconds "20.000000")
+L 01/31/2022 - 01:20:23: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" ignited "stop trolling me<12><STEAM_1:0:460338288><>" (seconds "20.000000")
+L 01/31/2022 - 01:20:43: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "fika (00:47:36)<6><BOT><>" (damage "0")
+L 01/31/2022 - 01:20:43: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "fika (00:47:36)<6><BOT><>" (damage "0")
+L 01/31/2022 - 01:20:44: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "fika (00:47:36)<6><BOT><>" (damage "0")
+L 01/31/2022 - 01:20:44: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "fika (00:47:36)<6><BOT><>" (damage "0")
+L 01/31/2022 - 01:20:44: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "fika (00:47:36)<6><BOT><>" (damage "0")
+L 01/31/2022 - 01:20:44: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "fika (00:47:36)<6><BOT><>" (damage "0")
+L 01/31/2022 - 01:20:44: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "fika (00:47:36)<6><BOT><>" (damage "0")
+L 01/31/2022 - 01:20:44: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "fika (00:47:36)<6><BOT><>" (damage "0")
+L 01/31/2022 - 01:20:46: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "fika (00:47:36)<6><BOT><>" (damage "0")
+L 01/31/2022 - 01:20:46: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "fika (00:47:36)<6><BOT><>" (damage "0")
+L 01/31/2022 - 01:20:46: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "fika (00:47:36)<6><BOT><>" (damage "0")
+L 01/31/2022 - 01:20:46: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "fika (00:47:36)<6><BOT><>" (damage "0")
+L 01/31/2022 - 01:20:47: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "ItsGhostGalaxy<23><STEAM_1:0:67218039><>" (damage "0")
+L 01/31/2022 - 01:20:54: [basechat.smx] "dylan<13><STEAM_1:0:152419574><>" triggered sm_say (text my bad)
+L 01/31/2022 - 01:21:06: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "stop trolling me<12><STEAM_1:0:460338288><>" (damage "0")
+L 01/31/2022 - 01:21:06: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "stop trolling me<12><STEAM_1:0:460338288><>" (damage "0")
+L 01/31/2022 - 01:21:06: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "stop trolling me<12><STEAM_1:0:460338288><>" (damage "0")
+L 01/31/2022 - 01:21:06: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "stop trolling me<12><STEAM_1:0:460338288><>" (damage "0")
+L 01/31/2022 - 01:21:07: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "stop trolling me<12><STEAM_1:0:460338288><>" (damage "0")
+L 01/31/2022 - 01:21:07: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "stop trolling me<12><STEAM_1:0:460338288><>" (damage "0")
+L 01/31/2022 - 01:21:07: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "stop trolling me<12><STEAM_1:0:460338288><>" (damage "0")
+L 01/31/2022 - 01:21:07: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "stop trolling me<12><STEAM_1:0:460338288><>" (damage "0")
+L 01/31/2022 - 01:21:07: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "stop trolling me<12><STEAM_1:0:460338288><>" (damage "0")
+L 01/31/2022 - 01:21:07: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "stop trolling me<12><STEAM_1:0:460338288><>" (damage "0")
+L 01/31/2022 - 01:21:08: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "stop trolling me<12><STEAM_1:0:460338288><>" (damage "0")
+L 01/31/2022 - 01:21:08: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "stop trolling me<12><STEAM_1:0:460338288><>" (damage "0")
+L 01/31/2022 - 01:21:08: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "stop trolling me<12><STEAM_1:0:460338288><>" (damage "0")
+L 01/31/2022 - 01:21:08: [playercommands.smx] "dylan<13><STEAM_1:0:152419574><>" slapped "stop trolling me<12><STEAM_1:0:460338288><>" (damage "0")
+L 01/31/2022 - 01:23:02: [basecommands.smx] "dylan<13><STEAM_1:0:152419574><>" console command (cmdline "sm_show_activity")
+L 01/31/2022 - 01:23:04: [basecommands.smx] "dylan<13><STEAM_1:0:152419574><>" console command (cmdline "sm_show_activity 4")
+L 01/31/2022 - 01:23:19: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" drugged "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 01:23:20: [funcommands.smx] "dylan<13><STEAM_1:0:152419574><>" undrugged "stop trolling me<12><STEAM_1:0:460338288><>"
+L 01/31/2022 - 22:46:56: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20220131.log") (Version "1.10.0.6528")
+L 01/31/2022 - 22:46:56: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 01/31/2022 - 22:46:56: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 01/31/2022 - 22:46:56: [afk_manager4.smx] [AFK Manager] Log File: addons/sourcemod/logs/afkm_20220131.log
+L 01/31/2022 - 22:46:56: [afk_manager4.smx] [AFK Manager] Detected Mod Counter-Strike: Global Offensive
+L 01/31/2022 - 22:46:58: [weapons.smx] MySQL DB connection successful
+L 01/31/2022 - 22:46:58: [weapons.smx] Inactive players' data has been deleted
+L 01/31/2022 - 22:46:59: [goldenknife.smx] Hooked Cvars
+L 02/01/2022 - 00:02:12: Log file closed.

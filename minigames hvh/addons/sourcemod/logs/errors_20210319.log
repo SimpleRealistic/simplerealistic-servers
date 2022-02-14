@@ -1,0 +1,144 @@
+L 03/19/2021 - 08:53:47: SourceMod error session started
+L 03/19/2021 - 08:53:47: Info (map "mg_lego_profits") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 08:53:47: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 08:53:47: [SM] Error (line 0, column 0): Stream failed to open
+L 03/19/2021 - 08:53:47: [SM] Exception reported: Sorry! This plugin only works on Counter-Strike: Source.
+L 03/19/2021 - 08:53:47: [SM] Blaming: noblock.smx
+L 03/19/2021 - 08:53:47: [SM] Call stack trace:
+L 03/19/2021 - 08:53:47: [SM]   [0] SetFailState
+L 03/19/2021 - 08:53:47: [SM]   [1] Line 38, /home/forums/content/files/2/7/4/6/4/131924.attach::OnPluginStart
+L 03/19/2021 - 08:53:47: [SM] Unable to load plugin "noblock.smx": Error detected in plugin startup (see error logs)
+L 03/19/2021 - 08:54:02: Error log file session closed.
+L 03/19/2021 - 08:54:15: SourceMod error session started
+L 03/19/2021 - 08:54:15: Info (map "mg_lego_profits") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 08:54:15: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 08:54:15: [SM] Error (line 0, column 0): Stream failed to open
+L 03/19/2021 - 08:54:15: [SM] Exception reported: Sorry! This plugin only works on Counter-Strike: Source.
+L 03/19/2021 - 08:54:15: [SM] Blaming: noblock.smx
+L 03/19/2021 - 08:54:15: [SM] Call stack trace:
+L 03/19/2021 - 08:54:15: [SM]   [0] SetFailState
+L 03/19/2021 - 08:54:15: [SM]   [1] Line 38, /home/forums/content/files/2/7/4/6/4/131924.attach::OnPluginStart
+L 03/19/2021 - 08:54:15: [SM] Unable to load plugin "noblock.smx": Error detected in plugin startup (see error logs)
+L 03/19/2021 - 08:55:53: Error log file session closed.
+L 03/19/2021 - 08:55:53: SourceMod error session started
+L 03/19/2021 - 08:55:53: Info (map "mg_lego_profits") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 08:55:53: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 08:55:53: [SM] Error (line 0, column 0): Stream failed to open
+L 03/19/2021 - 08:56:10: Error log file session closed.
+L 03/19/2021 - 08:56:10: SourceMod error session started
+L 03/19/2021 - 08:56:10: Info (map "mg_lego_profits") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 08:56:10: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 08:56:10: [SM] Error (line 0, column 0): Stream failed to open
+L 03/19/2021 - 08:57:00: Error log file session closed.
+L 03/19/2021 - 08:57:00: SourceMod error session started
+L 03/19/2021 - 08:57:00: Info (map "mg_lego_profits") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 08:57:00: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 08:57:00: [SM] Error (line 0, column 0): Stream failed to open
+L 03/19/2021 - 08:57:32: Error log file session closed.
+L 03/19/2021 - 08:57:32: SourceMod error session started
+L 03/19/2021 - 08:57:32: Info (map "mg_lego_profits") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 08:57:32: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 08:57:32: [SM] Error (line 0, column 0): Stream failed to open
+L 03/19/2021 - 09:01:56: SourceMod error session started
+L 03/19/2021 - 09:01:56: Info (map "mg_lego_profits") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 09:01:56: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 09:01:56: [SM] Error (line 0, column 0): Stream failed to open
+L 03/19/2021 - 09:01:56: [SM] Exception reported: Sorry! This plugin only works on Counter-Strike: Source.
+L 03/19/2021 - 09:01:56: [SM] Blaming: noblock.smx
+L 03/19/2021 - 09:01:56: [SM] Call stack trace:
+L 03/19/2021 - 09:01:56: [SM]   [0] SetFailState
+L 03/19/2021 - 09:01:56: [SM]   [1] Line 38, /home/forums/content/files/2/7/4/6/4/131924.attach::OnPluginStart
+L 03/19/2021 - 09:01:56: [SM] Unable to load plugin "noblock.smx": Error detected in plugin startup (see error logs)
+L 03/19/2021 - 09:02:07: Error log file session closed.
+L 03/19/2021 - 09:02:07: SourceMod error session started
+L 03/19/2021 - 09:02:07: Info (map "mg_lego_profits") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 09:02:07: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 09:02:07: [SM] Error (line 0, column 0): Stream failed to open
+L 03/19/2021 - 09:04:36: Error log file session closed.
+L 03/19/2021 - 09:04:36: SourceMod error session started
+L 03/19/2021 - 09:04:36: Info (map "mg_grands_profits") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 09:04:36: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 09:04:36: [SM] Error (line 0, column 0): Stream failed to open
+L 03/19/2021 - 09:13:22: Error log file session closed.
+L 03/19/2021 - 09:13:28: SourceMod error session started
+L 03/19/2021 - 09:13:28: Info (map "mg_lego_profits") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 09:13:28: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 09:13:28: [SM] Error (line 0, column 0): Stream failed to open
+L 03/19/2021 - 09:13:28: [SM] Exception reported: Sorry! This plugin only works on Counter-Strike: Source.
+L 03/19/2021 - 09:13:28: [SM] Blaming: noblock.smx
+L 03/19/2021 - 09:13:28: [SM] Call stack trace:
+L 03/19/2021 - 09:13:28: [SM]   [0] SetFailState
+L 03/19/2021 - 09:13:28: [SM]   [1] Line 38, /home/forums/content/files/2/7/4/6/4/131924.attach::OnPluginStart
+L 03/19/2021 - 09:13:28: [SM] Unable to load plugin "noblock.smx": Error detected in plugin startup (see error logs)
+L 03/19/2021 - 09:13:57: Error log file session closed.
+L 03/19/2021 - 09:13:57: SourceMod error session started
+L 03/19/2021 - 09:13:57: Info (map "mg_lego_profits") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 09:13:57: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 09:13:57: [SM] Error (line 0, column 0): Stream failed to open
+L 03/19/2021 - 09:14:07: Error log file session closed.
+L 03/19/2021 - 09:14:07: SourceMod error session started
+L 03/19/2021 - 09:14:07: Info (map "mg_lego_profits") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 09:14:07: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 09:14:07: [SM] Error (line 0, column 0): Stream failed to open
+L 03/19/2021 - 09:15:36: Error log file session closed.
+L 03/19/2021 - 09:22:14: SourceMod error session started
+L 03/19/2021 - 09:22:14: Info (map "mg_lego_profits") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 09:22:14: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 09:22:14: [SM] Error (line 0, column 0): Stream failed to open
+L 03/19/2021 - 09:22:14: [SM] Exception reported: Sorry! This plugin only works on Counter-Strike: Source.
+L 03/19/2021 - 09:22:14: [SM] Blaming: noblock.smx
+L 03/19/2021 - 09:22:14: [SM] Call stack trace:
+L 03/19/2021 - 09:22:14: [SM]   [0] SetFailState
+L 03/19/2021 - 09:22:14: [SM]   [1] Line 38, /home/forums/content/files/2/7/4/6/4/131924.attach::OnPluginStart
+L 03/19/2021 - 09:22:14: [SM] Unable to load plugin "noblock.smx": Error detected in plugin startup (see error logs)
+L 03/19/2021 - 09:23:03: Error log file session closed.
+L 03/19/2021 - 09:23:03: SourceMod error session started
+L 03/19/2021 - 09:23:03: Info (map "mg_lego_profits") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 09:23:03: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 09:23:03: [SM] Error (line 0, column 0): Stream failed to open
+L 03/19/2021 - 09:36:14: Error log file session closed.
+L 03/19/2021 - 09:36:14: SourceMod error session started
+L 03/19/2021 - 09:36:14: Info (map "mg_lego_profits") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 09:36:14: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 09:36:14: [SM] Error (line 0, column 0): Stream failed to open
+L 03/19/2021 - 09:37:47: Error log file session closed.
+L 03/19/2021 - 09:37:47: SourceMod error session started
+L 03/19/2021 - 09:37:47: Info (map "mg_grands_profits") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 09:37:47: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 09:37:47: [SM] Error (line 0, column 0): Stream failed to open
+L 03/19/2021 - 09:49:29: Error log file session closed.
+L 03/19/2021 - 09:49:29: SourceMod error session started
+L 03/19/2021 - 09:49:29: Info (map "mg_grands_profits") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 09:49:29: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 09:49:29: [SM] Error (line 0, column 0): Stream failed to open
+L 03/19/2021 - 09:49:44: Error log file session closed.
+L 03/19/2021 - 09:49:44: SourceMod error session started
+L 03/19/2021 - 09:49:44: Info (map "de_dust2") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 09:49:44: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 09:49:44: [SM] Error (line 0, column 0): Stream failed to open
+L 03/19/2021 - 09:54:05: Error log file session closed.
+L 03/19/2021 - 09:54:10: SourceMod error session started
+L 03/19/2021 - 09:54:10: Info (map "mg_lego_profits") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 09:54:10: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 09:54:10: [SM] Error (line 0, column 0): Stream failed to open
+L 03/19/2021 - 09:54:10: [SM] Exception reported: Sorry! This plugin only works on Counter-Strike: Source.
+L 03/19/2021 - 09:54:10: [SM] Blaming: noblock.smx
+L 03/19/2021 - 09:54:10: [SM] Call stack trace:
+L 03/19/2021 - 09:54:10: [SM]   [0] SetFailState
+L 03/19/2021 - 09:54:10: [SM]   [1] Line 38, /home/forums/content/files/2/7/4/6/4/131924.attach::OnPluginStart
+L 03/19/2021 - 09:54:10: [SM] Unable to load plugin "noblock.smx": Error detected in plugin startup (see error logs)
+L 03/19/2021 - 09:54:14: Error log file session closed.
+L 03/19/2021 - 09:54:14: SourceMod error session started
+L 03/19/2021 - 09:54:14: Info (map "mg_lego_profits") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 09:54:14: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 09:54:14: [SM] Error (line 0, column 0): Stream failed to open
+L 03/19/2021 - 10:02:30: Error log file session closed.
+L 03/19/2021 - 10:02:30: SourceMod error session started
+L 03/19/2021 - 10:02:30: Info (map "mg_lego_profits") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 10:02:30: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 10:02:30: [SM] Error (line 0, column 0): Stream failed to open
+L 03/19/2021 - 10:02:35: Error log file session closed.
+L 03/19/2021 - 10:02:35: SourceMod error session started
+L 03/19/2021 - 10:02:35: Info (map "mg_grands_profits") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 10:02:35: [SM] Fatal error encountered parsing translation file "noblock.phrases.txt"
+L 03/19/2021 - 10:02:35: [SM] Error (line 0, column 0): Stream failed to open

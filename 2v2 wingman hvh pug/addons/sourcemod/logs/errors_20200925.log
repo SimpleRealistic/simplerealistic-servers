@@ -1,0 +1,33 @@
+L 09/25/2020 - 13:39:41: SourceMod error session started
+L 09/25/2020 - 13:39:41: Info (map "de_dust2") (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/errors_20200925.log")
+L 09/25/2020 - 13:39:41: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 09/25/2020 - 13:39:41: [SM] Error (line 0, column 0): Stream failed to open
+L 09/25/2020 - 13:41:56: [SM] Exception reported: Language phrase "Player_Connected_From" not found (arg 3)
+L 09/25/2020 - 13:41:56: [SM] Blaming: advadmin.smx
+L 09/25/2020 - 13:41:56: [SM] Call stack trace:
+L 09/25/2020 - 13:41:56: [SM]   [0] VFormat
+L 09/25/2020 - 13:41:56: [SM]   [1] Line 386, /groups/sourcemod/compiler-1.10/include/halflife.inc::PrintToChatAll
+L 09/25/2020 - 13:41:56: [SM]   [2] Line 141, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::OnClientAuthorized
+L 09/25/2020 - 13:42:33: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/25/2020 - 13:42:33: [SM] Blaming: weapon_restrict.smx
+L 09/25/2020 - 13:42:33: [SM] Call stack trace:
+L 09/25/2020 - 13:42:33: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/25/2020 - 13:45:00: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/25/2020 - 13:45:00: [SM] Blaming: weapon_restrict.smx
+L 09/25/2020 - 13:45:00: [SM] Call stack trace:
+L 09/25/2020 - 13:45:00: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/25/2020 - 13:55:59: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/25/2020 - 13:55:59: [SM] Blaming: weapon_restrict.smx
+L 09/25/2020 - 13:55:59: [SM] Call stack trace:
+L 09/25/2020 - 13:55:59: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/25/2020 - 14:58:52: Error log file session closed.
+L 09/25/2020 - 14:58:52: SourceMod error session started
+L 09/25/2020 - 14:58:52: Info (map "de_dust2") (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/errors_20200925.log")
+L 09/25/2020 - 14:58:52: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 09/25/2020 - 14:58:52: [SM] Error (line 0, column 0): Stream failed to open
+L 09/25/2020 - 14:59:47: Error log file session closed.
+L 09/25/2020 - 14:59:47: SourceMod error session started
+L 09/25/2020 - 14:59:47: Info (map "de_dust2") (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/errors_20200925.log")
+L 09/25/2020 - 14:59:47: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 09/25/2020 - 14:59:47: [SM] Error (line 0, column 0): Stream failed to open
+L 09/26/2020 - 09:44:21: Error log file session closed.

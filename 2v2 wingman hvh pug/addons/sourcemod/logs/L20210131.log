@@ -1,0 +1,24 @@
+L 01/31/2021 - 01:03:02: SourceMod log file session started (file "/home/tcagame/jackm1/599/csgo/addons/sourcemod/logs/L20210131.log") (Version "1.10.0.6502")
+L 01/31/2021 - 01:03:02: -------- Mapchange to de_dust2 --------
+L 01/31/2021 - 12:59:50: -------- Mapchange to de_dust2 --------
+L 01/31/2021 - 13:10:52: [basechat.smx] "Leo Dooly<19><STEAM_1:0:109554979><>" triggered sm_say (text ok)
+L 01/31/2021 - 13:13:42: [basecommands.smx] "Leo Dooly<19><STEAM_1:0:109554979><>" changed map to "de_shortdust"
+L 01/31/2021 - 13:13:45: [SM] Changed map to "de_shortdust"
+L 01/31/2021 - 13:13:46: -------- Mapchange to de_shortdust --------
+L 01/31/2021 - 13:36:29: -------- Mapchange to de_shortdust --------
+L 01/31/2021 - 19:08:44: -------- Mapchange to de_shortdust --------
+L 01/31/2021 - 19:13:05: -------- Mapchange to de_inferno --------
+L 01/31/2021 - 19:37:15: -------- Mapchange to de_bank --------
+L 01/31/2021 - 19:37:44: SourceMod log file session started (file "/home/tcagame/jackm1/599/csgo/addons/sourcemod/logs/L20210131.log") (Version "1.10.0.6502")
+L 01/31/2021 - 19:37:44: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 01/31/2021 - 19:38:12: -------- Mapchange to de_inferno --------
+L 01/31/2021 - 19:40:23: -------- Mapchange to de_bank --------
+L 01/31/2021 - 19:54:59: -------- Mapchange to de_overpass --------
+L 01/31/2021 - 20:27:26: [basecommands.smx] "Leo Dooly<5><STEAM_1:0:109554979><>" changed map to "de_mirage"
+L 01/31/2021 - 20:27:29: [SM] Changed map to "de_mirage"
+L 01/31/2021 - 20:27:30: -------- Mapchange to de_mirage --------
+L 01/31/2021 - 21:15:20: -------- Mapchange to de_mirage --------
+L 01/31/2021 - 21:16:53: -------- Mapchange to de_mirage --------
+L 01/31/2021 - 23:38:43: -------- Mapchange to de_mirage --------
+L 01/31/2021 - 23:42:44: -------- Mapchange to de_vertigo --------
+L 02/01/2021 - 00:01:35: Log file closed.

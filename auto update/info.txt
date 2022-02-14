@@ -1,0 +1,1 @@
+use this to automatically update your server / restart your server when csgo gets updated

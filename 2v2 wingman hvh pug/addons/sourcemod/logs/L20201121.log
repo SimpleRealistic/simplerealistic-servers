@@ -1,0 +1,54 @@
+L 11/21/2020 - 02:50:09: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201121.log") (Version "1.10.0.6490")
+L 11/21/2020 - 02:50:09: -------- Mapchange to cs_italy --------
+L 11/21/2020 - 02:54:11: -------- Mapchange to de_mirage --------
+L 11/21/2020 - 02:56:01: [basecommands.smx] "dylan<156><STEAM_1:0:23861894><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 11/21/2020 - 03:13:27: -------- Mapchange to de_mirage --------
+L 11/21/2020 - 03:23:35: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 11/21/2020 - 03:23:37: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 11/21/2020 - 03:24:38: -------- Mapchange to de_mirage --------
+L 11/21/2020 - 03:44:42: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread 0")
+L 11/21/2020 - 03:44:45: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread .4")
+L 11/21/2020 - 03:44:46: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread 0")
+L 11/21/2020 - 03:44:49: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread .4")
+L 11/21/2020 - 03:44:50: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread 0")
+L 11/21/2020 - 03:44:57: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread .4")
+L 11/21/2020 - 03:44:59: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread 0")
+L 11/21/2020 - 03:45:12: -------- Mapchange to de_mirage --------
+L 11/21/2020 - 03:51:01: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread .4")
+L 11/21/2020 - 03:51:09: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread 0")
+L 11/21/2020 - 03:51:14: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread 0")
+L 11/21/2020 - 03:52:46: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread .4")
+L 11/21/2020 - 03:52:56: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread 0")
+L 11/21/2020 - 03:54:19: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread .4")
+L 11/21/2020 - 03:54:20: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread 0")
+L 11/21/2020 - 03:54:21: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread .4")
+L 11/21/2020 - 03:54:21: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread 0")
+L 11/21/2020 - 03:57:02: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread .4")
+L 11/21/2020 - 03:57:03: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread 0")
+L 11/21/2020 - 03:58:30: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread .4")
+L 11/21/2020 - 03:58:35: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread 0")
+L 11/21/2020 - 03:59:15: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread .4")
+L 11/21/2020 - 03:59:24: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread 0")
+L 11/21/2020 - 03:59:33: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread .4")
+L 11/21/2020 - 03:59:34: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread 0")
+L 11/21/2020 - 03:59:35: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread .4")
+L 11/21/2020 - 03:59:41: [basecommands.smx] "dylan<159><STEAM_1:0:23861894><>" console command (cmdline "weapon_accuracy_forcespread 0")
+L 11/21/2020 - 04:23:04: -------- Mapchange to de_mirage --------
+L 11/21/2020 - 10:29:14: -------- Mapchange to de_mirage --------
+L 11/21/2020 - 11:14:11: [basecommands.smx] "COVID-20 LITE<163><STEAM_1:0:454543747><>" console command (cmdline "bot_kick")
+L 11/21/2020 - 12:01:23: -------- Mapchange to de_mirage --------
+L 11/21/2020 - 13:34:38: [basecommands.smx] "COVID-20 LITE<177><STEAM_1:0:454543747><>" console command (cmdline "bot_kick")
+L 11/21/2020 - 13:56:19: [basecommands.smx] "COVID-20 LITE<177><STEAM_1:0:454543747><>" kicked "Ethan_Souza2006<179><STEAM_1:0:490827350><>" (reason "very rq ez")
+L 11/21/2020 - 20:04:05: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201121.log") (Version "1.10.0.6490")
+L 11/21/2020 - 20:04:05: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 11/21/2020 - 20:04:09: -------- Mapchange to de_dust2 --------
+L 11/21/2020 - 20:10:54: [basecommands.smx] "fronz<2><STEAM_1:1:511092287><>" changed map to "mirage"
+L 11/21/2020 - 20:10:57: [SM] Changed map to "mirage"
+L 11/21/2020 - 20:10:58: -------- Mapchange to de_mirage --------
+L 11/21/2020 - 20:48:13: [basecommands.smx] "Leo Dooly<5><STEAM_1:0:109554979><>" console command (cmdline "bot_kick")
+L 11/21/2020 - 21:44:46: -------- Mapchange to cs_militia --------
+L 11/21/2020 - 21:46:44: [basecommands.smx] "Leo Dooly<5><STEAM_1:0:109554979><>" changed map to "dust2"
+L 11/21/2020 - 21:46:47: [SM] Changed map to "dust2"
+L 11/21/2020 - 21:46:49: -------- Mapchange to de_dust2 --------
+L 11/21/2020 - 23:08:57: -------- Mapchange to de_dust2 --------
+L 11/22/2020 - 10:49:18: Log file closed.

@@ -1,0 +1,32 @@
+L 04/02/2021 - 00:18:07: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 1
+L 04/02/2021 - 00:18:07: [afk_manager4.smx] Player count for AFK Kick minimum is below requirements, feature is now disabled: sm_afk_kick_min_players = 6 Current Players = 1
+L 04/02/2021 - 00:18:19: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 04/02/2021 - 00:20:19: [afk_manager4.smx] Player count for AFK Kick minimum has been reached, feature is now enabled: sm_afk_kick_min_players = 6 Current Players = 6
+L 04/02/2021 - 00:24:54: [afk_manager4.smx] storm<7><STEAM_1:1:565428933><> was moved to spectate for being AFK too long.
+L 04/02/2021 - 00:26:43: [afk_manager4.smx] storm<7><STEAM_1:1:565428933><> was kicked for being AFK too long.
+L 04/02/2021 - 00:28:19: [afk_manager4.smx] Player count for AFK Kick minimum is below requirements, feature is now disabled: sm_afk_kick_min_players = 6 Current Players = 5
+L 04/02/2021 - 00:31:00: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 04/02/2021 - 02:57:29: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 04/02/2021 - 03:09:32: [afk_manager4.smx] storm<22><STEAM_1:1:565428933><> was moved to spectate for being AFK too long.
+L 04/02/2021 - 03:16:46: [afk_manager4.smx] Player count for AFK Kick minimum has been reached, feature is now enabled: sm_afk_kick_min_players = 6 Current Players = 6
+L 04/02/2021 - 03:19:38: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 1
+L 04/02/2021 - 03:19:38: [afk_manager4.smx] Player count for AFK Kick minimum is below requirements, feature is now disabled: sm_afk_kick_min_players = 6 Current Players = 1
+L 04/02/2021 - 03:19:48: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 04/02/2021 - 03:26:34: [afk_manager4.smx] Player count for AFK Kick minimum has been reached, feature is now enabled: sm_afk_kick_min_players = 6 Current Players = 6
+L 04/02/2021 - 03:42:55: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 1
+L 04/02/2021 - 03:42:55: [afk_manager4.smx] Player count for AFK Kick minimum is below requirements, feature is now disabled: sm_afk_kick_min_players = 6 Current Players = 1
+L 04/02/2021 - 03:42:58: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 04/02/2021 - 03:43:03: [afk_manager4.smx] Player count for AFK Kick minimum has been reached, feature is now enabled: sm_afk_kick_min_players = 6 Current Players = 6
+L 04/02/2021 - 04:09:06: [afk_manager4.smx] qrse<31><STEAM_1:1:184975597><> was moved to spectate for being AFK too long.
+L 04/02/2021 - 04:13:57: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 0
+L 04/02/2021 - 04:13:57: [afk_manager4.smx] Player count for AFK Kick minimum is below requirements, feature is now disabled: sm_afk_kick_min_players = 6 Current Players = 0
+L 04/02/2021 - 04:14:02: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 04/02/2021 - 04:14:07: [afk_manager4.smx] Player count for AFK Kick minimum has been reached, feature is now enabled: sm_afk_kick_min_players = 6 Current Players = 6
+L 04/02/2021 - 04:18:25: [afk_manager4.smx] ديز المكسرات<30><STEAM_1:0:208810215><> was moved to spectate for being AFK too long.
+L 04/02/2021 - 04:20:46: [afk_manager4.smx] ديز المكسرات<30><STEAM_1:0:208810215><> was moved to spectate for being AFK too long.
+L 04/02/2021 - 04:21:39: [afk_manager4.smx] ديز المكسرات<30><STEAM_1:0:208810215><> was moved to spectate for being AFK too long.
+L 04/02/2021 - 04:27:30: [afk_manager4.smx] Player count for AFK Kick minimum is below requirements, feature is now disabled: sm_afk_kick_min_players = 6 Current Players = 5
+L 04/02/2021 - 04:29:03: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 04/02/2021 - 17:47:59: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 04/02/2021 - 18:03:12: [afk_manager4.smx] usslatdrilluksamong<45><STEAM_1:1:128431384><> was moved to spectate for being AFK too long.
+L 04/02/2021 - 18:10:49: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3

@@ -1,0 +1,24 @@
+L 11/29/2020 - 14:14:31: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201129.log") (Version "1.10.0.6490")
+L 11/29/2020 - 14:14:31: -------- Mapchange to de_overpass --------
+L 11/29/2020 - 14:16:57: [basecommands.smx] "Leo Dooly<33><STEAM_1:0:109554979><>" console command (cmdline "exec hvhprac")
+L 11/29/2020 - 14:28:22: [basecommands.smx] "Leo Dooly<33><STEAM_1:0:109554979><>" changed map to "inferno"
+L 11/29/2020 - 14:28:25: [SM] Changed map to "inferno"
+L 11/29/2020 - 14:28:26: -------- Mapchange to de_inferno --------
+L 11/29/2020 - 14:29:09: [basecommands.smx] "Leo Dooly<33><STEAM_1:0:109554979><>" console command (cmdline "exec hvhparc")
+L 11/29/2020 - 14:29:11: [basecommands.smx] "Leo Dooly<33><STEAM_1:0:109554979><>" console command (cmdline "exec hvhprac")
+L 11/29/2020 - 14:31:45: [basecommands.smx] "Leo Dooly<33><STEAM_1:0:109554979><>" console command (cmdline "bot_add_ct")
+L 11/29/2020 - 14:31:48: [basecommands.smx] "Leo Dooly<33><STEAM_1:0:109554979><>" console command (cmdline "bot_add")
+L 11/29/2020 - 14:31:54: [basecommands.smx] "Leo Dooly<33><STEAM_1:0:109554979><>" console command (cmdline "bot_add")
+L 11/29/2020 - 14:36:48: [basecommands.smx] "Leo Dooly<33><STEAM_1:0:109554979><>" console command (cmdline "sv_maxusrcmdprocessticks 16")
+L 11/29/2020 - 14:37:39: [basecommands.smx] "Leo Dooly<33><STEAM_1:0:109554979><>" changed map to "inferno"
+L 11/29/2020 - 14:37:42: [SM] Changed map to "inferno"
+L 11/29/2020 - 14:37:43: -------- Mapchange to de_inferno --------
+L 11/29/2020 - 16:16:00: -------- Mapchange to de_inferno --------
+L 11/29/2020 - 17:51:47: -------- Mapchange to de_inferno --------
+L 11/29/2020 - 17:52:26: [basecommands.smx] "Leo Dooly<39><STEAM_1:0:109554979><>" console command (cmdline "exec hvhprac")
+L 11/29/2020 - 21:31:09: -------- Mapchange to de_inferno --------
+L 11/29/2020 - 21:37:01: -------- Mapchange to de_dust2 --------
+L 11/29/2020 - 22:13:03: -------- Mapchange to de_mirage --------
+L 11/29/2020 - 22:42:37: -------- Mapchange to de_mirage --------
+L 11/29/2020 - 23:52:44: -------- Mapchange to de_overpass --------
+L 11/30/2020 - 00:00:25: Log file closed.

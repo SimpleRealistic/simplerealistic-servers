@@ -1,0 +1,19 @@
+L 11/05/2020 - 15:20:41: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201105.log") (Version "1.10.0.6490")
+L 11/05/2020 - 15:20:41: -------- Mapchange to de_inferno --------
+L 11/05/2020 - 15:22:50: -------- Mapchange to de_bank --------
+L 11/05/2020 - 17:34:49: -------- Mapchange to de_bank --------
+L 11/05/2020 - 21:16:15: -------- Mapchange to de_bank --------
+L 11/05/2020 - 21:18:57: -------- Mapchange to de_bank --------
+L 11/05/2020 - 21:20:30: -------- Mapchange to de_inferno --------
+L 11/05/2020 - 22:11:26: -------- Mapchange to de_inferno --------
+L 11/05/2020 - 22:24:55: [basecommands.smx] "Leo Dooly<114><STEAM_1:0:109554979><>" console command (cmdline "bot_kick")
+L 11/05/2020 - 22:29:17: [basecommands.smx] "Leo Dooly<114><STEAM_1:0:109554979><>" console command (cmdline "weapon_accuracy_nospread "1"")
+L 11/05/2020 - 22:29:21: [basecommands.smx] "Leo Dooly<114><STEAM_1:0:109554979><>" console command (cmdline "weapon_accuracy_nospread "0"")
+L 11/05/2020 - 22:29:29: [basecommands.smx] "Leo Dooly<114><STEAM_1:0:109554979><>" console command (cmdline "weapon_accuracy_nospread 0")
+L 11/05/2020 - 22:29:37: [basecommands.smx] "Leo Dooly<114><STEAM_1:0:109554979><>" console command (cmdline "weapon_accuracy_nospread 1")
+L 11/05/2020 - 22:34:53: [basecommands.smx] "Leo Dooly<114><STEAM_1:0:109554979><>" console command (cmdline "bot_kick")
+L 11/05/2020 - 22:37:04: -------- Mapchange to de_inferno --------
+L 11/05/2020 - 23:16:59: -------- Mapchange to de_inferno --------
+L 11/05/2020 - 23:27:08: -------- Mapchange to de_inferno --------
+L 11/05/2020 - 23:39:30: -------- Mapchange to de_inferno --------
+L 11/06/2020 - 00:07:31: Log file closed.

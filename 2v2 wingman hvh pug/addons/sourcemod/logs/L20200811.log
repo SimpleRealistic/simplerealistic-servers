@@ -1,0 +1,50 @@
+L 08/11/2020 - 01:28:05: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200811.log") (Version "1.10.0.6490")
+L 08/11/2020 - 01:28:05: -------- Mapchange to de_mirage --------
+L 08/11/2020 - 01:57:19: [basechat.smx] "kr0md<106><STEAM_1:0:125290236><>" triggered sm_say (text can you guys see this message?)
+L 08/11/2020 - 01:57:31: [basechat.smx] "kr0md<106><STEAM_1:0:125290236><>" triggered sm_say (text Want me to turn alltalk off?)
+L 08/11/2020 - 01:58:23: [basechat.smx] "kr0md<106><STEAM_1:0:125290236><>" triggered sm_say (text nvm)
+L 08/11/2020 - 01:58:32: [basechat.smx] "kr0md<106><STEAM_1:0:125290236><>" triggered sm_say (text  just dont talk in game)
+L 08/11/2020 - 01:58:37: [basechat.smx] "kr0md<106><STEAM_1:0:125290236><>" triggered sm_say (text you are in a discord)
+L 08/11/2020 - 02:02:04: [basechat.smx] "kr0md<106><STEAM_1:0:125290236><>" triggered sm_say (text can you not)
+L 08/11/2020 - 02:02:15: [basechat.smx] "kr0md<106><STEAM_1:0:125290236><>" triggered sm_say (text unbind mic button)
+L 08/11/2020 - 02:08:43: [basechat.smx] "kr0md<106><STEAM_1:0:125290236><>" triggered sm_say (text This looks like a community server game)
+L 08/11/2020 - 02:14:29: [basechat.smx] "kr0md<106><STEAM_1:0:125290236><>" triggered sm_say (text You would've probably done better with the shotgun instead of the auto)
+L 08/11/2020 - 02:15:07: [basechat.smx] "kr0md<106><STEAM_1:0:125290236><>" triggered sm_say (text I am quoting this "gosu‎ : yall niggas on t need some practice")
+L 08/11/2020 - 02:21:50: [basechat.smx] "kr0md<106><STEAM_1:0:125290236><>" triggered sm_say (text cfg issue, onetap is the best cheat right now)
+L 08/11/2020 - 02:22:14: [basechat.smx] "kr0md<106><STEAM_1:0:125290236><>" triggered sm_say (text do you have all your players?)
+L 08/11/2020 - 02:23:21: [basechat.smx] "kr0md<106><STEAM_1:0:125290236><>" triggered sm_say (text did this nigga just ask to zeus in a 5v5)
+L 08/11/2020 - 02:23:24: [basechat.smx] "kr0md<106><STEAM_1:0:125290236><>" triggered sm_say (text I am done)
+L 08/11/2020 - 02:23:48: [basechat.smx] "kr0md<106><STEAM_1:0:125290236><>" triggered sm_say (text I am quoting "drux‎ : yikes")
+L 08/11/2020 - 02:24:29: [basechat.smx] "kr0md<106><STEAM_1:0:125290236><>" triggered sm_say (text Bloom, rule #idk no trolling or 2 match blacklist)
+L 08/11/2020 - 02:29:11: [basecommands.smx] "kr0md<106><STEAM_1:0:125290236><>" changed map to "overpass"
+L 08/11/2020 - 02:29:14: [SM] Changed map to "overpass"
+L 08/11/2020 - 02:29:14: -------- Mapchange to de_overpass --------
+L 08/11/2020 - 02:36:25: [basecommands.smx] "kr0md<106><STEAM_1:0:125290236><>" changed map to "inferno"
+L 08/11/2020 - 02:36:28: [SM] Changed map to "inferno"
+L 08/11/2020 - 02:36:29: -------- Mapchange to de_inferno --------
+L 08/11/2020 - 03:10:37: [basecommands.smx] "kr0md<106><STEAM_1:0:125290236><>" changed map to "overpass"
+L 08/11/2020 - 03:10:40: [SM] Changed map to "overpass"
+L 08/11/2020 - 03:10:40: -------- Mapchange to de_overpass --------
+L 08/11/2020 - 19:09:32: -------- Mapchange to de_overpass --------
+L 08/11/2020 - 19:16:21: [SM] Changed map to "cs_office"
+L 08/11/2020 - 19:16:21: -------- Mapchange to cs_office --------
+L 08/11/2020 - 19:57:04: [SM] Changed map to "de_dust2"
+L 08/11/2020 - 19:57:06: -------- Mapchange to de_dust2 --------
+L 08/11/2020 - 20:23:38: -------- Mapchange to de_dust2 --------
+L 08/11/2020 - 20:28:17: [basechat.smx] "dylan<151><STEAM_1:0:152419574><>" triggered sm_say (text no.)
+L 08/11/2020 - 20:32:15: [basechat.smx] "dylan<151><STEAM_1:0:152419574><>" triggered sm_say (text im waiting)
+L 08/11/2020 - 20:32:17: [basechat.smx] "dylan<151><STEAM_1:0:152419574><>" triggered sm_say (text for him)
+L 08/11/2020 - 20:32:28: [basechat.smx] "dylan<151><STEAM_1:0:152419574><>" triggered sm_say (text is a retard)
+L 08/11/2020 - 20:36:04: [basechat.smx] "dylan<151><STEAM_1:0:152419574><>" triggered sm_say (text waiting for threat)
+L 08/11/2020 - 20:37:36: [basecommands.smx] "dylan<151><STEAM_1:0:152419574><>" console command (cmdline "sm_unpause")
+L 08/11/2020 - 20:45:12: [basecommands.smx] "dylan<151><STEAM_1:0:152419574><>" console command (cmdline "sm_unpause")
+L 08/11/2020 - 21:29:56: -------- Mapchange to de_anubis --------
+L 08/11/2020 - 21:34:03: [basecommands.smx] "dylan<151><STEAM_1:0:152419574><>" console command (cmdline "sm_forcestart")
+L 08/11/2020 - 21:34:07: [basecommands.smx] "dylan<151><STEAM_1:0:152419574><>" console command (cmdline "pause")
+L 08/11/2020 - 21:34:13: [basecommands.smx] "dylan<151><STEAM_1:0:152419574><>" console command (cmdline "pause")
+L 08/11/2020 - 21:34:18: [basecommands.smx] "dylan<151><STEAM_1:0:152419574><>" console command (cmdline "sm_pause")
+L 08/11/2020 - 23:04:56: -------- Mapchange to de_anubis --------
+L 08/11/2020 - 23:06:10: [basecommands.smx] "kr0md<177><STEAM_1:0:125290236><>" changed map to "overpass"
+L 08/11/2020 - 23:06:13: [SM] Changed map to "overpass"
+L 08/11/2020 - 23:06:14: -------- Mapchange to de_overpass --------
+L 08/12/2020 - 00:39:05: Log file closed.

@@ -1,0 +1,8 @@
+L 03/18/2021 - 12:49:17: SourceMod log file session started (file "/home/steam/5v5/csgo/addons/sourcemod/logs/L20210318.log") (Version "1.10.0.6502")
+L 03/18/2021 - 12:49:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_advertisements_interval") (value "120")
+L 03/18/2021 - 15:55:45: -------- Mapchange to de_mirage --------
+L 03/18/2021 - 15:55:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_advertisements_interval") (value "120")
+L 03/18/2021 - 15:56:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_advertisements_interval") (value "120")
+L 03/18/2021 - 15:56:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_advertisements_interval") (value "120")
+L 03/18/2021 - 16:37:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_advertisements_interval") (value "120")
+L 03/18/2021 - 16:37:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_advertisements_interval") (value "120")

@@ -1,0 +1,13 @@
+L 01/18/2022 - 02:07:55: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20220118.log") (Version "1.10.0.6528")
+L 01/18/2022 - 02:07:55: [auto_steam_update.smx] Received a master server restart request, beginning restart timer.
+L 01/18/2022 - 02:08:57: [auto_steam_update.smx] Restarting server for Steam update.
+L 01/18/2022 - 02:08:58: Log file closed.
+L 01/18/2022 - 02:09:20: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20220118.log") (Version "1.10.0.6528")
+L 01/18/2022 - 02:09:20: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 01/18/2022 - 02:09:20: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 01/18/2022 - 02:09:20: [afk_manager4.smx] [AFK Manager] Log File: addons/sourcemod/logs/afkm_20220118.log
+L 01/18/2022 - 02:09:20: [afk_manager4.smx] [AFK Manager] Detected Mod Counter-Strike: Global Offensive
+L 01/18/2022 - 02:09:21: [weapons.smx] MySQL DB connection successful
+L 01/18/2022 - 02:09:21: [weapons.smx] Inactive players' data has been deleted
+L 01/18/2022 - 02:09:23: [goldenknife.smx] Hooked Cvars
+L 01/19/2022 - 02:36:45: Log file closed.

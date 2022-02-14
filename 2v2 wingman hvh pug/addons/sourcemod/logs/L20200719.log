@@ -1,0 +1,34 @@
+L 07/19/2020 - 01:02:20: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200719.log") (Version "1.10.0.6490")
+L 07/19/2020 - 01:02:20: [funcommands.smx] "dylan<2><STEAM_1:0:152419574><>" toggled noclip on "dylan<2><STEAM_1:0:152419574><>"
+L 07/19/2020 - 01:02:48: [funcommands.smx] "dylan<2><STEAM_1:0:152419574><>" toggled noclip on "dylan<2><STEAM_1:0:152419574><>"
+L 07/19/2020 - 01:50:53: -------- Mapchange to de_overpass --------
+L 07/19/2020 - 02:00:21: -------- Mapchange to de_overpass --------
+L 07/19/2020 - 02:04:16: [basecommands.smx] "dylan<17><STEAM_1:0:152419574><>" changed map to "mirage"
+L 07/19/2020 - 02:04:19: [SM] Changed map to "mirage"
+L 07/19/2020 - 02:04:20: -------- Mapchange to de_mirage --------
+L 07/19/2020 - 16:20:45: -------- Mapchange to de_mirage --------
+L 07/19/2020 - 16:49:28: [basecommands.smx] "dylan<23><STEAM_1:0:152419574><>" changed map to "overpass"
+L 07/19/2020 - 16:49:31: [SM] Changed map to "overpass"
+L 07/19/2020 - 16:49:32: -------- Mapchange to de_overpass --------
+L 07/19/2020 - 16:50:12: [basecommands.smx] "dylan<23><STEAM_1:0:152419574><>" kicked "blank<24><STEAM_1:1:551808845><>" (reason "")
+L 07/19/2020 - 17:17:54: [basecommands.smx] "dylan<23><STEAM_1:0:152419574><>" changed map to "mirage"
+L 07/19/2020 - 17:17:57: [SM] Changed map to "mirage"
+L 07/19/2020 - 17:17:58: -------- Mapchange to de_mirage --------
+L 07/19/2020 - 17:18:50: [basecommands.smx] "dylan<23><STEAM_1:0:152419574><>" changed map to "shortdust"
+L 07/19/2020 - 17:18:53: [SM] Changed map to "shortdust"
+L 07/19/2020 - 17:18:53: -------- Mapchange to de_shortdust --------
+L 07/19/2020 - 17:29:22: [basecommands.smx] "dylan<23><STEAM_1:0:152419574><>" console command (cmdline "mp_roundlimit")
+L 07/19/2020 - 17:29:25: [basecommands.smx] "dylan<23><STEAM_1:0:152419574><>" console command (cmdline "mp_maxrounds")
+L 07/19/2020 - 17:29:26: [basecommands.smx] "dylan<23><STEAM_1:0:152419574><>" console command (cmdline "mp_maxrounds 16")
+L 07/19/2020 - 21:34:37: -------- Mapchange to de_shortdust --------
+L 07/19/2020 - 22:20:18: -------- Mapchange to de_shortdust --------
+L 07/19/2020 - 22:20:37: [basecommands.smx] "leo dooly<29><STEAM_1:1:549143944><>" changed map to "overpass"
+L 07/19/2020 - 22:20:40: [SM] Changed map to "overpass"
+L 07/19/2020 - 22:20:40: -------- Mapchange to de_overpass --------
+L 07/19/2020 - 22:21:03: [basecommands.smx] "leo dooly<29><STEAM_1:1:549143944><>" console command (cmdline "prachvh")
+L 07/19/2020 - 22:21:10: [basecommands.smx] "leo dooly<29><STEAM_1:1:549143944><>" console command (cmdline "exec prachvh")
+L 07/19/2020 - 22:21:13: [basecommands.smx] "leo dooly<29><STEAM_1:1:549143944><>" console command (cmdline "exec hvhprac")
+L 07/19/2020 - 22:43:10: [basecommands.smx] "leo dooly<32><STEAM_1:1:549143944><>" changed map to "overpass"
+L 07/19/2020 - 22:43:13: [SM] Changed map to "overpass"
+L 07/19/2020 - 22:43:13: -------- Mapchange to de_overpass --------
+L 07/20/2020 - 00:01:06: Log file closed.

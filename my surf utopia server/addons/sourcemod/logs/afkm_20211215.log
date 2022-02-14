@@ -1,0 +1,15 @@
+L 12/15/2021 - 17:44:44: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/15/2021 - 17:45:43: [afk_manager4.smx] Wati Glenn<41><STEAM_1:0:215405052><> was moved to spectate for being AFK too long.
+L 12/15/2021 - 17:51:23: [afk_manager4.smx] Rackedup<43><STEAM_1:1:633481248><> was moved to spectate for being AFK too long.
+L 12/15/2021 - 17:56:09: [afk_manager4.smx] Natedawg<44><STEAM_1:1:101134423><> was moved to spectate for being AFK too long.
+L 12/15/2021 - 18:04:54: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 12/15/2021 - 20:54:52: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/15/2021 - 21:02:24: [afk_manager4.smx] Player count for AFK Kick minimum has been reached, feature is now enabled: sm_afk_kick_min_players = 6 Current Players = 6
+L 12/15/2021 - 21:12:24: [afk_manager4.smx] Player count for AFK Kick minimum is below requirements, feature is now disabled: sm_afk_kick_min_players = 6 Current Players = 5
+L 12/15/2021 - 21:22:59: [afk_manager4.smx] Gusher<61><STEAM_1:0:632460028><> was moved to spectate for being AFK too long.
+L 12/15/2021 - 21:24:41: [afk_manager4.smx] Zenoyo<56><STEAM_1:0:569069352><> was moved to spectate for being AFK too long.
+L 12/15/2021 - 21:31:23: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 12/16/2021 - 00:14:17: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/16/2021 - 00:18:06: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 12/16/2021 - 00:22:13: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/16/2021 - 00:39:19: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3

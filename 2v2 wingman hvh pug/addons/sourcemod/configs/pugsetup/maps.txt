@@ -1,0 +1,17 @@
+de_cache
+de_inferno
+de_shortnuke
+de_dust
+de_overpass
+de_lake
+de_bank
+de_train
+de_cobblestone
+de_chlorine
+de_canals
+cs_militia
+de_vertigo
+gd_rialto
+de_stmarc
+de_shortdust
+cs_assault

@@ -1,0 +1,73 @@
+L 12/20/2021 - 01:08:02: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211220.log") (Version "1.10.0.6528")
+L 12/20/2021 - 01:08:02: [basecommands.smx] "pot head<48><STEAM_1:0:23861894><>" console command (cmdline "sm plugins")
+L 12/20/2021 - 01:08:10: [basecommands.smx] "pot head<48><STEAM_1:0:23861894><>" console command (cmdline "sm plugins load tidychat")
+L 12/20/2021 - 01:09:01: [basecommands.smx] "pot head<48><STEAM_1:0:23861894><>" console command (cmdline "sm_tidychat_class")
+L 12/20/2021 - 01:25:10: [basecommands.smx] "pot head<48><STEAM_1:0:23861894><>" console command (cmdline "sm plugins unload")
+L 12/20/2021 - 01:25:15: [basecommands.smx] "pot head<48><STEAM_1:0:23861894><>" console command (cmdline "sm plugins unload tidychat")
+L 12/20/2021 - 01:25:19: [basecommands.smx] "pot head<48><STEAM_1:0:23861894><>" console command (cmdline "sm plugins load tidychat")
+L 12/20/2021 - 01:26:27: [basecommands.smx] "pot head<48><STEAM_1:0:23861894><>" console command (cmdline "sm plugins")
+L 12/20/2021 - 01:26:28: [basecommands.smx] "pot head<48><STEAM_1:0:23861894><>" console command (cmdline "sm plugins refresh")
+L 12/20/2021 - 01:26:56: [basecommands.smx] "pot head<48><STEAM_1:0:23861894><>" console command (cmdline "mp_restartgame 1")
+L 12/20/2021 - 01:27:28: Log file closed.
+L 12/20/2021 - 01:27:34: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211220.log") (Version "1.10.0.6528")
+L 12/20/2021 - 01:27:34: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/20/2021 - 01:27:34: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 12/20/2021 - 01:27:34: [afk_manager4.smx] [AFK Manager] Log File: addons/sourcemod/logs/afkm_20211220.log
+L 12/20/2021 - 01:27:34: [afk_manager4.smx] [AFK Manager] Detected Mod Counter-Strike: Global Offensive
+L 12/20/2021 - 01:27:36: [weapons.smx] MySQL DB connection successful
+L 12/20/2021 - 01:27:36: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 01:27:38: [goldenknife.smx] Hooked Cvars
+L 12/20/2021 - 01:27:39: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 01:27:40: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 01:49:14: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 01:49:15: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 04:29:15: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 04:29:17: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 04:42:52: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 04:42:53: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 05:33:13: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 05:33:14: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 06:00:08: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 06:00:10: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 06:24:05: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 06:24:06: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 09:02:31: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 09:02:32: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 09:46:17: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 09:46:18: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 11:20:43: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 11:20:44: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 11:53:31: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 11:53:32: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 12:20:36: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 12:20:37: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 14:12:36: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 14:12:37: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 15:38:15: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 15:38:16: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 16:43:29: [basecommands.smx] "represent<104><STEAM_1:0:23861894><>" console command (cmdline "sm plugins load")
+L 12/20/2021 - 16:43:34: [basecommands.smx] "represent<104><STEAM_1:0:23861894><>" console command (cmdline "sm plugins unload afk_manager4")
+L 12/20/2021 - 16:43:41: [basecommands.smx] "represent<104><STEAM_1:0:23861894><>" console command (cmdline "sm plugins load afk_manager4")
+L 12/20/2021 - 16:43:41: [afk_manager4.smx] [AFK Manager] Log File: addons/sourcemod/logs/afkm_20211220.log
+L 12/20/2021 - 16:43:41: [afk_manager4.smx] [AFK Manager] Detected Mod Counter-Strike: Global Offensive
+L 12/20/2021 - 17:04:31: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 17:04:32: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 17:38:51: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 17:38:52: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 17:44:19: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 17:44:21: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 17:48:39: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 17:48:40: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 17:49:51: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 17:49:52: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 18:04:59: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 18:05:00: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 18:21:57: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 18:21:58: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 21:03:33: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 21:03:34: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 21:43:04: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 21:43:05: [weapons.smx] Inactive players' data has been deleted
+L 12/20/2021 - 21:56:31: -------- Mapchange to surf_utopia_noble --------
+L 12/20/2021 - 21:56:32: [weapons.smx] Inactive players' data has been deleted
+L 12/21/2021 - 02:59:43: Log file closed.

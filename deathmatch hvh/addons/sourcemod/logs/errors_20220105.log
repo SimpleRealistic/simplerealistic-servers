@@ -1,0 +1,26 @@
+L 01/05/2022 - 03:20:34: SourceMod error session started
+L 01/05/2022 - 03:20:34: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20220105.log")
+L 01/05/2022 - 03:20:34: [SM] Exception reported: Entity 2 (2) is invalid
+L 01/05/2022 - 03:20:34: [SM] Blaming: DisableRadar.smx
+L 01/05/2022 - 03:20:34: [SM] Call stack trace:
+L 01/05/2022 - 03:20:34: [SM]   [0] GetEntProp
+L 01/05/2022 - 03:20:34: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 01/05/2022 - 03:20:34: [SM] Exception reported: Entity 2 (2) is invalid
+L 01/05/2022 - 03:20:34: [SM] Blaming: DisableRadar.smx
+L 01/05/2022 - 03:20:34: [SM] Call stack trace:
+L 01/05/2022 - 03:20:34: [SM]   [0] GetEntProp
+L 01/05/2022 - 03:20:34: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 01/05/2022 - 04:42:45: Error log file session closed.
+L 01/05/2022 - 22:16:56: SourceMod error session started
+L 01/05/2022 - 22:16:56: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20220105.log")
+L 01/05/2022 - 22:16:56: [SM] Exception reported: Entity 2 (2) is invalid
+L 01/05/2022 - 22:16:56: [SM] Blaming: DisableRadar.smx
+L 01/05/2022 - 22:16:56: [SM] Call stack trace:
+L 01/05/2022 - 22:16:56: [SM]   [0] GetEntProp
+L 01/05/2022 - 22:16:56: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 01/05/2022 - 22:16:56: [SM] Exception reported: Entity 2 (2) is invalid
+L 01/05/2022 - 22:16:56: [SM] Blaming: DisableRadar.smx
+L 01/05/2022 - 22:16:56: [SM] Call stack trace:
+L 01/05/2022 - 22:16:56: [SM]   [0] GetEntProp
+L 01/05/2022 - 22:16:56: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 01/06/2022 - 13:29:22: Error log file session closed.

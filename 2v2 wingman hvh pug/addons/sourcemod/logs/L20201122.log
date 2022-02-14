@@ -1,0 +1,28 @@
+L 11/22/2020 - 10:49:48: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201122.log") (Version "1.10.0.6490")
+L 11/22/2020 - 10:49:48: [basecommands.smx] "Leo Dooly<14><STEAM_1:0:547658231><>" changed map to "dust2"
+L 11/22/2020 - 10:49:51: [basecommands.smx] "Leo Dooly<14><STEAM_1:0:547658231><>" changed map to "mirage"
+L 11/22/2020 - 10:49:51: [SM] Changed map to "dust2"
+L 11/22/2020 - 10:49:53: -------- Mapchange to de_dust2 --------
+L 11/22/2020 - 10:49:57: [SM] Changed map to "mirage"
+L 11/22/2020 - 10:49:58: -------- Mapchange to de_mirage --------
+L 11/22/2020 - 15:54:28: -------- Mapchange to de_mirage --------
+L 11/22/2020 - 16:18:59: [SM] Changed map to "cs_office"
+L 11/22/2020 - 16:18:59: -------- Mapchange to cs_office --------
+L 11/22/2020 - 16:24:44: -------- Mapchange to de_overpass --------
+L 11/22/2020 - 18:10:28: -------- Mapchange to de_overpass --------
+L 11/22/2020 - 20:54:15: -------- Mapchange to de_overpass --------
+L 11/22/2020 - 22:16:05: -------- Mapchange to de_overpass --------
+L 11/22/2020 - 22:16:32: -------- Mapchange to de_overpass --------
+L 11/22/2020 - 22:17:54: [SM] Changed map to "de_dust2"
+L 11/22/2020 - 22:17:56: -------- Mapchange to de_dust2 --------
+L 11/22/2020 - 22:18:27: [SM] Changed map to "de_train"
+L 11/22/2020 - 22:18:29: -------- Mapchange to de_train --------
+L 11/22/2020 - 22:19:03: [SM] Changed map to "de_inferno"
+L 11/22/2020 - 22:19:04: -------- Mapchange to de_inferno --------
+L 11/22/2020 - 22:22:18: -------- Mapchange to de_mirage --------
+L 11/22/2020 - 22:46:57: -------- Mapchange to de_overpass --------
+L 11/22/2020 - 23:25:56: -------- Mapchange to de_overpass --------
+L 11/22/2020 - 23:27:05: [basecommands.smx] "Leo Dooly<28><STEAM_1:0:547658231><>" changed map to "mirage"
+L 11/22/2020 - 23:27:08: [SM] Changed map to "mirage"
+L 11/22/2020 - 23:27:09: -------- Mapchange to de_mirage --------
+L 11/23/2020 - 12:07:00: Log file closed.

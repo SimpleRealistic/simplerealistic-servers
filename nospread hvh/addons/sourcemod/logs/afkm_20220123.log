@@ -1,0 +1,3 @@
+L 01/23/2022 - 18:59:38: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 01/23/2022 - 19:31:02: [afk_manager4.smx] rexzii<52><STEAM_1:0:176175046><> was moved to spectate for being AFK too long.
+L 01/23/2022 - 19:53:45: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3

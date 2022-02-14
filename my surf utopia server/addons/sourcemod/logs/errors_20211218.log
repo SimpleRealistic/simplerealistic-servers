@@ -1,0 +1,26 @@
+L 12/18/2021 - 01:56:47: SourceMod error session started
+L 12/18/2021 - 01:56:47: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211218.log")
+L 12/18/2021 - 01:56:47: [SM] Exception reported: Tracker stack is out of bounds
+L 12/18/2021 - 01:56:47: [SM] Blaming: unrestricted_fov.smx
+L 12/18/2021 - 01:56:47: [SM] Call stack trace:
+L 12/18/2021 - 01:56:47: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 12/18/2021 - 01:56:57: [SM] Exception reported: Tracker stack is out of bounds
+L 12/18/2021 - 01:56:57: [SM] Blaming: unrestricted_fov.smx
+L 12/18/2021 - 01:56:57: [SM] Call stack trace:
+L 12/18/2021 - 01:56:57: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 12/18/2021 - 01:57:06: [SM] Exception reported: Tracker stack is out of bounds
+L 12/18/2021 - 01:57:06: [SM] Blaming: unrestricted_fov.smx
+L 12/18/2021 - 01:57:06: [SM] Call stack trace:
+L 12/18/2021 - 01:57:06: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 12/18/2021 - 03:18:44: Error log file session closed.
+L 12/18/2021 - 22:38:22: SourceMod error session started
+L 12/18/2021 - 22:38:22: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20211218.log")
+L 12/18/2021 - 22:38:22: [SM] Exception reported: Tracker stack is out of bounds
+L 12/18/2021 - 22:38:22: [SM] Blaming: unrestricted_fov.smx
+L 12/18/2021 - 22:38:22: [SM] Call stack trace:
+L 12/18/2021 - 22:38:22: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 12/18/2021 - 22:38:29: [SM] Exception reported: Tracker stack is out of bounds
+L 12/18/2021 - 22:38:29: [SM] Blaming: unrestricted_fov.smx
+L 12/18/2021 - 22:38:29: [SM] Call stack trace:
+L 12/18/2021 - 22:38:29: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 12/19/2021 - 00:44:13: Error log file session closed.

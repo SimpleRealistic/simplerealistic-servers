@@ -1,0 +1,11 @@
+L 12/21/2021 - 06:43:14: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/21/2021 - 06:43:29: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 12/21/2021 - 17:26:47: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/21/2021 - 17:31:49: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 12/21/2021 - 18:29:51: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/21/2021 - 18:38:00: [afk_manager4.smx] ingo lingo<270><STEAM_1:0:44704196><> was moved to spectate for being AFK too long.
+L 12/21/2021 - 18:38:10: [afk_manager4.smx] Player count for AFK Kick minimum has been reached, feature is now enabled: sm_afk_kick_min_players = 6 Current Players = 6
+L 12/21/2021 - 18:44:52: [afk_manager4.smx] DylPickle<276><STEAM_1:1:512856951><> was moved to spectate for being AFK too long.
+L 12/21/2021 - 18:56:51: [afk_manager4.smx] ingo spanko<272><STEAM_1:1:81119744><> was moved to spectate for being AFK too long.
+L 12/21/2021 - 19:01:29: [afk_manager4.smx] Player count for AFK Kick minimum is below requirements, feature is now disabled: sm_afk_kick_min_players = 6 Current Players = 5
+L 12/21/2021 - 19:08:10: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3

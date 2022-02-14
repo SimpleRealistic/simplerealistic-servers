@@ -1,0 +1,51 @@
+L 07/29/2020 - 18:17:23: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200729.log") (Version "1.10.0.6490")
+L 07/29/2020 - 18:17:23: -------- Mapchange to cs_militia --------
+L 07/29/2020 - 19:25:30: -------- Mapchange to de_overpass --------
+L 07/29/2020 - 19:47:45: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" console command (cmdline "bot_add")
+L 07/29/2020 - 19:47:48: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" console command (cmdline "bot_add ct")
+L 07/29/2020 - 19:47:50: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" console command (cmdline "bot_add t")
+L 07/29/2020 - 19:55:05: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200729.log") (Version "1.10.0.6490")
+L 07/29/2020 - 19:55:05: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/29/2020 - 19:55:10: -------- Mapchange to de_dust2 --------
+L 07/29/2020 - 19:55:45: [basecommands.smx] "dylan<4><STEAM_1:0:152419574><>" changed map to "overpass"
+L 07/29/2020 - 19:55:48: [SM] Changed map to "overpass"
+L 07/29/2020 - 19:55:49: -------- Mapchange to de_overpass --------
+L 07/29/2020 - 19:58:46: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "dylan<4><STEAM_1:0:152419574><>"
+L 07/29/2020 - 19:58:46: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "mortal<6><STEAM_1:1:61686><>"
+L 07/29/2020 - 19:58:52: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "kr0md<9><STEAM_1:0:125290236><>"
+L 07/29/2020 - 19:58:56: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "dylan<4><STEAM_1:0:152419574><>"
+L 07/29/2020 - 19:58:56: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "mortal<6><STEAM_1:1:61686><>"
+L 07/29/2020 - 19:58:56: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "kr0md<9><STEAM_1:0:125290236><>"
+L 07/29/2020 - 19:59:00: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "kr0md<9><STEAM_1:0:125290236><>"
+L 07/29/2020 - 19:59:06: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "dylan<4><STEAM_1:0:152419574><>"
+L 07/29/2020 - 19:59:06: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "mortal<6><STEAM_1:1:61686><>"
+L 07/29/2020 - 19:59:06: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "kr0md<9><STEAM_1:0:125290236><>"
+L 07/29/2020 - 19:59:14: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "dylan<4><STEAM_1:0:152419574><>"
+L 07/29/2020 - 19:59:14: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "mortal<6><STEAM_1:1:61686><>"
+L 07/29/2020 - 19:59:14: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "kr0md<9><STEAM_1:0:125290236><>"
+L 07/29/2020 - 19:59:20: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "dylan<4><STEAM_1:0:152419574><>"
+L 07/29/2020 - 19:59:20: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "mortal<6><STEAM_1:1:61686><>"
+L 07/29/2020 - 19:59:20: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "kr0md<9><STEAM_1:0:125290236><>"
+L 07/29/2020 - 19:59:26: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "dylan<4><STEAM_1:0:152419574><>"
+L 07/29/2020 - 19:59:26: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "mortal<6><STEAM_1:1:61686><>"
+L 07/29/2020 - 19:59:26: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "kr0md<9><STEAM_1:0:125290236><>"
+L 07/29/2020 - 19:59:32: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "vibing<2><STEAM_1:1:548900559><>"
+L 07/29/2020 - 19:59:32: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "woo<3><STEAM_1:0:555642625><>"
+L 07/29/2020 - 19:59:32: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "sarins<5><STEAM_1:0:1226702><>"
+L 07/29/2020 - 19:59:32: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "kara<7><STEAM_1:0:543646408><>"
+L 07/29/2020 - 19:59:32: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "gosu<8><STEAM_1:1:520984688><>"
+L 07/29/2020 - 19:59:38: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "vibing<2><STEAM_1:1:548900559><>"
+L 07/29/2020 - 19:59:38: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "woo<3><STEAM_1:0:555642625><>"
+L 07/29/2020 - 19:59:38: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "sarins<5><STEAM_1:0:1226702><>"
+L 07/29/2020 - 19:59:38: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "kara<7><STEAM_1:0:543646408><>"
+L 07/29/2020 - 19:59:38: [playercommands.smx] "dylan<4><STEAM_1:0:152419574><>" slayed "gosu<8><STEAM_1:1:520984688><>"
+L 07/29/2020 - 22:43:15: -------- Mapchange to de_overpass --------
+L 07/29/2020 - 23:03:53: -------- Mapchange to de_lake --------
+L 07/29/2020 - 23:05:02: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "Skrt<16><STEAM_1:0:548843264><>"
+L 07/29/2020 - 23:07:46: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "Skrt<16><STEAM_1:0:548843264><>"
+L 07/29/2020 - 23:08:18: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "Skrt<16><STEAM_1:0:548843264><>"
+L 07/29/2020 - 23:08:21: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" kicked "Skrt<16><STEAM_1:0:548843264><>" (reason "")
+L 07/29/2020 - 23:21:21: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" changed map to "mirage"
+L 07/29/2020 - 23:21:24: [SM] Changed map to "mirage"
+L 07/29/2020 - 23:21:24: -------- Mapchange to de_mirage --------
+L 07/30/2020 - 18:49:09: Log file closed.

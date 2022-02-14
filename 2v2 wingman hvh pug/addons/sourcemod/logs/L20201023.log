@@ -1,0 +1,15 @@
+L 10/23/2020 - 19:47:44: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201023.log") (Version "1.10.0.6490")
+L 10/23/2020 - 19:47:44: -------- Mapchange to de_inferno --------
+L 10/23/2020 - 20:18:43: [basecommands.smx] "dylan<52><STEAM_1:0:152419574><>" changed map to "overpass"
+L 10/23/2020 - 20:18:46: [SM] Changed map to "overpass"
+L 10/23/2020 - 20:18:47: -------- Mapchange to de_overpass --------
+L 10/23/2020 - 20:19:17: [funcommands.smx] "dylan<52><STEAM_1:0:152419574><>" toggled noclip on "dylan<52><STEAM_1:0:152419574><>"
+L 10/23/2020 - 20:20:17: [funcommands.smx] "dylan<52><STEAM_1:0:152419574><>" toggled noclip on "dylan<52><STEAM_1:0:152419574><>"
+L 10/23/2020 - 20:21:05: [funcommands.smx] "dylan<52><STEAM_1:0:152419574><>" toggled noclip on "dylan<52><STEAM_1:0:152419574><>"
+L 10/23/2020 - 20:21:10: [funcommands.smx] "dylan<52><STEAM_1:0:152419574><>" toggled noclip on "dylan<52><STEAM_1:0:152419574><>"
+L 10/23/2020 - 21:10:14: [SM] Changed map to "cs_office"
+L 10/23/2020 - 21:10:14: -------- Mapchange to cs_office --------
+L 10/23/2020 - 21:42:00: -------- Mapchange to de_mirage --------
+L 10/23/2020 - 23:49:57: -------- Mapchange to de_mirage --------
+L 10/23/2020 - 23:58:51: -------- Mapchange to de_safehouse --------
+L 10/24/2020 - 00:01:29: Log file closed.

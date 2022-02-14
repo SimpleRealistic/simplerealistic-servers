@@ -1,0 +1,37 @@
+L 11/23/2020 - 12:08:19: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201123.log") (Version "1.10.0.6490")
+L 11/23/2020 - 12:08:19: -------- Mapchange to de_mirage --------
+L 11/23/2020 - 19:03:03: -------- Mapchange to de_mirage --------
+L 11/23/2020 - 19:03:55: [basecommands.smx] "Leo Dooly<46><STEAM_1:0:574775664><>" changed map to "nuke"
+L 11/23/2020 - 19:03:58: [SM] Changed map to "nuke"
+L 11/23/2020 - 19:03:59: -------- Mapchange to de_shortnuke --------
+L 11/23/2020 - 19:05:44: [basecommands.smx] "Leo Dooly<46><STEAM_1:0:574775664><>" changed map to "de_nuke"
+L 11/23/2020 - 19:05:47: [SM] Changed map to "de_nuke"
+L 11/23/2020 - 19:05:48: -------- Mapchange to de_nuke --------
+L 11/23/2020 - 19:11:47: [basecommands.smx] "Leo Dooly<46><STEAM_1:0:574775664><>" console command (cmdline "sv_cheats 1")
+L 11/23/2020 - 19:32:58: [basecommands.smx] "Leo Dooly<46><STEAM_1:0:574775664><>" changed map to "mirage"
+L 11/23/2020 - 19:33:01: [SM] Changed map to "mirage"
+L 11/23/2020 - 19:33:01: -------- Mapchange to de_mirage --------
+L 11/23/2020 - 19:33:47: [basecommands.smx] "Leo Dooly<46><STEAM_1:0:574775664><>" console command (cmdline "sv_cheats 1")
+L 11/23/2020 - 19:49:18: [playercommands.smx] "Leo Dooly<46><STEAM_1:0:574775664><>" slayed "Kang | monkeyhax.net<48><STEAM_1:0:526959573><>"
+L 11/23/2020 - 19:58:15: [basecommands.smx] "dylan<49><STEAM_1:1:93464378><>" console command (cmdline "sv_airaccelerate ")
+L 11/23/2020 - 19:58:17: [basecommands.smx] "dylan<49><STEAM_1:1:93464378><>" console command (cmdline "sv_airaccelerate 12")
+L 11/23/2020 - 19:58:23: [basecommands.smx] "dylan<49><STEAM_1:1:93464378><>" console command (cmdline "sv_airaccelerate ")
+L 11/23/2020 - 19:59:52: [basecommands.smx] "dylan<49><STEAM_1:1:93464378><>" console command (cmdline "sv_airaccelerate 300 ")
+L 11/23/2020 - 19:59:54: [basecommands.smx] "dylan<49><STEAM_1:1:93464378><>" console command (cmdline "sv_airaccelerate 300")
+L 11/23/2020 - 19:59:55: [basecommands.smx] "dylan<49><STEAM_1:1:93464378><>" console command (cmdline "sv_airaccelerate 12")
+L 11/23/2020 - 19:59:56: [basecommands.smx] "dylan<49><STEAM_1:1:93464378><>" console command (cmdline "sv_airaccelerate ")
+L 11/23/2020 - 20:23:48: [basecommands.smx] "Leo Dooly<51><STEAM_1:0:574775664><>" changed map to "nuke"
+L 11/23/2020 - 20:23:51: [SM] Changed map to "nuke"
+L 11/23/2020 - 20:23:52: -------- Mapchange to de_shortnuke --------
+L 11/23/2020 - 20:24:19: [basecommands.smx] "Leo Dooly<51><STEAM_1:0:574775664><>" changed map to "de_nuke"
+L 11/23/2020 - 20:24:22: [SM] Changed map to "de_nuke"
+L 11/23/2020 - 20:24:23: -------- Mapchange to de_nuke --------
+L 11/23/2020 - 20:25:43: [basecommands.smx] "Leo Dooly<51><STEAM_1:0:574775664><>" console command (cmdline "sv_cheats 1")
+L 11/23/2020 - 20:27:50: [basecommands.smx] "Leo Dooly<51><STEAM_1:0:574775664><>" console command (cmdline "sv_airaccelerate 12")
+L 11/23/2020 - 21:56:26: -------- Mapchange to de_nuke --------
+L 11/23/2020 - 21:59:38: -------- Mapchange to de_bank --------
+L 11/23/2020 - 22:15:44: -------- Mapchange to de_bank --------
+L 11/23/2020 - 22:16:06: -------- Mapchange to de_bank --------
+L 11/23/2020 - 22:21:38: -------- Mapchange to de_safehouse --------
+L 11/23/2020 - 22:25:37: -------- Mapchange to de_mirage --------
+L 11/24/2020 - 13:09:08: Log file closed.

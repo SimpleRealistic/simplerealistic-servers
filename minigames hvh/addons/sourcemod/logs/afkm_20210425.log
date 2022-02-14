@@ -1,0 +1,8 @@
+L 04/25/2021 - 21:40:27: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 04/25/2021 - 21:42:52: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 1
+L 04/25/2021 - 21:58:30: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 04/25/2021 - 22:00:01: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 1
+L 04/25/2021 - 22:00:29: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 04/25/2021 - 22:05:44: [afk_manager4.smx] Nowabol<30><STEAM_1:0:599526931><> was moved to spectate for being AFK too long.
+L 04/25/2021 - 22:07:19: [afk_manager4.smx] silver<32><STEAM_1:1:531807085><> was moved to spectate for being AFK too long.
+L 04/25/2021 - 22:08:22: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3

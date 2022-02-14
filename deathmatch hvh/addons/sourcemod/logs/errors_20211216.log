@@ -1,0 +1,25 @@
+L 12/16/2021 - 06:32:04: SourceMod error session started
+L 12/16/2021 - 06:32:04: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20211216.log")
+L 12/16/2021 - 06:32:04: [SM] Unable to load plugin "rockthevote.smx": Could not find required plugin "mapchooser"
+L 12/16/2021 - 06:32:04: [SM] Error parsing gameconfig file "/home/steam/deathmatch/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/16/2021 - 06:32:04: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/16/2021 - 06:32:04: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/16/2021 - 06:32:04: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/16/2021 - 06:32:04: [SM] Call stack trace:
+L 12/16/2021 - 06:32:04: [SM]   [0] LoadGameConfigFile
+L 12/16/2021 - 06:32:04: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/16/2021 - 06:32:04: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/16/2021 - 06:32:09: Error log file session closed.
+L 12/16/2021 - 12:05:05: SourceMod error session started
+L 12/16/2021 - 12:05:05: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20211216.log")
+L 12/16/2021 - 12:05:05: [SM] Exception reported: Entity 2 (2) is invalid
+L 12/16/2021 - 12:05:05: [SM] Blaming: DisableRadar.smx
+L 12/16/2021 - 12:05:05: [SM] Call stack trace:
+L 12/16/2021 - 12:05:05: [SM]   [0] GetEntProp
+L 12/16/2021 - 12:05:05: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 12/16/2021 - 12:05:05: [SM] Exception reported: Entity 2 (2) is invalid
+L 12/16/2021 - 12:05:05: [SM] Blaming: DisableRadar.smx
+L 12/16/2021 - 12:05:05: [SM] Call stack trace:
+L 12/16/2021 - 12:05:05: [SM]   [0] GetEntProp
+L 12/16/2021 - 12:05:05: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 12/17/2021 - 09:23:24: Error log file session closed.

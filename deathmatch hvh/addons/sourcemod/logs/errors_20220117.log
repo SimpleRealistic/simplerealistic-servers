@@ -1,0 +1,50 @@
+L 01/17/2022 - 02:06:38: SourceMod error session started
+L 01/17/2022 - 02:06:38: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20220117.log")
+L 01/17/2022 - 02:06:38: [SM] Unable to load plugin "rockthevote.smx": Could not find required plugin "mapchooser"
+L 01/17/2022 - 02:06:38: [SM] Error parsing gameconfig file "/home/steam/deathmatch/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 01/17/2022 - 02:06:38: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 01/17/2022 - 02:06:38: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 01/17/2022 - 02:06:38: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 01/17/2022 - 02:06:38: [SM] Call stack trace:
+L 01/17/2022 - 02:06:38: [SM]   [0] LoadGameConfigFile
+L 01/17/2022 - 02:06:38: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 01/17/2022 - 02:06:38: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 01/17/2022 - 15:47:29: Error log file session closed.
+L 01/17/2022 - 17:27:21: SourceMod error session started
+L 01/17/2022 - 17:27:21: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20220117.log")
+L 01/17/2022 - 17:27:21: [SM] Exception reported: Entity 2 (2) is invalid
+L 01/17/2022 - 17:27:21: [SM] Blaming: DisableRadar.smx
+L 01/17/2022 - 17:27:21: [SM] Call stack trace:
+L 01/17/2022 - 17:27:21: [SM]   [0] GetEntProp
+L 01/17/2022 - 17:27:21: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 01/17/2022 - 17:27:21: [SM] Exception reported: Entity 2 (2) is invalid
+L 01/17/2022 - 17:27:21: [SM] Blaming: DisableRadar.smx
+L 01/17/2022 - 17:27:21: [SM] Call stack trace:
+L 01/17/2022 - 17:27:21: [SM]   [0] GetEntProp
+L 01/17/2022 - 17:27:21: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 01/17/2022 - 19:11:24: Error log file session closed.
+L 01/17/2022 - 19:11:55: SourceMod error session started
+L 01/17/2022 - 19:11:55: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20220117.log")
+L 01/17/2022 - 19:11:55: [SM] Exception reported: Entity 2 (2) is invalid
+L 01/17/2022 - 19:11:55: [SM] Blaming: DisableRadar.smx
+L 01/17/2022 - 19:11:55: [SM] Call stack trace:
+L 01/17/2022 - 19:11:55: [SM]   [0] GetEntProp
+L 01/17/2022 - 19:11:55: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 01/17/2022 - 19:11:55: [SM] Exception reported: Entity 2 (2) is invalid
+L 01/17/2022 - 19:11:55: [SM] Blaming: DisableRadar.smx
+L 01/17/2022 - 19:11:55: [SM] Call stack trace:
+L 01/17/2022 - 19:11:55: [SM]   [0] GetEntProp
+L 01/17/2022 - 19:11:55: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 01/17/2022 - 19:13:14: Error log file session closed.
+L 01/17/2022 - 19:13:43: SourceMod error session started
+L 01/17/2022 - 19:13:43: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20220117.log")
+L 01/17/2022 - 19:13:43: [SM] Unable to load plugin "rockthevote.smx": Could not find required plugin "mapchooser"
+L 01/17/2022 - 19:13:43: [SM] Error parsing gameconfig file "/home/steam/deathmatch/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 01/17/2022 - 19:13:43: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 01/17/2022 - 19:13:43: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 01/17/2022 - 19:13:43: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 01/17/2022 - 19:13:43: [SM] Call stack trace:
+L 01/17/2022 - 19:13:43: [SM]   [0] LoadGameConfigFile
+L 01/17/2022 - 19:13:43: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 01/17/2022 - 19:13:43: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 01/17/2022 - 20:41:50: Error log file session closed.

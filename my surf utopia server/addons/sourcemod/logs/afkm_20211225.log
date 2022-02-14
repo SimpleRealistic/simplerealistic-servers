@@ -1,0 +1,10 @@
+L 12/25/2021 - 06:40:55: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/25/2021 - 06:41:55: [afk_manager4.smx] Janek<916><STEAM_1:0:142671040><> was moved to spectate for being AFK too long.
+L 12/25/2021 - 06:44:55: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 12/25/2021 - 07:01:10: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/25/2021 - 07:05:53: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 12/25/2021 - 13:09:28: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/25/2021 - 13:11:56: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 12/25/2021 - 18:17:13: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/25/2021 - 18:17:33: [afk_manager4.smx] Math1aZ<1023><STEAM_1:0:434519788><> was moved to spectate for being AFK too long.
+L 12/25/2021 - 18:21:15: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3

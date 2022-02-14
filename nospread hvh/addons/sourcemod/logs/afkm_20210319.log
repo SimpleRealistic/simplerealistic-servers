@@ -1,0 +1,4 @@
+L 03/19/2021 - 03:05:57: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 03/19/2021 - 03:09:42: [afk_manager4.smx] kill bandit<10><STEAM_1:0:547080288><> was moved to spectate for being AFK too long.
+L 03/19/2021 - 03:25:08: [afk_manager4.smx] Geral<8><STEAM_1:0:102697517><> was moved to spectate for being AFK too long.
+L 03/19/2021 - 03:40:53: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3

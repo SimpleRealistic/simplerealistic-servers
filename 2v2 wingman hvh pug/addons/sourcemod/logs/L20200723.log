@@ -1,0 +1,18 @@
+L 07/23/2020 - 18:20:00: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200723.log") (Version "1.10.0.6490")
+L 07/23/2020 - 18:20:00: [basecommands.smx] "Leo dooly<110><STEAM_1:1:549009141><>" changed map to "overpass"
+L 07/23/2020 - 18:20:03: [SM] Changed map to "overpass"
+L 07/23/2020 - 18:20:03: -------- Mapchange to de_overpass --------
+L 07/23/2020 - 18:21:07: [basecommands.smx] "Leo dooly<110><STEAM_1:1:549009141><>" console command (cmdline "exec hvhprac")
+L 07/23/2020 - 18:31:24: [basecommands.smx] "Leo dooly<110><STEAM_1:1:549009141><>" console command (cmdline "bot_add_ct")
+L 07/23/2020 - 22:28:39: -------- Mapchange to de_overpass --------
+L 07/23/2020 - 22:29:22: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200723.log") (Version "1.10.0.6490")
+L 07/23/2020 - 22:29:22: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/23/2020 - 22:29:34: -------- Mapchange to de_dust2 --------
+L 07/23/2020 - 22:30:43: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200723.log") (Version "1.10.0.6490")
+L 07/23/2020 - 22:30:43: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/23/2020 - 22:31:40: -------- Mapchange to de_dust2 --------
+L 07/23/2020 - 22:35:11: -------- Mapchange to cs_office --------
+L 07/23/2020 - 22:59:44: [basecommands.smx] "Leo dooly<2><STEAM_1:1:549009141><>" console command (cmdline "bot_kick")
+L 07/23/2020 - 23:00:19: [basecommands.smx] "Leo dooly<2><STEAM_1:1:549009141><>" console command (cmdline "bot_kick")
+L 07/23/2020 - 23:40:43: -------- Mapchange to cs_office --------
+L 07/24/2020 - 11:55:46: Log file closed.

@@ -1,0 +1,33 @@
+L 03/14/2021 - 11:06:57: SourceMod log file session started (file "/home/steam/5v5/csgo/addons/sourcemod/logs/L20210314.log") (Version "1.10.0.6502")
+L 03/14/2021 - 11:06:57: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 03/14/2021 - 11:06:57: [firebulletsfix.smx] Found offset for Weapon_ShootPosition 290
+L 03/14/2021 - 11:06:57: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 03/14/2021 - 11:06:57: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 03/14/2021 - 12:56:37: -------- Mapchange to de_mirage --------
+L 03/14/2021 - 12:56:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_advertisements_interval") (value "120")
+L 03/14/2021 - 13:18:50: Log file closed.
+L 03/14/2021 - 13:19:05: SourceMod log file session started (file "/home/steam/5v5/csgo/addons/sourcemod/logs/L20210314.log") (Version "1.10.0.6502")
+L 03/14/2021 - 13:19:05: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 03/14/2021 - 13:19:05: [firebulletsfix.smx] Found offset for Weapon_ShootPosition 290
+L 03/14/2021 - 13:19:05: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 03/14/2021 - 13:19:05: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 03/14/2021 - 13:19:08: -------- Mapchange to de_mirage --------
+L 03/14/2021 - 13:19:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_advertisements_interval") (value "120")
+L 03/14/2021 - 13:20:26: SourceMod log file session started (file "/home/steam/5v5/csgo/addons/sourcemod/logs/L20210314.log") (Version "1.10.0.6502")
+L 03/14/2021 - 13:20:26: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 03/14/2021 - 13:20:26: [firebulletsfix.smx] Found offset for Weapon_ShootPosition 290
+L 03/14/2021 - 13:20:26: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 03/14/2021 - 13:20:26: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 03/14/2021 - 13:20:28: -------- Mapchange to de_mirage --------
+L 03/14/2021 - 13:20:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_advertisements_interval") (value "120")
+L 03/14/2021 - 13:24:01: [basecommands.smx] "Leo Dooly<16><STEAM_1:0:109554979><>" kicked "Semen Demon<8><STEAM_1:0:583386894><>" (reason "")
+L 03/14/2021 - 13:26:00: -------- Mapchange to de_inferno --------
+L 03/14/2021 - 13:26:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_advertisements_interval") (value "120")
+L 03/14/2021 - 13:27:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_advertisements_interval") (value "120")
+L 03/14/2021 - 13:27:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_advertisements_interval") (value "120")
+L 03/14/2021 - 14:04:28: [advadmin.smx] Leo Dooly: Semen Demon moved to team: Spectators
+L 03/14/2021 - 16:01:43: -------- Mapchange to de_inferno --------
+L 03/14/2021 - 16:01:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_advertisements_interval") (value "120")
+L 03/14/2021 - 16:02:26: -------- Mapchange to de_inferno --------
+L 03/14/2021 - 16:02:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_advertisements_interval") (value "120")
+L 03/15/2021 - 16:31:46: Log file closed.

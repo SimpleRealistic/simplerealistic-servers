@@ -1,0 +1,2 @@
+L 03/16/2021 - 20:46:52: SourceMod log file session started (file "/home/steam/5v5/csgo/addons/sourcemod/logs/L20210316.log") (Version "1.10.0.6502")
+L 03/16/2021 - 20:46:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_advertisements_interval") (value "120")

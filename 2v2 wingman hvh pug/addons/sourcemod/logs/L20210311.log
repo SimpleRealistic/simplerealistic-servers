@@ -1,0 +1,16 @@
+L 03/11/2021 - 00:09:07: SourceMod log file session started (file "/home/steam/2v2/csgo/addons/sourcemod/logs/L20210311.log") (Version "1.10.0.6502")
+L 03/11/2021 - 00:09:07: Log file closed.
+L 03/11/2021 - 00:10:27: SourceMod log file session started (file "/home/steam/2v2/csgo/addons/sourcemod/logs/L20210311.log") (Version "1.10.0.6502")
+L 03/11/2021 - 00:10:27: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 03/11/2021 - 18:44:40: -------- Mapchange to de_inferno --------
+L 03/11/2021 - 19:53:49: -------- Mapchange to de_inferno --------
+L 03/11/2021 - 20:32:44: -------- Mapchange to de_inferno --------
+L 03/11/2021 - 20:37:36: SourceMod log file session started (file "/home/steam/2v2/csgo/addons/sourcemod/logs/L20210311.log") (Version "1.10.0.6502")
+L 03/11/2021 - 20:37:36: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 03/11/2021 - 20:55:36: -------- Mapchange to de_inferno --------
+L 03/11/2021 - 21:37:22: -------- Mapchange to de_inferno --------
+L 03/11/2021 - 22:59:33: -------- Mapchange to de_inferno --------
+L 03/11/2021 - 23:02:16: [basecommands.smx] "Leo Dooly<15><STEAM_1:0:109554979><>" changed map to "mirage"
+L 03/11/2021 - 23:02:19: [SM] Changed map to "mirage"
+L 03/11/2021 - 23:02:20: -------- Mapchange to de_mirage --------
+L 03/11/2021 - 23:07:32: [basecommands.smx] "Leo Dooly<15><STEAM_1:0:109554979><>" console command (cmdline "sm_unpause")

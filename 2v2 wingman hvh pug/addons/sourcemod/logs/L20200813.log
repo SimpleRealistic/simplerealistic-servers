@@ -1,0 +1,48 @@
+L 08/13/2020 - 02:38:28: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200813.log") (Version "1.10.0.6490")
+L 08/13/2020 - 02:38:28: -------- Mapchange to cs_office --------
+L 08/13/2020 - 06:49:19: -------- Mapchange to cs_office --------
+L 08/13/2020 - 07:18:25: -------- Mapchange to de_mirage --------
+L 08/13/2020 - 08:03:44: -------- Mapchange to de_mirage --------
+L 08/13/2020 - 08:07:36: -------- Mapchange to de_mirage --------
+L 08/13/2020 - 10:28:23: -------- Mapchange to de_mirage --------
+L 08/13/2020 - 12:08:51: -------- Mapchange to de_inferno --------
+L 08/13/2020 - 18:56:09: -------- Mapchange to de_inferno --------
+L 08/13/2020 - 19:02:04: [basechat.smx] "kr0md<259><STEAM_1:0:125290236><>" triggered sm_say (text Water can you join the T1 vc?)
+L 08/13/2020 - 19:03:33: [basechat.smx] "kr0md<259><STEAM_1:0:125290236><>" triggered sm_say (text its not the official match)
+L 08/13/2020 - 19:03:40: [basechat.smx] "kr0md<259><STEAM_1:0:125290236><>" triggered sm_say (text its warmup until everyone joins)
+L 08/13/2020 - 19:12:59: -------- Mapchange to de_inferno --------
+L 08/13/2020 - 19:17:32: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/13/2020 - 19:18:15: [basechat.smx] "kr0md<259><STEAM_1:0:125290236><>" triggered sm_say (text REMINDER : This map is ct sided)
+L 08/13/2020 - 19:20:17: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/13/2020 - 19:20:35: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/13/2020 - 19:22:15: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/13/2020 - 19:22:24: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/13/2020 - 19:22:41: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/13/2020 - 19:30:43: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/13/2020 - 19:31:16: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/13/2020 - 19:31:48: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/13/2020 - 19:38:38: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 08/13/2020 - 19:46:55: [basechat.smx] "kr0md<259><STEAM_1:0:125290236><>" triggered sm_say (text That isn't that aprils That's the nn one)
+L 08/13/2020 - 19:47:09: [basechat.smx] "kr0md<259><STEAM_1:0:125290236><>" triggered sm_say (text The one in this server has a small cock)
+L 08/13/2020 - 19:47:22: [basechat.smx] "dylan<280><STEAM_1:0:152419574><>" triggered sm_say (text why do u have access to admin perms)
+L 08/13/2020 - 19:59:48: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 08/13/2020 - 20:18:35: -------- Mapchange to de_inferno --------
+L 08/13/2020 - 20:34:51: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_restartgame 1")
+L 08/13/2020 - 20:35:18: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/13/2020 - 20:47:25: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/13/2020 - 20:47:51: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/13/2020 - 20:50:15: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/13/2020 - 20:54:17: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/13/2020 - 21:06:06: -------- Mapchange to de_mirage --------
+L 08/13/2020 - 21:12:49: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/13/2020 - 21:15:29: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/13/2020 - 21:26:51: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 08/13/2020 - 21:30:23: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 08/13/2020 - 21:31:48: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 08/13/2020 - 21:33:18: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 08/13/2020 - 21:34:38: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 08/13/2020 - 21:34:44: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 08/13/2020 - 22:04:07: [basecommands.smx] "dylan<280><STEAM_1:0:152419574><>" console command (cmdline "sv_maxunlag 1")
+L 08/13/2020 - 22:14:03: [basecommands.smx] "dylan<310><STEAM_1:0:152419574><>" console command (cmdline "sv_cheats 1")
+L 08/13/2020 - 23:40:36: -------- Mapchange to de_mirage --------
+L 08/14/2020 - 00:01:01: Log file closed.

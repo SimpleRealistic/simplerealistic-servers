@@ -1,0 +1,24 @@
+L 10/10/2020 - 00:02:14: SourceMod error session started
+L 10/10/2020 - 00:02:14: Info (map "de_mirage") (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/errors_20201010.log")
+L 10/10/2020 - 00:02:14: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/10/2020 - 00:02:14: [SM] Blaming: weapon_restrict.smx
+L 10/10/2020 - 00:02:14: [SM] Call stack trace:
+L 10/10/2020 - 00:02:14: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/10/2020 - 00:02:17: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/10/2020 - 00:02:17: [SM] Blaming: weapon_restrict.smx
+L 10/10/2020 - 00:02:17: [SM] Call stack trace:
+L 10/10/2020 - 00:02:17: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/10/2020 - 00:04:12: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/10/2020 - 00:04:12: [SM] Blaming: weapon_restrict.smx
+L 10/10/2020 - 00:04:12: [SM] Call stack trace:
+L 10/10/2020 - 00:04:12: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/10/2020 - 00:09:26: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/10/2020 - 00:09:26: [SM] Blaming: weapon_restrict.smx
+L 10/10/2020 - 00:09:26: [SM] Call stack trace:
+L 10/10/2020 - 00:09:26: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/10/2020 - 01:24:35: Error log file session closed.
+L 10/10/2020 - 01:24:35: SourceMod error session started
+L 10/10/2020 - 01:24:35: Info (map "de_mirage") (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/errors_20201010.log")
+L 10/10/2020 - 01:24:35: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 10/10/2020 - 01:24:35: [SM] Error (line 0, column 0): Stream failed to open
+L 10/11/2020 - 14:48:20: Error log file session closed.

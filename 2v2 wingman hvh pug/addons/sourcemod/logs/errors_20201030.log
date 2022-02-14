@@ -1,0 +1,27 @@
+L 10/30/2020 - 04:11:28: SourceMod error session started
+L 10/30/2020 - 04:11:28: Info (map "de_dust2") (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/errors_20201030.log")
+L 10/30/2020 - 04:11:28: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 10/30/2020 - 04:11:28: [SM] Error (line 0, column 0): Stream failed to open
+L 10/30/2020 - 10:35:43: Error log file session closed.
+L 10/30/2020 - 10:35:43: SourceMod error session started
+L 10/30/2020 - 10:35:43: Info (map "de_dust2") (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/errors_20201030.log")
+L 10/30/2020 - 10:35:43: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 10/30/2020 - 10:35:43: [SM] Error (line 0, column 0): Stream failed to open
+L 10/30/2020 - 10:35:48: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 10/30/2020 - 10:35:48: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 10/30/2020 - 10:35:48: [UPDATER] Error: Couldn't resolve host 'update.sourcemod.net'
+L 10/30/2020 - 10:35:48: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 10/30/2020 - 10:36:22: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/30/2020 - 10:36:22: [SM] Blaming: weapon_restrict.smx
+L 10/30/2020 - 10:36:22: [SM] Call stack trace:
+L 10/30/2020 - 10:36:22: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/30/2020 - 10:36:30: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/30/2020 - 10:36:30: [SM] Blaming: weapon_restrict.smx
+L 10/30/2020 - 10:36:30: [SM] Call stack trace:
+L 10/30/2020 - 10:36:30: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/30/2020 - 14:01:14: Error log file session closed.
+L 10/30/2020 - 14:01:14: SourceMod error session started
+L 10/30/2020 - 14:01:14: Info (map "de_dust2") (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/errors_20201030.log")
+L 10/30/2020 - 14:01:14: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 10/30/2020 - 14:01:14: [SM] Error (line 0, column 0): Stream failed to open
+L 10/31/2020 - 02:27:48: Error log file session closed.

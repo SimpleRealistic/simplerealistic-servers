@@ -1,0 +1,16 @@
+L 02/06/2022 - 22:29:30: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20220206.log") (Version "1.10.0.6528")
+L 02/06/2022 - 22:29:30: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 02/06/2022 - 22:29:30: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 02/06/2022 - 22:29:30: [afk_manager4.smx] [AFK Manager] Log File: addons/sourcemod/logs/afkm_20220206.log
+L 02/06/2022 - 22:29:30: [afk_manager4.smx] [AFK Manager] Detected Mod Counter-Strike: Global Offensive
+L 02/06/2022 - 22:29:31: [weapons.smx] MySQL DB connection successful
+L 02/06/2022 - 22:29:32: [weapons.smx] Inactive players' data has been deleted
+L 02/06/2022 - 22:29:33: [goldenknife.smx] Hooked Cvars
+L 02/06/2022 - 22:33:47: [funcommands.smx] "dylan<6><STEAM_1:0:152419574><>" toggled noclip on "dylan<6><STEAM_1:0:152419574><>"
+L 02/06/2022 - 22:34:01: [funcommands.smx] "dylan<6><STEAM_1:0:152419574><>" toggled noclip on "dylan<6><STEAM_1:0:152419574><>"
+L 02/06/2022 - 22:34:03: [funcommands.smx] "dylan<6><STEAM_1:0:152419574><>" toggled noclip on "dylan<6><STEAM_1:0:152419574><>"
+L 02/06/2022 - 22:34:05: [funcommands.smx] "dylan<6><STEAM_1:0:152419574><>" toggled noclip on "dylan<6><STEAM_1:0:152419574><>"
+L 02/06/2022 - 22:34:08: [funcommands.smx] "dylan<6><STEAM_1:0:152419574><>" toggled noclip on "dylan<6><STEAM_1:0:152419574><>"
+L 02/06/2022 - 22:34:14: [funcommands.smx] "dylan<6><STEAM_1:0:152419574><>" toggled noclip on "dylan<6><STEAM_1:0:152419574><>"
+L 02/06/2022 - 22:35:18: [funcommands.smx] "dylan<6><STEAM_1:0:152419574><>" toggled noclip on "dylan<6><STEAM_1:0:152419574><>"
+L 02/07/2022 - 00:56:44: Log file closed.

@@ -1,0 +1,24 @@
+L 01/04/2022 - 17:10:40: SourceMod error session started
+L 01/04/2022 - 17:10:40: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20220104.log")
+L 01/04/2022 - 17:10:40: [SM] Unable to load plugin "rockthevote.smx": Could not find required plugin "mapchooser"
+L 01/04/2022 - 17:10:40: [SM] Error parsing gameconfig file "/home/steam/deathmatch/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 01/04/2022 - 17:10:40: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 01/04/2022 - 17:10:40: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 01/04/2022 - 17:10:40: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 01/04/2022 - 17:10:40: [SM] Call stack trace:
+L 01/04/2022 - 17:10:40: [SM]   [0] LoadGameConfigFile
+L 01/04/2022 - 17:10:40: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 01/04/2022 - 17:10:40: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 01/04/2022 - 17:41:32: Error log file session closed.
+L 01/04/2022 - 19:48:24: SourceMod error session started
+L 01/04/2022 - 19:48:24: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20220104.log")
+L 01/04/2022 - 19:48:24: [SM] Unable to load plugin "rockthevote.smx": Could not find required plugin "mapchooser"
+L 01/04/2022 - 19:48:24: [SM] Error parsing gameconfig file "/home/steam/deathmatch/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 01/04/2022 - 19:48:24: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 01/04/2022 - 19:48:24: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 01/04/2022 - 19:48:24: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 01/04/2022 - 19:48:24: [SM] Call stack trace:
+L 01/04/2022 - 19:48:24: [SM]   [0] LoadGameConfigFile
+L 01/04/2022 - 19:48:24: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 01/04/2022 - 19:48:24: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 01/04/2022 - 19:53:08: Error log file session closed.

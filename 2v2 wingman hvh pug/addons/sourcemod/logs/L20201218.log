@@ -1,0 +1,29 @@
+L 12/18/2020 - 11:41:00: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201218.log") (Version "1.10.0.6490")
+L 12/18/2020 - 11:41:00: -------- Mapchange to de_cache --------
+L 12/18/2020 - 12:07:50: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201218.log") (Version "1.10.0.6490")
+L 12/18/2020 - 12:07:50: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/18/2020 - 12:12:50: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201218.log") (Version "1.10.0.6502")
+L 12/18/2020 - 12:12:50: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/18/2020 - 12:13:30: -------- Mapchange to de_dust2 --------
+L 12/18/2020 - 12:18:53: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201218.log") (Version "1.10.0.6502")
+L 12/18/2020 - 12:18:53: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/18/2020 - 12:19:26: -------- Mapchange to de_dust2 --------
+L 12/18/2020 - 13:38:41: -------- Mapchange to de_dust2 --------
+L 12/18/2020 - 13:43:27: -------- Mapchange to de_dust2 --------
+L 12/18/2020 - 13:48:04: -------- Mapchange to de_safehouse --------
+L 12/18/2020 - 13:58:47: -------- Mapchange to de_nuke --------
+L 12/18/2020 - 14:31:33: -------- Mapchange to cs_assault --------
+L 12/18/2020 - 14:51:38: -------- Mapchange to de_overpass --------
+L 12/18/2020 - 15:08:38: -------- Mapchange to de_overpass --------
+L 12/18/2020 - 15:10:45: -------- Mapchange to de_bank --------
+L 12/18/2020 - 17:32:28: -------- Mapchange to de_bank --------
+L 12/18/2020 - 18:05:09: -------- Mapchange to de_bank --------
+L 12/18/2020 - 18:18:56: -------- Mapchange to de_overpass --------
+L 12/18/2020 - 20:17:05: -------- Mapchange to de_overpass --------
+L 12/18/2020 - 20:56:39: [basecommands.smx] "cho cha chi cha<22><STEAM_1:1:527029555><>" refreshed the admin cache.
+L 12/18/2020 - 21:35:40: -------- Mapchange to de_mirage --------
+L 12/18/2020 - 21:44:15: [basecommands.smx] "Bored<23><STEAM_1:1:113204936><>" kicked "" I THOUGHT WE WERE FOREVER "<35><STEAM_1:0:558011002><>" (reason "")
+L 12/18/2020 - 21:53:47: [basecommands.smx] "dylan<38><STEAM_1:0:152419574><>" console command (cmdline "sv_full_alltalk 1")
+L 12/18/2020 - 21:56:12: [basecommands.smx] "Bored<23><STEAM_1:1:113204936><>" kicked "Hiroshima<39><STEAM_1:1:552872630><>" (reason "")
+L 12/18/2020 - 22:33:22: [basecommands.smx] "dylan<38><STEAM_1:0:152419574><>" console command (cmdline "sv_full_alltalk 0")
+L 12/19/2020 - 04:37:02: Log file closed.

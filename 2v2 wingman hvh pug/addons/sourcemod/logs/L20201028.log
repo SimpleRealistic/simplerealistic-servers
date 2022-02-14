@@ -1,0 +1,60 @@
+L 10/28/2020 - 18:25:14: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201028.log") (Version "1.10.0.6490")
+L 10/28/2020 - 18:25:14: -------- Mapchange to cs_office --------
+L 10/28/2020 - 18:48:37: [basecommands.smx] "youtube.com/dylanhook<51><STEAM_1:1:511092287><>" console command (cmdline "mp_startgame 1")
+L 10/28/2020 - 18:48:43: [basecommands.smx] "youtube.com/dylanhook<51><STEAM_1:1:511092287><>" console command (cmdline "mp_restartgame 1")
+L 10/28/2020 - 18:48:54: [basecommands.smx] "youtube.com/dylanhook<51><STEAM_1:1:511092287><>" console command (cmdline "mp_restartgame 1")
+L 10/28/2020 - 19:15:58: [basecommands.smx] "youtube.com/dylanhook<59><STEAM_1:1:511092287><>" kicked "Nobo#2630<62><STEAM_1:1:483644495><>" (reason "")
+L 10/28/2020 - 19:16:33: [basecommands.smx] "youtube.com/dylanhook<59><STEAM_1:1:511092287><>" kicked "dogshit player<58><STEAM_1:1:192946400><>" (reason "")
+L 10/28/2020 - 19:17:26: [basecommands.smx] "youtube.com/dylanhook<59><STEAM_1:1:511092287><>" kicked "lunar555232<33><STEAM_1:0:233865499><>" (reason "rejoin")
+L 10/28/2020 - 19:17:26: [basecommands.smx] "youtube.com/dylanhook<59><STEAM_1:1:511092287><>" kicked "Big cutie<34><STEAM_1:0:184632967><>" (reason "rejoin")
+L 10/28/2020 - 19:17:26: [basecommands.smx] "youtube.com/dylanhook<59><STEAM_1:1:511092287><>" kicked "Nobo#2630<70><STEAM_1:1:483644495><>" (reason "rejoin")
+L 10/28/2020 - 19:17:26: [basecommands.smx] "youtube.com/dylanhook<59><STEAM_1:1:511092287><>" kicked "Mr. Shibiscis<67><STEAM_1:0:513006499><>" (reason "rejoin")
+L 10/28/2020 - 19:17:26: [basecommands.smx] "youtube.com/dylanhook<59><STEAM_1:1:511092287><>" kicked "penishead<54><STEAM_1:1:548854062><>" (reason "rejoin")
+L 10/28/2020 - 19:17:26: [basecommands.smx] "youtube.com/dylanhook<59><STEAM_1:1:511092287><>" kicked "(◣_◢)<68><STEAM_1:0:196402900><>" (reason "rejoin")
+L 10/28/2020 - 19:17:26: [basecommands.smx] "youtube.com/dylanhook<59><STEAM_1:1:511092287><>" kicked "Sc0pez<43><STEAM_1:0:516657055><>" (reason "rejoin")
+L 10/28/2020 - 19:17:26: [basecommands.smx] "youtube.com/dylanhook<59><STEAM_1:1:511092287><>" kicked "cytex<66><STEAM_1:0:222979716><>" (reason "rejoin")
+L 10/28/2020 - 19:17:26: [basecommands.smx] "youtube.com/dylanhook<59><STEAM_1:1:511092287><>" kicked "fartshit<71><STEAM_1:1:192946400><>" (reason "rejoin")
+L 10/28/2020 - 19:17:26: [basecommands.smx] "youtube.com/dylanhook<59><STEAM_1:1:511092287><>" kicked "youtube.com/dylanhook<59><STEAM_1:1:511092287><>" (reason "rejoin")
+L 10/28/2020 - 19:23:36: [basechat.smx] "youtube.com/dylanhook<72><STEAM_1:1:511092287><>" triggered sm_say (text change your name to your discord names)
+L 10/28/2020 - 19:23:37: [basechat.smx] "youtube.com/dylanhook<72><STEAM_1:1:511092287><>" triggered sm_say (text change your name to your discord names)
+L 10/28/2020 - 19:23:37: [basechat.smx] "youtube.com/dylanhook<72><STEAM_1:1:511092287><>" triggered sm_say (text change your name to your discord names)
+L 10/28/2020 - 19:23:37: [basechat.smx] "youtube.com/dylanhook<72><STEAM_1:1:511092287><>" triggered sm_say (text change your name to your discord names)
+L 10/28/2020 - 19:23:44: [basechat.smx] "youtube.com/dylanhook<72><STEAM_1:1:511092287><>" triggered sm_say (text i need it for logging winners)
+L 10/28/2020 - 19:24:17: [basecommands.smx] "youtube.com/dylanhook<72><STEAM_1:1:511092287><>" kicked "Mr. Shibiscis<83><STEAM_1:0:513006499><>" (reason "")
+L 10/28/2020 - 19:26:07: [playercommands.smx] "youtube.com/dylanhook<72><STEAM_1:1:511092287><>" renamed "Mr. Shibiscis<84><STEAM_1:0:513006499><>" (to "tomi")
+L 10/28/2020 - 19:28:46: -------- Mapchange to de_overpass --------
+L 10/28/2020 - 19:52:36: [basecommands.smx] "youtube.com/dylanhook<89><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_t_body .5 ")
+L 10/28/2020 - 19:53:58: [basecommands.smx] "youtube.com/dylanhook<89><STEAM_1:1:511092287><>" kicked "(◣_◢)<90><STEAM_1:0:196402900><>" (reason "")
+L 10/28/2020 - 19:59:39: [basecommands.smx] "youtube.com/dylanhook<89><STEAM_1:1:511092287><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 10/28/2020 - 20:14:09: [basecommands.smx] "youtube.com/dylanhook<89><STEAM_1:1:511092287><>" console command (cmdline "mp_teammates_are_enemies 1")
+L 10/28/2020 - 20:15:18: [basecommands.smx] "youtube.com/dylanhook<89><STEAM_1:1:511092287><>" console command (cmdline "mp_teammates_are_enemies 0")
+L 10/28/2020 - 20:16:19: [basecommands.smx] "youtube.com/dylanhook<89><STEAM_1:1:511092287><>" console command (cmdline "mp_teammates_are_enemies 1")
+L 10/28/2020 - 20:16:35: [basecommands.smx] "youtube.com/dylanhook<89><STEAM_1:1:511092287><>" console command (cmdline "mp_autocrosshair 0")
+L 10/28/2020 - 22:10:10: -------- Mapchange to de_overpass --------
+L 10/28/2020 - 22:10:44: [basechat.smx] "youtube.com/dylanhook<96><STEAM_1:1:511092287><>" triggered sm_say (text god @all)
+L 10/28/2020 - 22:10:55: [basechat.smx] "youtube.com/dylanhook<96><STEAM_1:1:511092287><>" triggered sm_say (text t test)
+L 10/28/2020 - 22:11:37: [basecommands.smx] "youtube.com/dylanhook<96><STEAM_1:1:511092287><>" console command (cmdline "sv_infinite_ammo 1")
+L 10/28/2020 - 22:12:37: [basecommands.smx] "youtube.com/dylanhook<96><STEAM_1:1:511092287><>" console command (cmdline "weapon_accuracy_nospread 1")
+L 10/28/2020 - 22:13:03: [basecommands.smx] "youtube.com/dylanhook<96><STEAM_1:1:511092287><>" console command (cmdline "weapon_accuracy_nospread 0")
+L 10/28/2020 - 22:23:48: [basecommands.smx] "youtube.com/dylanhook<96><STEAM_1:1:511092287><>" console command (cmdline "mp_roundtime 60")
+L 10/28/2020 - 22:23:50: [basecommands.smx] "youtube.com/dylanhook<96><STEAM_1:1:511092287><>" console command (cmdline "mp_roundtime_defuse 60")
+L 10/28/2020 - 22:35:52: [basecommands.smx] "youtube.com/dylanhook<96><STEAM_1:1:511092287><>" console command (cmdline "weapon_accuracy_nospread 1")
+L 10/28/2020 - 22:36:20: [basecommands.smx] "youtube.com/dylanhook<96><STEAM_1:1:511092287><>" console command (cmdline "weapon_accuracy_nospread ")
+L 10/28/2020 - 22:38:17: [basecommands.smx] "youtube.com/dylanhook<96><STEAM_1:1:511092287><>" console command (cmdline "sv_showlagcompensation 1")
+L 10/28/2020 - 22:38:21: [basecommands.smx] "youtube.com/dylanhook<96><STEAM_1:1:511092287><>" console command (cmdline "sv_cheats 1")
+L 10/28/2020 - 22:38:22: [basecommands.smx] "youtube.com/dylanhook<96><STEAM_1:1:511092287><>" console command (cmdline "sv_showlagcompensation 1")
+L 10/28/2020 - 22:38:37: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201028.log") (Version "1.10.0.6490")
+L 10/28/2020 - 22:38:37: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 10/28/2020 - 22:39:17: -------- Mapchange to de_dust2 --------
+L 10/28/2020 - 22:41:54: [basecommands.smx] "youtube.com/dylanhook<3><STEAM_1:1:511092287><>" console command (cmdline "sv_infinite_ammo 1")
+L 10/28/2020 - 22:59:00: [basecommands.smx] "youtube.com/dylanhook<3><STEAM_1:1:511092287><>" console command (cmdline "status")
+L 10/28/2020 - 23:00:12: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201028.log") (Version "1.10.0.6490")
+L 10/28/2020 - 23:00:12: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 10/28/2020 - 23:00:19: -------- Mapchange to de_dust2 --------
+L 10/28/2020 - 23:02:31: -------- Mapchange to de_dust2 --------
+L 10/28/2020 - 23:08:10: [basecommands.smx] "youtube.com/dylanhook<4><STEAM_1:1:511092287><>" console command (cmdline "weapon_accuracy_nospread 1")
+L 10/28/2020 - 23:08:15: [basecommands.smx] "youtube.com/dylanhook<4><STEAM_1:1:511092287><>" console command (cmdline "sv_infinite_ammo 1")
+L 10/28/2020 - 23:10:28: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201028.log") (Version "1.10.0.6490")
+L 10/28/2020 - 23:10:28: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 10/28/2020 - 23:10:56: -------- Mapchange to de_dust2 --------
+L 10/29/2020 - 11:45:32: Log file closed.

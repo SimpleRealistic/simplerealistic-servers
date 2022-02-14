@@ -1,0 +1,33 @@
+L 08/17/2020 - 13:21:14: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200817.log") (Version "1.10.0.6490")
+L 08/17/2020 - 13:21:14: -------- Mapchange to de_overpass --------
+L 08/17/2020 - 13:31:49: -------- Mapchange to de_mirage --------
+L 08/17/2020 - 15:40:50: -------- Mapchange to de_mirage --------
+L 08/17/2020 - 16:36:01: -------- Mapchange to de_canals --------
+L 08/17/2020 - 19:32:24: -------- Mapchange to de_canals --------
+L 08/17/2020 - 21:44:00: -------- Mapchange to de_canals --------
+L 08/17/2020 - 21:44:33: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200817.log") (Version "1.10.0.6490")
+L 08/17/2020 - 21:44:33: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/17/2020 - 21:45:23: -------- Mapchange to de_dust2 --------
+L 08/17/2020 - 21:46:03: -------- Mapchange to de_dust2 --------
+L 08/17/2020 - 21:48:45: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200817.log") (Version "1.10.0.6490")
+L 08/17/2020 - 21:48:45: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/17/2020 - 21:50:13: -------- Mapchange to de_dust2 --------
+L 08/17/2020 - 21:52:16: [basecommands.smx] "dylan<4><STEAM_1:0:152419574><>" changed map to "overpass"
+L 08/17/2020 - 21:52:19: [SM] Changed map to "overpass"
+L 08/17/2020 - 21:52:20: -------- Mapchange to de_overpass --------
+L 08/17/2020 - 21:53:06: [basecommands.smx] "dylan<4><STEAM_1:0:152419574><>" console command (cmdline "sv_infinite_ammo 1")
+L 08/17/2020 - 21:53:37: [basecommands.smx] "dylan<4><STEAM_1:0:152419574><>" console command (cmdline "sv_grenade_trajectory 1")
+L 08/17/2020 - 21:53:41: [basecommands.smx] "dylan<4><STEAM_1:0:152419574><>" console command (cmdline "sv_cheats 1")
+L 08/17/2020 - 21:53:42: [basecommands.smx] "dylan<4><STEAM_1:0:152419574><>" console command (cmdline "sv_grenade_trajectory 1")
+L 08/17/2020 - 21:54:53: [basecommands.smx] "dylan<4><STEAM_1:0:152419574><>" console command (cmdline "sv_airaccelerate 100")
+L 08/17/2020 - 21:55:14: [basecommands.smx] "dylan<4><STEAM_1:0:152419574><>" console command (cmdline "sv_cheats 1")
+L 08/17/2020 - 21:56:41: [basecommands.smx] "dylan<4><STEAM_1:0:152419574><>" console command (cmdline "sv_accelerate_use_weapon_speed 0")
+L 08/17/2020 - 21:57:15: [basecommands.smx] "dylan<4><STEAM_1:0:152419574><>" console command (cmdline "sv_staminamax 0")
+L 08/17/2020 - 21:57:19: [basecommands.smx] "dylan<4><STEAM_1:0:152419574><>" console command (cmdline "sv_staminamax 0")
+L 08/17/2020 - 21:57:27: [basecommands.smx] "dylan<4><STEAM_1:0:152419574><>" console command (cmdline "sv_staminamax 0")
+L 08/17/2020 - 21:57:37: [basecommands.smx] "dylan<4><STEAM_1:0:152419574><>" console command (cmdline "sv_staminajumpcost")
+L 08/17/2020 - 21:57:38: [basecommands.smx] "dylan<4><STEAM_1:0:152419574><>" console command (cmdline "sv_staminajumpcost 0")
+L 08/17/2020 - 21:57:43: [basecommands.smx] "dylan<4><STEAM_1:0:152419574><>" console command (cmdline "sv_staminalandcost 0")
+L 08/17/2020 - 21:57:50: [basecommands.smx] "dylan<4><STEAM_1:0:152419574><>" console command (cmdline "sv_staminarecoveryrate 0")
+L 08/17/2020 - 21:58:34: [basecommands.smx] "dylan<4><STEAM_1:0:152419574><>" console command (cmdline "sv_airaccelerate 2000")
+L 08/18/2020 - 00:47:24: Log file closed.

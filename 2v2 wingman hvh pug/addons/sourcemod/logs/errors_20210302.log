@@ -1,0 +1,107 @@
+L 03/02/2021 - 00:16:18: SourceMod error session started
+L 03/02/2021 - 00:16:18: Info (map "de_inferno") (file "/home/tcagame/jackm1/599/csgo/addons/sourcemod/logs/errors_20210302.log")
+L 03/02/2021 - 00:16:18: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 03/02/2021 - 00:16:18: [SM] Error (line 0, column 0): Stream failed to open
+L 03/02/2021 - 00:35:42: Error log file session closed.
+L 03/02/2021 - 00:35:42: SourceMod error session started
+L 03/02/2021 - 00:35:42: Info (map "de_inferno") (file "/home/tcagame/jackm1/599/csgo/addons/sourcemod/logs/errors_20210302.log")
+L 03/02/2021 - 00:35:42: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 03/02/2021 - 00:35:42: [SM] Error (line 0, column 0): Stream failed to open
+L 03/02/2021 - 00:41:24: Error log file session closed.
+L 03/02/2021 - 00:41:24: SourceMod error session started
+L 03/02/2021 - 00:41:24: Info (map "de_inferno") (file "/home/tcagame/jackm1/599/csgo/addons/sourcemod/logs/errors_20210302.log")
+L 03/02/2021 - 00:41:24: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 03/02/2021 - 00:41:24: [SM] Error (line 0, column 0): Stream failed to open
+L 03/02/2021 - 00:42:38: [SM] Exception reported: Language phrase "Player_Connected_From" not found (arg 3)
+L 03/02/2021 - 00:42:38: [SM] Blaming: advadmin.smx
+L 03/02/2021 - 00:42:38: [SM] Call stack trace:
+L 03/02/2021 - 00:42:38: [SM]   [0] VFormat
+L 03/02/2021 - 00:42:38: [SM]   [1] Line 386, /groups/sourcemod/compiler-1.10/include/halflife.inc::PrintToChatAll
+L 03/02/2021 - 00:42:38: [SM]   [2] Line 141, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::OnClientAuthorized
+L 03/02/2021 - 00:46:09: Error log file session closed.
+L 03/02/2021 - 00:46:09: SourceMod error session started
+L 03/02/2021 - 00:46:09: Info (map "de_inferno") (file "/home/tcagame/jackm1/599/csgo/addons/sourcemod/logs/errors_20210302.log")
+L 03/02/2021 - 00:46:09: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 03/02/2021 - 00:46:09: [SM] Error (line 0, column 0): Stream failed to open
+L 03/02/2021 - 00:48:04: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 03/02/2021 - 00:48:04: [SM] Blaming: weapon_restrict.smx
+L 03/02/2021 - 00:48:04: [SM] Call stack trace:
+L 03/02/2021 - 00:48:04: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 03/02/2021 - 00:48:12: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 03/02/2021 - 00:48:12: [SM] Blaming: weapon_restrict.smx
+L 03/02/2021 - 00:48:12: [SM] Call stack trace:
+L 03/02/2021 - 00:48:12: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 03/02/2021 - 00:49:28: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 03/02/2021 - 00:49:28: [SM] Blaming: weapon_restrict.smx
+L 03/02/2021 - 00:49:28: [SM] Call stack trace:
+L 03/02/2021 - 00:49:28: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 03/02/2021 - 00:55:20: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 03/02/2021 - 00:55:20: [SM] Blaming: weapon_restrict.smx
+L 03/02/2021 - 00:55:20: [SM] Call stack trace:
+L 03/02/2021 - 00:55:20: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 03/02/2021 - 00:57:25: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 03/02/2021 - 00:57:25: [SM] Blaming: weapon_restrict.smx
+L 03/02/2021 - 00:57:25: [SM] Call stack trace:
+L 03/02/2021 - 00:57:25: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 03/02/2021 - 01:02:42: Error log file session closed.
+L 03/02/2021 - 01:02:42: SourceMod error session started
+L 03/02/2021 - 01:02:42: Info (map "de_shortdust") (file "/home/tcagame/jackm1/599/csgo/addons/sourcemod/logs/errors_20210302.log")
+L 03/02/2021 - 01:02:42: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 03/02/2021 - 01:02:42: [SM] Error (line 0, column 0): Stream failed to open
+L 03/02/2021 - 01:03:08: Error log file session closed.
+L 03/02/2021 - 01:03:08: SourceMod error session started
+L 03/02/2021 - 01:03:08: Info (map "training1") (file "/home/tcagame/jackm1/599/csgo/addons/sourcemod/logs/errors_20210302.log")
+L 03/02/2021 - 01:03:08: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 03/02/2021 - 01:03:08: [SM] Error (line 0, column 0): Stream failed to open
+L 03/02/2021 - 01:03:33: Error log file session closed.
+L 03/02/2021 - 01:03:33: SourceMod error session started
+L 03/02/2021 - 01:03:33: Info (map "de_train") (file "/home/tcagame/jackm1/599/csgo/addons/sourcemod/logs/errors_20210302.log")
+L 03/02/2021 - 01:03:33: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 03/02/2021 - 01:03:33: [SM] Error (line 0, column 0): Stream failed to open
+L 03/02/2021 - 01:04:28: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 03/02/2021 - 01:04:28: [SM] Blaming: weapon_restrict.smx
+L 03/02/2021 - 01:04:28: [SM] Call stack trace:
+L 03/02/2021 - 01:04:28: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 03/02/2021 - 01:04:37: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 03/02/2021 - 01:04:37: [SM] Blaming: weapon_restrict.smx
+L 03/02/2021 - 01:04:37: [SM] Call stack trace:
+L 03/02/2021 - 01:04:37: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 03/02/2021 - 01:05:17: [SM] Exception reported: Language phrase "CMD_Swap_Usage" not found (arg 4)
+L 03/02/2021 - 01:05:17: [SM] Blaming: advadmin.smx
+L 03/02/2021 - 01:05:17: [SM] Call stack trace:
+L 03/02/2021 - 01:05:17: [SM]   [0] ReplyToCommand
+L 03/02/2021 - 01:05:17: [SM]   [1] Line 659, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::CMD_Swap
+L 03/02/2021 - 01:05:17: [SM]   [3] FakeClientCommand
+L 03/02/2021 - 01:05:17: [SM]   [4] Line 1054, ./scripting/pugsetup.sp::CheckChatAlias
+L 03/02/2021 - 01:05:17: [SM]   [5] Line 1082, ./scripting/pugsetup.sp::OnClientSayCommand_Post
+L 03/02/2021 - 01:05:22: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 03/02/2021 - 01:05:22: [SM] Blaming: weapon_restrict.smx
+L 03/02/2021 - 01:05:22: [SM] Call stack trace:
+L 03/02/2021 - 01:05:22: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 03/02/2021 - 01:05:27: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 03/02/2021 - 01:05:27: [SM] Blaming: weapon_restrict.smx
+L 03/02/2021 - 01:05:27: [SM] Call stack trace:
+L 03/02/2021 - 01:05:27: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 03/02/2021 - 01:05:34: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 03/02/2021 - 01:05:34: [SM] Blaming: weapon_restrict.smx
+L 03/02/2021 - 01:05:34: [SM] Call stack trace:
+L 03/02/2021 - 01:05:34: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 03/02/2021 - 01:11:53: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 03/02/2021 - 01:11:53: [SM] Blaming: weapon_restrict.smx
+L 03/02/2021 - 01:11:53: [SM] Call stack trace:
+L 03/02/2021 - 01:11:53: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 03/02/2021 - 01:13:19: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 03/02/2021 - 01:13:19: [SM] Blaming: weapon_restrict.smx
+L 03/02/2021 - 01:13:19: [SM] Call stack trace:
+L 03/02/2021 - 01:13:19: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 03/02/2021 - 13:40:21: Error log file session closed.
+L 03/02/2021 - 13:40:21: SourceMod error session started
+L 03/02/2021 - 13:40:21: Info (map "de_train") (file "/home/tcagame/jackm1/599/csgo/addons/sourcemod/logs/errors_20210302.log")
+L 03/02/2021 - 13:40:21: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 03/02/2021 - 13:40:21: [SM] Error (line 0, column 0): Stream failed to open
+L 03/02/2021 - 13:42:45: [SM] Exception reported: Language phrase "Player_Connected_From" not found (arg 3)
+L 03/02/2021 - 13:42:45: [SM] Blaming: advadmin.smx
+L 03/02/2021 - 13:42:45: [SM] Call stack trace:
+L 03/02/2021 - 13:42:45: [SM]   [0] VFormat
+L 03/02/2021 - 13:42:45: [SM]   [1] Line 386, /groups/sourcemod/compiler-1.10/include/halflife.inc::PrintToChatAll
+L 03/02/2021 - 13:42:45: [SM]   [2] Line 141, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::OnClientAuthorized

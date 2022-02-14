@@ -1,0 +1,12 @@
+L 09/01/2020 - 16:07:14: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200901.log") (Version "1.10.0.6490")
+L 09/01/2020 - 16:07:14: -------- Mapchange to de_mirage --------
+L 09/01/2020 - 16:07:39: -------- Mapchange to de_mirage --------
+L 09/01/2020 - 18:09:51: -------- Mapchange to de_mirage --------
+L 09/01/2020 - 20:26:32: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200901.log") (Version "1.10.0.6490")
+L 09/01/2020 - 20:26:32: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 09/01/2020 - 20:26:38: -------- Mapchange to de_dust2 --------
+L 09/01/2020 - 20:40:08: [basecommands.smx] "Leo Dooly<10><STEAM_1:0:109554979><>" console command (cmdline "bot_kick")
+L 09/01/2020 - 20:43:08: [basecommands.smx] "Leo Dooly<10><STEAM_1:0:109554979><>" console command (cmdline "bot_kick")
+L 09/01/2020 - 20:48:23: [basecommands.smx] "Leo Dooly<10><STEAM_1:0:109554979><>" console command (cmdline "hp all 100")
+L 09/01/2020 - 20:48:26: [basecommands.smx] "Leo Dooly<10><STEAM_1:0:109554979><>" console command (cmdline "hp @all 100")
+L 09/02/2020 - 11:14:49: Log file closed.

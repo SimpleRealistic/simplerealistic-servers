@@ -1,0 +1,15 @@
+L 09/15/2020 - 18:36:44: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20200915.log") (Version "1.10.0.6490")
+L 09/15/2020 - 18:36:44: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 09/15/2020 - 18:38:49: -------- Mapchange to de_dust2 --------
+L 09/15/2020 - 19:01:40: -------- Mapchange to de_dust2 --------
+L 09/15/2020 - 20:02:56: -------- Mapchange to de_dust2 --------
+L 09/15/2020 - 20:08:02: -------- Mapchange to de_mirage --------
+L 09/15/2020 - 20:10:54: [basecommands.smx] "dylan<6><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 09/15/2020 - 20:11:58: [basecommands.smx] "dylan<6><STEAM_1:0:152419574><>" console command (cmdline "mp_restartgame 1")
+L 09/15/2020 - 20:11:59: [basecommands.smx] "dylan<6><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 09/15/2020 - 20:26:56: [basecommands.smx] "dylan<6><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 09/15/2020 - 20:26:59: [basecommands.smx] "dylan<6><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 09/15/2020 - 20:30:07: [basecommands.smx] "dylan<6><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 09/15/2020 - 20:30:43: [basecommands.smx] "dylan<6><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 09/15/2020 - 20:38:42: [basecommands.smx] "dylan<6><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 09/16/2020 - 10:48:45: Log file closed.

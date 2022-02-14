@@ -1,0 +1,44 @@
+L 12/17/2020 - 09:10:02: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201217.log") (Version "1.10.0.6490")
+L 12/17/2020 - 09:10:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 09:12:26: -------- Mapchange to de_bank --------
+L 12/17/2020 - 09:12:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 09:13:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 09:47:27: -------- Mapchange to de_bank --------
+L 12/17/2020 - 09:47:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 09:54:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 10:04:16: -------- Mapchange to de_bank --------
+L 12/17/2020 - 10:04:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 10:05:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 12:13:17: -------- Mapchange to de_bank --------
+L 12/17/2020 - 12:13:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 12:14:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 12:56:21: -------- Mapchange to de_bank --------
+L 12/17/2020 - 12:56:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 12:57:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 15:01:15: -------- Mapchange to de_bank --------
+L 12/17/2020 - 15:01:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 15:03:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 15:20:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 15:58:14: -------- Mapchange to de_overpass --------
+L 12/17/2020 - 15:58:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 16:04:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 17:09:00: -------- Mapchange to de_overpass --------
+L 12/17/2020 - 17:09:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 18:24:36: -------- Mapchange to de_overpass --------
+L 12/17/2020 - 18:24:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 18:52:53: -------- Mapchange to de_overpass --------
+L 12/17/2020 - 18:52:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 19:39:29: -------- Mapchange to de_bank --------
+L 12/17/2020 - 19:39:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 19:43:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 20:28:58: -------- Mapchange to de_lake --------
+L 12/17/2020 - 20:28:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 20:34:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_vote_issue_changelevel_allowed") (value "0")
+L 12/17/2020 - 22:14:02: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201217.log") (Version "1.10.0.6490")
+L 12/17/2020 - 22:14:02: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/17/2020 - 22:14:08: -------- Mapchange to de_dust2 --------
+L 12/17/2020 - 22:16:38: -------- Mapchange to de_dust2 --------
+L 12/17/2020 - 22:21:22: -------- Mapchange to de_dust2 --------
+L 12/17/2020 - 23:01:06: -------- Mapchange to de_dust2 --------
+L 12/17/2020 - 23:09:45: -------- Mapchange to de_cache --------
+L 12/18/2020 - 00:06:08: Log file closed.

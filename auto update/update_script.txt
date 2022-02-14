@@ -1,0 +1,4 @@
+force_install_dir "/home/steam/p_hvh"
+login anonymous
+app_update 740
+quit

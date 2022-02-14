@@ -1,0 +1,33 @@
+L 11/09/2020 - 01:58:40: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201109.log") (Version "1.10.0.6490")
+L 11/09/2020 - 01:58:40: -------- Mapchange to de_train --------
+L 11/09/2020 - 09:57:25: -------- Mapchange to de_train --------
+L 11/09/2020 - 10:08:26: -------- Mapchange to de_train --------
+L 11/09/2020 - 10:11:43: -------- Mapchange to de_mirage --------
+L 11/09/2020 - 10:38:52: -------- Mapchange to de_mirage --------
+L 11/09/2020 - 10:40:56: [basecommands.smx] "Leo Dooly<68><STEAM_1:0:109554979><>" console command (cmdline "bot_kick")
+L 11/09/2020 - 10:47:43: [basecommands.smx] "Leo Dooly<68><STEAM_1:0:109554979><>" console command (cmdline "bot_kick")
+L 11/09/2020 - 13:28:31: -------- Mapchange to de_mirage --------
+L 11/09/2020 - 13:29:31: -------- Mapchange to de_mirage --------
+L 11/09/2020 - 13:39:52: [basechat.smx] "Leo Dooly<79><STEAM_1:0:109554979><>" triggered sm_say (text i wanna rq rn)
+L 11/09/2020 - 13:39:55: [basechat.smx] "Leo Dooly<79><STEAM_1:0:109554979><>" triggered sm_say (text FUCK OT)
+L 11/09/2020 - 14:33:46: -------- Mapchange to de_mirage --------
+L 11/09/2020 - 15:02:18: -------- Mapchange to de_mirage --------
+L 11/09/2020 - 15:43:36: -------- Mapchange to de_mirage --------
+L 11/09/2020 - 15:46:59: -------- Mapchange to de_bank --------
+L 11/09/2020 - 16:51:37: -------- Mapchange to de_bank --------
+L 11/09/2020 - 17:31:27: -------- Mapchange to cs_militia --------
+L 11/09/2020 - 19:31:33: -------- Mapchange to cs_militia --------
+L 11/09/2020 - 20:01:29: -------- Mapchange to cs_militia --------
+L 11/09/2020 - 20:03:06: [basecommands.smx] "kr0md<92><STEAM_1:0:125290236><>" changed map to "cs_office"
+L 11/09/2020 - 20:03:09: [SM] Changed map to "cs_office"
+L 11/09/2020 - 20:03:10: -------- Mapchange to cs_office --------
+L 11/09/2020 - 20:12:50: [basecommands.smx] "kr0md<92><STEAM_1:0:125290236><>" changed map to "inferno"
+L 11/09/2020 - 20:12:53: [SM] Changed map to "inferno"
+L 11/09/2020 - 20:12:54: -------- Mapchange to de_inferno --------
+L 11/09/2020 - 21:17:58: -------- Mapchange to de_inferno --------
+L 11/09/2020 - 21:19:30: -------- Mapchange to cs_militia --------
+L 11/09/2020 - 22:33:29: -------- Mapchange to cs_militia --------
+L 11/09/2020 - 23:01:56: -------- Mapchange to de_bank --------
+L 11/09/2020 - 23:56:28: -------- Mapchange to de_bank --------
+L 11/09/2020 - 23:59:02: -------- Mapchange to de_inferno --------
+L 11/10/2020 - 00:00:01: Log file closed.

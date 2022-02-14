@@ -1,0 +1,5 @@
+L 02/08/2022 - 11:50:14: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 02/08/2022 - 12:12:37: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 02/08/2022 - 12:14:48: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 02/08/2022 - 12:16:30: [afk_manager4.smx] 我打黑鬼<142><STEAM_1:1:600337102><> was moved to spectate for being AFK too long.
+L 02/08/2022 - 12:16:47: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3

@@ -1,0 +1,8 @@
+L 01/05/2022 - 10:59:35: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 01/05/2022 - 11:12:45: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 01/05/2022 - 11:19:03: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 01/05/2022 - 11:28:49: [afk_manager4.smx] ｠๖ۣۜ岌҉玄ℜṦ҉玄ℜ<31><STEAM_1:1:635169265><> was moved to spectate for being AFK too long.
+L 01/05/2022 - 11:28:53: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 01/05/2022 - 21:23:04: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 01/05/2022 - 21:24:18: [afk_manager4.smx] pphud beta<48><STEAM_1:1:635800492><> was moved to spectate for being AFK too long.
+L 01/05/2022 - 21:25:39: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3

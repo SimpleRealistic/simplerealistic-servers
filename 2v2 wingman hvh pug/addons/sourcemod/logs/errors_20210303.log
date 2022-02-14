@@ -1,0 +1,79 @@
+L 03/03/2021 - 21:03:37: SourceMod error session started
+L 03/03/2021 - 21:03:37: Info (map "de_inferno") (file "/home/steam/2v2/csgo/addons/sourcemod/logs/errors_20210303.log")
+L 03/03/2021 - 21:03:37: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 03/03/2021 - 21:03:37: [SM] Error (line 0, column 0): Stream failed to open
+L 03/03/2021 - 21:04:20: SourceMod error session started
+L 03/03/2021 - 21:04:20: Info (map "de_inferno") (file "/home/steam/2v2/csgo/addons/sourcemod/logs/errors_20210303.log")
+L 03/03/2021 - 21:04:20: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 03/03/2021 - 21:04:20: [SM] Error (line 0, column 0): Stream failed to open
+L 03/03/2021 - 21:05:30: Error log file session closed.
+L 03/03/2021 - 21:06:10: SourceMod error session started
+L 03/03/2021 - 21:06:10: Info (map "de_inferno") (file "/home/steam/2v2/csgo/addons/sourcemod/logs/errors_20210303.log")
+L 03/03/2021 - 21:06:10: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 03/03/2021 - 21:06:10: [SM] Error (line 0, column 0): Stream failed to open
+L 03/03/2021 - 21:06:19: Error log file session closed.
+L 03/03/2021 - 21:06:19: SourceMod error session started
+L 03/03/2021 - 21:06:19: Info (map "de_inferno") (file "/home/steam/2v2/csgo/addons/sourcemod/logs/errors_20210303.log")
+L 03/03/2021 - 21:06:19: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 03/03/2021 - 21:06:19: [SM] Error (line 0, column 0): Stream failed to open
+L 03/03/2021 - 21:11:51: Error log file session closed.
+L 03/03/2021 - 21:11:55: SourceMod error session started
+L 03/03/2021 - 21:11:55: Info (map "de_inferno") (file "/home/steam/2v2/csgo/addons/sourcemod/logs/errors_20210303.log")
+L 03/03/2021 - 21:11:55: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 03/03/2021 - 21:11:55: [SM] Error (line 0, column 0): Stream failed to open
+L 03/03/2021 - 21:11:55: [SM] Error parsing gameconfig file "/home/steam/2v2/csgo/addons/sourcemod/gamedata/SendFileExploitFix_csgo_1_2_2021.txt":
+L 03/03/2021 - 21:11:55: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 03/03/2021 - 21:11:55: [SM] Exception reported: Unable to open SendFileExploitFix_csgo_1_2_2021: File could not be opened: No such file or directory
+L 03/03/2021 - 21:11:55: [SM] Blaming: SendFileExploitFixV3.1.smx
+L 03/03/2021 - 21:11:55: [SM] Call stack trace:
+L 03/03/2021 - 21:11:55: [SM]   [0] LoadGameConfigFile
+L 03/03/2021 - 21:11:55: [SM]   [1] Line 27, I:\srcds\csgo-ds\csgo\addons\sourcemod\scripting\SendFileExploitFixV3.1.sp::OnPluginStart
+L 03/03/2021 - 21:11:55: [SM] Unable to load plugin "SendFileExploitFixV3.1.smx": Error detected in plugin startup (see error logs)
+L 03/03/2021 - 21:12:02: Error log file session closed.
+L 03/03/2021 - 21:12:02: SourceMod error session started
+L 03/03/2021 - 21:12:02: Info (map "de_inferno") (file "/home/steam/2v2/csgo/addons/sourcemod/logs/errors_20210303.log")
+L 03/03/2021 - 21:12:02: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 03/03/2021 - 21:12:02: [SM] Error (line 0, column 0): Stream failed to open
+L 03/03/2021 - 21:13:16: Error log file session closed.
+L 03/03/2021 - 21:13:19: SourceMod error session started
+L 03/03/2021 - 21:13:19: Info (map "de_inferno") (file "/home/steam/2v2/csgo/addons/sourcemod/logs/errors_20210303.log")
+L 03/03/2021 - 21:13:19: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 03/03/2021 - 21:13:19: [SM] Error (line 0, column 0): Stream failed to open
+L 03/03/2021 - 21:13:19: [SM] Error parsing gameconfig file "/home/steam/2v2/csgo/addons/sourcemod/gamedata/SendFileExploitFix_csgo_1_2_2021.txt":
+L 03/03/2021 - 21:13:19: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 03/03/2021 - 21:13:19: [SM] Exception reported: Unable to open SendFileExploitFix_csgo_1_2_2021: File could not be opened: No such file or directory
+L 03/03/2021 - 21:13:19: [SM] Blaming: SendFileExploitFixV3.1.smx
+L 03/03/2021 - 21:13:19: [SM] Call stack trace:
+L 03/03/2021 - 21:13:19: [SM]   [0] LoadGameConfigFile
+L 03/03/2021 - 21:13:19: [SM]   [1] Line 27, I:\srcds\csgo-ds\csgo\addons\sourcemod\scripting\SendFileExploitFixV3.1.sp::OnPluginStart
+L 03/03/2021 - 21:13:19: [SM] Unable to load plugin "SendFileExploitFixV3.1.smx": Error detected in plugin startup (see error logs)
+L 03/03/2021 - 21:13:31: Error log file session closed.
+L 03/03/2021 - 21:13:31: SourceMod error session started
+L 03/03/2021 - 21:13:31: Info (map "de_inferno") (file "/home/steam/2v2/csgo/addons/sourcemod/logs/errors_20210303.log")
+L 03/03/2021 - 21:13:31: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 03/03/2021 - 21:13:31: [SM] Error (line 0, column 0): Stream failed to open
+L 03/03/2021 - 21:36:46: SourceMod error session started
+L 03/03/2021 - 21:36:46: Info (map "de_inferno") (file "/home/steam/2v2/csgo/addons/sourcemod/logs/errors_20210303.log")
+L 03/03/2021 - 21:36:46: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 03/03/2021 - 21:36:46: [SM] Error (line 0, column 0): Stream failed to open
+L 03/03/2021 - 21:36:46: [SM] Error parsing gameconfig file "/home/steam/2v2/csgo/addons/sourcemod/gamedata/SendFileExploitFix_csgo_1_2_2021.txt":
+L 03/03/2021 - 21:36:46: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 03/03/2021 - 21:36:46: [SM] Exception reported: Unable to open SendFileExploitFix_csgo_1_2_2021: File could not be opened: No such file or directory
+L 03/03/2021 - 21:36:46: [SM] Blaming: SendFileExploitFixV3.1.smx
+L 03/03/2021 - 21:36:46: [SM] Call stack trace:
+L 03/03/2021 - 21:36:46: [SM]   [0] LoadGameConfigFile
+L 03/03/2021 - 21:36:46: [SM]   [1] Line 27, I:\srcds\csgo-ds\csgo\addons\sourcemod\scripting\SendFileExploitFixV3.1.sp::OnPluginStart
+L 03/03/2021 - 21:36:46: [SM] Unable to load plugin "SendFileExploitFixV3.1.smx": Error detected in plugin startup (see error logs)
+L 03/03/2021 - 21:38:38: SourceMod error session started
+L 03/03/2021 - 21:38:38: Info (map "de_inferno") (file "/home/steam/2v2/csgo/addons/sourcemod/logs/errors_20210303.log")
+L 03/03/2021 - 21:38:38: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 03/03/2021 - 21:38:38: [SM] Error (line 0, column 0): Stream failed to open
+L 03/03/2021 - 21:38:38: [SM] Error parsing gameconfig file "/home/steam/2v2/csgo/addons/sourcemod/gamedata/SendFileExploitFix_csgo_1_2_2021.txt":
+L 03/03/2021 - 21:38:38: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 03/03/2021 - 21:38:38: [SM] Exception reported: Unable to open SendFileExploitFix_csgo_1_2_2021: File could not be opened: No such file or directory
+L 03/03/2021 - 21:38:38: [SM] Blaming: SendFileExploitFixV3.1.smx
+L 03/03/2021 - 21:38:38: [SM] Call stack trace:
+L 03/03/2021 - 21:38:38: [SM]   [0] LoadGameConfigFile
+L 03/03/2021 - 21:38:38: [SM]   [1] Line 27, I:\srcds\csgo-ds\csgo\addons\sourcemod\scripting\SendFileExploitFixV3.1.sp::OnPluginStart
+L 03/03/2021 - 21:38:38: [SM] Unable to load plugin "SendFileExploitFixV3.1.smx": Error detected in plugin startup (see error logs)
+L 03/04/2021 - 18:07:41: Error log file session closed.

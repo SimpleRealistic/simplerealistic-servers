@@ -1,0 +1,72 @@
+L 01/06/2022 - 01:25:57: SourceMod error session started
+L 01/06/2022 - 01:25:57: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20220106.log")
+L 01/06/2022 - 01:25:57: [SM] Exception reported: Tracker stack is out of bounds
+L 01/06/2022 - 01:25:57: [SM] Blaming: unrestricted_fov.smx
+L 01/06/2022 - 01:25:57: [SM] Call stack trace:
+L 01/06/2022 - 01:25:57: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/06/2022 - 01:27:37: Error log file session closed.
+L 01/06/2022 - 02:38:32: SourceMod error session started
+L 01/06/2022 - 02:38:32: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20220106.log")
+L 01/06/2022 - 02:38:32: [SM] Exception reported: Tracker stack is out of bounds
+L 01/06/2022 - 02:38:32: [SM] Blaming: unrestricted_fov.smx
+L 01/06/2022 - 02:38:32: [SM] Call stack trace:
+L 01/06/2022 - 02:38:32: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/06/2022 - 02:38:39: [SM] Exception reported: Tracker stack is out of bounds
+L 01/06/2022 - 02:38:39: [SM] Blaming: unrestricted_fov.smx
+L 01/06/2022 - 02:38:39: [SM] Call stack trace:
+L 01/06/2022 - 02:38:39: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/06/2022 - 02:41:07: [SM] Exception reported: Tracker stack is out of bounds
+L 01/06/2022 - 02:41:07: [SM] Blaming: unrestricted_fov.smx
+L 01/06/2022 - 02:41:07: [SM] Call stack trace:
+L 01/06/2022 - 02:41:07: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/06/2022 - 02:41:13: [SM] Exception reported: Tracker stack is out of bounds
+L 01/06/2022 - 02:41:13: [SM] Blaming: unrestricted_fov.smx
+L 01/06/2022 - 02:41:13: [SM] Call stack trace:
+L 01/06/2022 - 02:41:13: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/06/2022 - 02:55:28: [SM] Exception reported: Tracker stack is out of bounds
+L 01/06/2022 - 02:55:28: [SM] Blaming: unrestricted_fov.smx
+L 01/06/2022 - 02:55:28: [SM] Call stack trace:
+L 01/06/2022 - 02:55:28: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/06/2022 - 03:24:20: [SM] Exception reported: Tracker stack is out of bounds
+L 01/06/2022 - 03:24:20: [SM] Blaming: unrestricted_fov.smx
+L 01/06/2022 - 03:24:20: [SM] Call stack trace:
+L 01/06/2022 - 03:24:20: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/06/2022 - 06:07:21: Error log file session closed.
+L 01/06/2022 - 11:55:39: SourceMod error session started
+L 01/06/2022 - 11:55:39: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20220106.log")
+L 01/06/2022 - 11:55:39: [SM] Exception reported: Tracker stack is out of bounds
+L 01/06/2022 - 11:55:39: [SM] Blaming: unrestricted_fov.smx
+L 01/06/2022 - 11:55:39: [SM] Call stack trace:
+L 01/06/2022 - 11:55:39: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/06/2022 - 11:55:44: [SM] Exception reported: Tracker stack is out of bounds
+L 01/06/2022 - 11:55:44: [SM] Blaming: unrestricted_fov.smx
+L 01/06/2022 - 11:55:44: [SM] Call stack trace:
+L 01/06/2022 - 11:55:44: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/06/2022 - 11:55:50: [SM] Exception reported: Tracker stack is out of bounds
+L 01/06/2022 - 11:55:50: [SM] Blaming: unrestricted_fov.smx
+L 01/06/2022 - 11:55:50: [SM] Call stack trace:
+L 01/06/2022 - 11:55:50: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/06/2022 - 11:55:59: [SM] Exception reported: Tracker stack is out of bounds
+L 01/06/2022 - 11:55:59: [SM] Blaming: unrestricted_fov.smx
+L 01/06/2022 - 11:55:59: [SM] Call stack trace:
+L 01/06/2022 - 11:55:59: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/06/2022 - 11:56:08: [SM] Exception reported: Tracker stack is out of bounds
+L 01/06/2022 - 11:56:08: [SM] Blaming: unrestricted_fov.smx
+L 01/06/2022 - 11:56:08: [SM] Call stack trace:
+L 01/06/2022 - 11:56:08: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/06/2022 - 11:56:14: [SM] Exception reported: Tracker stack is out of bounds
+L 01/06/2022 - 11:56:14: [SM] Blaming: unrestricted_fov.smx
+L 01/06/2022 - 11:56:14: [SM] Call stack trace:
+L 01/06/2022 - 11:56:14: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/06/2022 - 11:56:58: [SM] Exception reported: Tracker stack is out of bounds
+L 01/06/2022 - 11:56:58: [SM] Blaming: unrestricted_fov.smx
+L 01/06/2022 - 11:56:58: [SM] Call stack trace:
+L 01/06/2022 - 11:56:58: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/06/2022 - 12:36:35: Error log file session closed.
+L 01/06/2022 - 19:25:54: SourceMod error session started
+L 01/06/2022 - 19:25:54: Info (map "surf_utopia_noble") (file "/home/steam/surf/csgo/addons/sourcemod/logs/errors_20220106.log")
+L 01/06/2022 - 19:25:54: [SM] Exception reported: Tracker stack is out of bounds
+L 01/06/2022 - 19:25:54: [SM] Blaming: unrestricted_fov.smx
+L 01/06/2022 - 19:25:54: [SM] Call stack trace:
+L 01/06/2022 - 19:25:54: [SM]   [1] Line 148, D:\Libraries\Documents\Dropbox\SourceMod Plugins\scripting\include\easy_commands.inc::__Handle_ConCmd__
+L 01/06/2022 - 19:45:59: Error log file session closed.

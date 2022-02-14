@@ -1,0 +1,9 @@
+L 04/23/2021 - 01:33:27: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 04/23/2021 - 01:51:12: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 04/23/2021 - 16:33:24: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 04/23/2021 - 16:38:07: [afk_manager4.smx] PakistanGamingHD<60><STEAM_1:0:587367510><> was moved to spectate for being AFK too long.
+L 04/23/2021 - 16:39:54: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 04/23/2021 - 17:21:05: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 04/23/2021 - 17:22:00: [afk_manager4.smx] swat<70><STEAM_1:0:601840077><> was moved to spectate for being AFK too long.
+L 04/23/2021 - 17:22:28: [afk_manager4.smx] cokoyav555<72><STEAM_1:0:601302980><> was moved to spectate for being AFK too long.
+L 04/23/2021 - 17:25:57: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3

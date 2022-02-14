@@ -1,0 +1,32 @@
+L 03/09/2021 - 02:59:31: SourceMod log file session started (file "/home/steam/5v5/csgo/addons/sourcemod/logs/L20210309.log") (Version "1.10.0.6502")
+L 03/09/2021 - 02:59:31: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 03/09/2021 - 02:59:32: [firebulletsfix.smx] Found offset for Weapon_ShootPosition 290
+L 03/09/2021 - 02:59:32: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 03/09/2021 - 02:59:32: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 03/09/2021 - 03:00:11: -------- Mapchange to de_mirage --------
+L 03/09/2021 - 03:04:34: SourceMod log file session started (file "/home/steam/5v5/csgo/addons/sourcemod/logs/L20210309.log") (Version "1.10.0.6502")
+L 03/09/2021 - 03:04:34: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 03/09/2021 - 03:04:34: [firebulletsfix.smx] Found offset for Weapon_ShootPosition 290
+L 03/09/2021 - 03:04:34: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 03/09/2021 - 03:04:34: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 03/09/2021 - 03:04:37: -------- Mapchange to de_mirage --------
+L 03/09/2021 - 03:05:01: Log file closed.
+L 03/09/2021 - 03:05:06: SourceMod log file session started (file "/home/steam/5v5/csgo/addons/sourcemod/logs/L20210309.log") (Version "1.10.0.6502")
+L 03/09/2021 - 03:05:06: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 03/09/2021 - 03:05:06: [firebulletsfix.smx] Found offset for Weapon_ShootPosition 290
+L 03/09/2021 - 03:05:06: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 03/09/2021 - 03:05:06: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 03/09/2021 - 03:08:10: -------- Mapchange to de_mirage --------
+L 03/09/2021 - 03:10:41: [basecommands.smx] "Anatrax<2><STEAM_1:0:94897427><>" changed cvar (cvar "sm_advertisements_interval") (value "130")
+L 03/09/2021 - 03:10:49: [basecommands.smx] "Anatrax<2><STEAM_1:0:94897427><>" changed cvar (cvar "sm_advertisements_interval") (value "120")
+L 03/09/2021 - 14:30:39: -------- Mapchange to de_mirage --------
+L 03/09/2021 - 14:30:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_advertisements_interval") (value "120")
+L 03/09/2021 - 15:35:40: -------- Mapchange to de_mirage --------
+L 03/09/2021 - 15:35:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_advertisements_interval") (value "120")
+L 03/09/2021 - 20:07:07: -------- Mapchange to de_mirage --------
+L 03/09/2021 - 20:07:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_advertisements_interval") (value "120")
+L 03/09/2021 - 20:58:32: -------- Mapchange to de_mirage --------
+L 03/09/2021 - 20:58:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_advertisements_interval") (value "120")
+L 03/09/2021 - 21:31:39: -------- Mapchange to de_mirage --------
+L 03/09/2021 - 21:31:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sm_advertisements_interval") (value "120")
+L 03/10/2021 - 01:11:55: Log file closed.

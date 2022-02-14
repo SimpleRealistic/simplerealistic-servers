@@ -1,0 +1,128 @@
+L 12/14/2021 - 20:50:04: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 20:50:04: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 20:52:29: Log file closed.
+L 12/14/2021 - 20:53:50: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 20:53:50: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 20:55:36: Log file closed.
+L 12/14/2021 - 20:55:44: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 20:55:44: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 20:55:47: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 20:57:33: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 20:57:33: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 20:57:45: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 20:59:59: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 20:59:59: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 21:00:02: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 21:03:05: Log file closed.
+L 12/14/2021 - 21:03:16: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 21:03:16: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 21:07:23: Log file closed.
+L 12/14/2021 - 21:08:07: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 21:08:07: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 21:08:10: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 21:09:38: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 21:10:29: Log file closed.
+L 12/14/2021 - 21:10:34: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 21:10:34: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 21:11:15: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 21:11:40: [funcommands.smx] "pot head<5><STEAM_1:0:23861894><>" toggled noclip on "pot head<5><STEAM_1:0:23861894><>"
+L 12/14/2021 - 21:16:30: [funcommands.smx] "pot head<5><STEAM_1:0:23861894><>" toggled noclip on "pot head<5><STEAM_1:0:23861894><>"
+L 12/14/2021 - 21:17:20: [funcommands.smx] "pot head<5><STEAM_1:0:23861894><>" toggled noclip on "pot head<5><STEAM_1:0:23861894><>"
+L 12/14/2021 - 21:17:37: [funcommands.smx] "pot head<5><STEAM_1:0:23861894><>" toggled noclip on "pot head<5><STEAM_1:0:23861894><>"
+L 12/14/2021 - 21:17:42: [funcommands.smx] "pot head<5><STEAM_1:0:23861894><>" toggled noclip on "pot head<5><STEAM_1:0:23861894><>"
+L 12/14/2021 - 21:17:45: [funcommands.smx] "pot head<5><STEAM_1:0:23861894><>" toggled noclip on "pot head<5><STEAM_1:0:23861894><>"
+L 12/14/2021 - 21:21:57: [playercommands.smx] "pot head<5><STEAM_1:0:23861894><>" slayed "pot head<5><STEAM_1:0:23861894><>"
+L 12/14/2021 - 21:22:01: [funcommands.smx] "pot head<5><STEAM_1:0:23861894><>" toggled noclip on "pot head<5><STEAM_1:0:23861894><>"
+L 12/14/2021 - 21:22:05: [funcommands.smx] "pot head<5><STEAM_1:0:23861894><>" toggled noclip on "pot head<5><STEAM_1:0:23861894><>"
+L 12/14/2021 - 21:22:19: [basecommands.smx] "pot head<5><STEAM_1:0:23861894><>" console command (cmdline "sv_noclipspeed 20")
+L 12/14/2021 - 21:22:24: [basecommands.smx] "pot head<5><STEAM_1:0:23861894><>" console command (cmdline "sv_noclipspeed 5")
+L 12/14/2021 - 21:27:22: [funcommands.smx] "pot head<5><STEAM_1:0:23861894><>" toggled noclip on "pot head<5><STEAM_1:0:23861894><>"
+L 12/14/2021 - 21:29:07: [funcommands.smx] "pot head<5><STEAM_1:0:23861894><>" toggled noclip on "pot head<5><STEAM_1:0:23861894><>"
+L 12/14/2021 - 21:39:36: Log file closed.
+L 12/14/2021 - 21:39:45: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 21:39:45: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 21:39:48: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 21:52:41: Log file closed.
+L 12/14/2021 - 21:52:46: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 21:52:46: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 21:53:06: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 21:59:24: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 21:59:29: Log file closed.
+L 12/14/2021 - 21:59:37: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 21:59:37: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 22:00:34: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 22:03:57: Log file closed.
+L 12/14/2021 - 22:04:05: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 22:04:05: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 22:04:08: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 22:04:45: Log file closed.
+L 12/14/2021 - 22:04:51: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 22:04:51: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 22:05:50: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 22:08:06: Log file closed.
+L 12/14/2021 - 22:08:11: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 22:08:11: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 22:08:14: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 22:08:31: [basecommands.smx] "pot head<5><STEAM_1:0:23861894><>" console command (cmdline "sm plugins")
+L 12/14/2021 - 22:08:32: [basecommands.smx] "pot head<5><STEAM_1:0:23861894><>" console command (cmdline "sm plugins list")
+L 12/14/2021 - 22:10:03: Log file closed.
+L 12/14/2021 - 22:10:10: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 22:10:10: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 22:10:14: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 22:13:57: Log file closed.
+L 12/14/2021 - 22:14:07: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 22:14:07: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 22:14:10: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 22:14:42: Log file closed.
+L 12/14/2021 - 22:14:49: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 22:14:49: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 22:15:48: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 22:16:09: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 22:16:22: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 22:20:37: Log file closed.
+L 12/14/2021 - 22:25:07: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 22:25:07: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 22:25:07: [afk_manager4.smx] [AFK Manager] Log File: addons/sourcemod/logs/afkm_20211214.log
+L 12/14/2021 - 22:25:07: [afk_manager4.smx] [AFK Manager] Detected Mod Counter-Strike: Global Offensive
+L 12/14/2021 - 22:25:10: [GoldenKnife.smx] Hooked Cvars
+L 12/14/2021 - 22:25:12: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 22:27:09: Log file closed.
+L 12/14/2021 - 22:27:19: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 22:27:19: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 22:27:19: [afk_manager4.smx] [AFK Manager] Log File: addons/sourcemod/logs/afkm_20211214.log
+L 12/14/2021 - 22:27:19: [afk_manager4.smx] [AFK Manager] Detected Mod Counter-Strike: Global Offensive
+L 12/14/2021 - 22:27:21: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 22:27:23: [GoldenKnife.smx] Hooked Cvars
+L 12/14/2021 - 22:31:42: Log file closed.
+L 12/14/2021 - 22:31:49: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 22:31:49: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 22:31:49: [afk_manager4.smx] [AFK Manager] Log File: addons/sourcemod/logs/afkm_20211214.log
+L 12/14/2021 - 22:31:49: [afk_manager4.smx] [AFK Manager] Detected Mod Counter-Strike: Global Offensive
+L 12/14/2021 - 22:31:51: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 22:31:53: [goldenknife.smx] Hooked Cvars
+L 12/14/2021 - 22:32:14: Log file closed.
+L 12/14/2021 - 22:32:31: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 22:32:31: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 22:32:31: [afk_manager4.smx] [AFK Manager] Log File: addons/sourcemod/logs/afkm_20211214.log
+L 12/14/2021 - 22:32:31: [afk_manager4.smx] [AFK Manager] Detected Mod Counter-Strike: Global Offensive
+L 12/14/2021 - 22:33:08: Log file closed.
+L 12/14/2021 - 22:33:15: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 22:33:15: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 22:33:16: [afk_manager4.smx] [AFK Manager] Log File: addons/sourcemod/logs/afkm_20211214.log
+L 12/14/2021 - 22:33:16: [afk_manager4.smx] [AFK Manager] Detected Mod Counter-Strike: Global Offensive
+L 12/14/2021 - 22:33:18: [goldenknife.smx] Hooked Cvars
+L 12/14/2021 - 22:33:19: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 22:35:41: Log file closed.
+L 12/14/2021 - 22:35:46: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 22:35:46: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 22:35:46: [afk_manager4.smx] [AFK Manager] Log File: addons/sourcemod/logs/afkm_20211214.log
+L 12/14/2021 - 22:35:46: [afk_manager4.smx] [AFK Manager] Detected Mod Counter-Strike: Global Offensive
+L 12/14/2021 - 22:35:49: [goldenknife.smx] Hooked Cvars
+L 12/14/2021 - 22:35:50: -------- Mapchange to surf_utopia_noble --------
+L 12/14/2021 - 22:50:51: Log file closed.
+L 12/14/2021 - 23:58:00: SourceMod log file session started (file "/home/steam/surf/csgo/addons/sourcemod/logs/L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 23:58:00: [GEOIP] GeoIP database info: GEO-106FREE 20170502 Build 1 Copyright (c) 2017 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 23:58:00: [afk_manager4.smx] [AFK Manager] Log File: addons/sourcemod/logs/afkm_20211214.log
+L 12/14/2021 - 23:58:00: [afk_manager4.smx] [AFK Manager] Detected Mod Counter-Strike: Global Offensive
+L 12/14/2021 - 23:58:03: [goldenknife.smx] Hooked Cvars
+L 12/15/2021 - 00:08:11: Log file closed.

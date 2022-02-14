@@ -1,0 +1,75 @@
+"Phrases"
+{
+	"TagMenu_Disabled"
+	{
+		"en"			"{green}[Tag Menu] {default}Tags are currently disabled."
+		"fr"			"{green}[Tag Menu] {default}Les tags sont actuellement désactivées."
+		"pl"			"{green}[Tag Menu] {default}Tagi sa wylaczone."
+		"nl"			"{green}[Tag Menu] {default}Tags zijn uitgezet."
+		"hu"			"{green}[Címke Menü] {default}Címkék jelenleg le vannak tiltva."
+		"de"			"{green}[Label Menü] {default} Labels sind zur Zeit deaktiviert."
+        "ro"            "{green}[Meniu Etichetă] {default}Eticheta momentan este dezactivate."
+	}
+	"Tags_Reloaded"
+	{
+		"en"			"{green}[Tag Menu] {default}Tags reloaded from config file successfully."
+		"fr"			"{green}[Tag Menu] {default}Les tags ont été rechargés à partir du fichier de configuration avec succès."
+		"pl"			"{green}[Tag Menu] {default}Poprawnie przeładowano config tagow."
+		"nl"			"{green}[Tag Menu] {default}Tags succesvol herladen van het configuratie bestand."
+		"hu"			"{green}[Címke Menü] {default}Címkék sikeresen újratöltve a konfig fájlból."
+		"de"			"{green}[Label Menü] {default} Labels ist erfolgreich reloaded die config aus einer Datei."
+		"ro"            "{green}[Meniu Etichetă] {default}Eticheta au fost reîncărcate din fișierul de configurare cu succes."
+	}
+	"Tag_Disabled"
+	{
+		"en"			"{green}[TagMenu] {default}Your tag has been disabled."
+		"fr"			"{green}[TagMenu] {default}Votre tag a été désactivée."
+		"pl"			"{green}[TagMenu] {default}Twoj tag zostal wylaczony."
+		"nl"			"{green}[Tag Menu] {default}Je tag staat nu uit."
+		"hu"			"{green}[Címke Menü] {default}Címkéd kikapcsolva."
+		"de"			"{green}[Label Menü] {default}Deine Label ist aus."
+		"ro"            "{green}[Meniu Etichetă] {default}Eticheta ta a fost dezactivată."
+	}
+	"ChatTag_Enabled"
+	{
+		"#format"		"{1:s}"
+		"en"			"{green}[TagMenu] {default}Your new chat tag {green}{1}{default} has been enabled."
+		"fr"			"{green}[TagMenu] {default}Votre nouvelle tag de chat {green}{1}{default} a été activé."
+		"pl"			"{green}[TagMenu] {default}Twoj nowy tag na chat'cie {green}{1}{default} zostal wlaczony."
+		"nl"			"{green}[TagMenu] {default}Jouw nieuwe chat tag {green}{1}{default} is in gebruik."
+		"hu"			"{green}[Címke Menü] {default}Új chat címkéd: {green}{1}{default} bekapcsolva."
+		"de"			"{green}[Label Menü] {default}Deine neue chat label ist: {green}{1}{default} auf."
+		"ro"            "{green}[Meniu Etichetă] {default}Eticheta ta nouă de chat {green}{1}{default} activat."
+	}
+	"Tag_Enabled"
+	{
+		"#format"		"{1:s}"
+		"en"			"{green}[TagMenu] {default}Your new tag {green}{1}{default} has been enabled."
+		"fr"			"{green}[TagMenu] {default}Votre nouvelle tag {green}{1}{default} a été activé."
+		"pl"			"{green}[TagMenu] {default}Twoj nowy tag {green}{1}{default} zostal wlaczony."
+		"nl"			"{green}[TagMenu] {default}Jouw nieuwe tag {green}{1}{default} is in gebruik."
+		"hu"			"{green}[Címke Menü] {default}Új címkéd: {green}{1}{default} bekapcsolva."
+		"de"			"{green}[Label Menü] {default}Deine neue Label ist : {green}{1}{default} auf."
+		"ro"            "{green}[Meniu Etichetă] {default} Eticheta ta nouă {green}{1}{default} activat."
+	}
+	"Menu_Title"
+	{
+		"en"			"★ TAG MENU ★"
+		"fr"			"★ TAG MENU ★"
+		"pl"			"★ TAG MENU ★"
+		"nl"			"★ TAG MENU ★"
+		"hu"			"★ TAG MENÜ ★"
+		"de"			"★ TAG MENÜ ★"
+		"ro"            "★ MENIU ETICHETĂ ★"
+	}
+	"Item_Disable"
+	{
+		"en"			"Disable Tag"
+		"fr"			"Desativé votre tag"
+		"pl"			"Wylacz tag"
+		"nl"			"Verwijder Tag"
+		"hu"			"Címke kikapcsolása"
+		"de"			"Label ist ausschalten"
+		"ro"            "Etichetă dezactivată"
+	}
+}

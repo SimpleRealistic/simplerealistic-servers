@@ -1,0 +1,6 @@
+L 12/25/2021 - 19:05:24: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/25/2021 - 19:06:22: [afk_manager4.smx] ₡ȺӾȺ₽ØҜ<2><STEAM_1:1:634272234><> was moved to spectate for being AFK too long.
+L 12/25/2021 - 19:08:06: [afk_manager4.smx] NAVI CHEL<3><STEAM_1:1:633333887><> was moved to spectate for being AFK too long.
+L 12/25/2021 - 19:08:12: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 12/25/2021 - 23:51:42: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/26/2021 - 00:54:07: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3

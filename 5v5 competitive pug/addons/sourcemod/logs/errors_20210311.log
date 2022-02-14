@@ -1,0 +1,7 @@
+L 03/11/2021 - 18:18:16: SourceMod error session started
+L 03/11/2021 - 18:18:16: Info (map "de_dust2") (file "/home/steam/5v5/csgo/addons/sourcemod/logs/errors_20210311.log")
+L 03/11/2021 - 18:18:16: [SM] Exception reported: Array index out-of-bounds (index 63, limit 55)
+L 03/11/2021 - 18:18:16: [SM] Blaming: weapon_restrict.smx
+L 03/11/2021 - 18:18:16: [SM] Call stack trace:
+L 03/11/2021 - 18:18:16: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 03/12/2021 - 17:14:45: Error log file session closed.

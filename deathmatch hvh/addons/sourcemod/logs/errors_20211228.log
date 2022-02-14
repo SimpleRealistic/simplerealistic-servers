@@ -1,0 +1,37 @@
+L 12/28/2021 - 04:26:18: SourceMod error session started
+L 12/28/2021 - 04:26:18: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20211228.log")
+L 12/28/2021 - 04:26:18: [SM] Unable to load plugin "rockthevote.smx": Could not find required plugin "mapchooser"
+L 12/28/2021 - 04:26:18: [SM] Error parsing gameconfig file "/home/steam/deathmatch/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/28/2021 - 04:26:18: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/28/2021 - 04:26:18: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/28/2021 - 04:26:18: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/28/2021 - 04:26:18: [SM] Call stack trace:
+L 12/28/2021 - 04:26:18: [SM]   [0] LoadGameConfigFile
+L 12/28/2021 - 04:26:18: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/28/2021 - 04:26:18: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/28/2021 - 04:44:47: Error log file session closed.
+L 12/28/2021 - 11:47:07: SourceMod error session started
+L 12/28/2021 - 11:47:07: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20211228.log")
+L 12/28/2021 - 11:47:07: [SM] Exception reported: Entity 2 (2) is invalid
+L 12/28/2021 - 11:47:07: [SM] Blaming: DisableRadar.smx
+L 12/28/2021 - 11:47:07: [SM] Call stack trace:
+L 12/28/2021 - 11:47:07: [SM]   [0] GetEntProp
+L 12/28/2021 - 11:47:07: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 12/28/2021 - 11:47:07: [SM] Exception reported: Entity 2 (2) is invalid
+L 12/28/2021 - 11:47:07: [SM] Blaming: DisableRadar.smx
+L 12/28/2021 - 11:47:07: [SM] Call stack trace:
+L 12/28/2021 - 11:47:07: [SM]   [0] GetEntProp
+L 12/28/2021 - 11:47:07: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 12/28/2021 - 12:22:31: Error log file session closed.
+L 12/28/2021 - 12:22:57: SourceMod error session started
+L 12/28/2021 - 12:22:57: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20211228.log")
+L 12/28/2021 - 12:22:57: [SM] Unable to load plugin "rockthevote.smx": Could not find required plugin "mapchooser"
+L 12/28/2021 - 12:22:57: [SM] Error parsing gameconfig file "/home/steam/deathmatch/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/28/2021 - 12:22:57: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/28/2021 - 12:22:57: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/28/2021 - 12:22:57: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/28/2021 - 12:22:57: [SM] Call stack trace:
+L 12/28/2021 - 12:22:57: [SM]   [0] LoadGameConfigFile
+L 12/28/2021 - 12:22:57: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/28/2021 - 12:22:57: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/28/2021 - 12:25:15: Error log file session closed.

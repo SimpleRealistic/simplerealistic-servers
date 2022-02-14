@@ -1,0 +1,25 @@
+L 07/27/2020 - 00:19:17: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200727.log") (Version "1.10.0.6490")
+L 07/27/2020 - 00:19:17: -------- Mapchange to de_shortdust --------
+L 07/27/2020 - 00:20:28: -------- Mapchange to de_shortdust --------
+L 07/27/2020 - 13:41:35: -------- Mapchange to de_shortdust --------
+L 07/27/2020 - 15:53:11: -------- Mapchange to de_shortdust --------
+L 07/27/2020 - 15:56:08: -------- Mapchange to cs_office --------
+L 07/27/2020 - 16:22:16: -------- Mapchange to cs_italy --------
+L 07/27/2020 - 16:23:21: [basecommands.smx] "dylan<88><STEAM_1:0:152419574><>" changed map to "overpass"
+L 07/27/2020 - 16:23:24: [SM] Changed map to "overpass"
+L 07/27/2020 - 16:23:25: -------- Mapchange to de_overpass --------
+L 07/27/2020 - 16:25:24: [basecommands.smx] "dylan<88><STEAM_1:0:152419574><>" kicked "X<92><STEAM_1:0:85918141><>" (reason "")
+L 07/27/2020 - 17:53:38: -------- Mapchange to de_overpass --------
+L 07/27/2020 - 18:26:55: -------- Mapchange to de_dust2 --------
+L 07/27/2020 - 18:30:20: [basecommands.smx] "dylan<107><STEAM_1:0:152419574><>" console command (cmdline "bot_kick")
+L 07/27/2020 - 19:06:20: -------- Mapchange to de_inferno --------
+L 07/27/2020 - 19:07:56: [basecommands.smx] "dylan<107><STEAM_1:0:152419574><>" console command (cmdline "bot_kick")
+L 07/27/2020 - 19:34:51: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200727.log") (Version "1.10.0.6490")
+L 07/27/2020 - 19:34:51: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/27/2020 - 19:35:00: -------- Mapchange to de_dust2 --------
+L 07/27/2020 - 19:38:16: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200727.log") (Version "1.10.0.6490")
+L 07/27/2020 - 19:38:16: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/27/2020 - 19:38:22: -------- Mapchange to de_dust2 --------
+L 07/27/2020 - 20:14:02: -------- Mapchange to de_overpass --------
+L 07/27/2020 - 20:15:40: [basecommands.smx] "dylan<22><STEAM_1:0:152419574><>" console command (cmdline "mp_restartgame 1")
+L 07/28/2020 - 00:25:07: Log file closed.

@@ -1,0 +1,147 @@
+L 07/13/2020 - 00:00:25: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200713.log") (Version "1.10.0.6490")
+L 07/13/2020 - 00:00:25: [basecommands.smx] "dylan<21><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/13/2020 - 00:01:43: [basecommands.smx] "dylan<21><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/13/2020 - 00:01:48: [basecommands.smx] "dylan<21><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct .5")
+L 07/13/2020 - 00:01:58: [basecommands.smx] "dylan<21><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 07/13/2020 - 00:02:38: [basecommands.smx] "dylan<21><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 07/13/2020 - 00:02:48: [basecommands.smx] "dylan<21><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/13/2020 - 00:02:55: [basecommands.smx] "dylan<21><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_head .5")
+L 07/13/2020 - 00:02:57: [basecommands.smx] "dylan<21><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_head .5")
+L 07/13/2020 - 00:04:20: [basecommands.smx] "dylan<21><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_head 1")
+L 07/13/2020 - 00:04:22: [basecommands.smx] "dylan<21><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_head 1")
+L 07/13/2020 - 00:04:27: [basecommands.smx] "dylan<21><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/13/2020 - 00:04:30: [basecommands.smx] "dylan<21><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_head 1")
+L 07/13/2020 - 00:04:32: [basecommands.smx] "dylan<21><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body")
+L 07/13/2020 - 00:06:07: [basecommands.smx] "dylan<21><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body")
+L 07/13/2020 - 00:38:44: [basecommands.smx] "dylan<21><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/13/2020 - 00:56:38: -------- Mapchange to cs_office --------
+L 07/13/2020 - 01:03:48: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/13/2020 - 01:04:51: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/13/2020 - 01:18:53: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/13/2020 - 01:19:08: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/13/2020 - 01:19:10: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/13/2020 - 01:19:21: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/13/2020 - 01:30:42: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/13/2020 - 01:32:54: -------- Mapchange to de_inferno --------
+L 07/13/2020 - 01:37:02: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/13/2020 - 01:37:39: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/13/2020 - 01:38:37: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/13/2020 - 01:38:38: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/13/2020 - 01:40:04: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/13/2020 - 01:40:45: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/13/2020 - 01:41:52: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/13/2020 - 02:04:32: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" changed map to "dust"
+L 07/13/2020 - 02:04:35: [SM] Changed map to "dust"
+L 07/13/2020 - 02:04:36: -------- Mapchange to de_shortdust --------
+L 07/13/2020 - 02:04:53: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" changed map to "de_dust"
+L 07/13/2020 - 02:04:57: [SM] Changed map to "de_dust"
+L 07/13/2020 - 02:04:58: -------- Mapchange to de_dust2 --------
+L 07/13/2020 - 02:05:20: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" changed map to "de_dust"
+L 07/13/2020 - 02:05:23: [SM] Changed map to "de_dust"
+L 07/13/2020 - 02:05:25: -------- Mapchange to de_dust2 --------
+L 07/13/2020 - 02:06:51: -------- Mapchange to cs_agency --------
+L 07/13/2020 - 02:07:55: -------- Mapchange to de_dust2 --------
+L 07/13/2020 - 02:08:19: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" changed map to "office"
+L 07/13/2020 - 02:08:22: [SM] Changed map to "office"
+L 07/13/2020 - 02:08:23: -------- Mapchange to cs_office --------
+L 07/13/2020 - 02:53:47: -------- Mapchange to cs_office --------
+L 07/13/2020 - 02:57:50: [basecommands.smx] "dylan<78><STEAM_1:0:152419574><>" kicked "1847<95><STEAM_1:1:544018826><>" (reason "")
+L 07/13/2020 - 12:20:57: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 07/13/2020 - 12:21:07: -------- Mapchange to cs_office --------
+L 07/13/2020 - 12:30:55: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200713.log") (Version "1.10.0.6490")
+L 07/13/2020 - 12:30:55: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/13/2020 - 12:37:21: -------- Mapchange to de_dust2 --------
+L 07/13/2020 - 12:43:53: -------- Mapchange to de_dust2 --------
+L 07/13/2020 - 14:37:07: -------- Mapchange to de_dust2 --------
+L 07/13/2020 - 15:06:08: -------- Mapchange to de_dust2 --------
+L 07/13/2020 - 15:10:53: [basecommands.smx] "Leo Dooly<7><STEAM_1:1:547746174><>" changed map to "cs_office"
+L 07/13/2020 - 15:10:56: [SM] Changed map to "cs_office"
+L 07/13/2020 - 15:10:57: -------- Mapchange to cs_office --------
+L 07/13/2020 - 15:29:03: -------- Mapchange to cs_office --------
+L 07/13/2020 - 16:15:38: -------- Mapchange to cs_militia --------
+L 07/13/2020 - 16:18:01: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "bot_kick")
+L 07/13/2020 - 16:21:15: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" changed map to "italy"
+L 07/13/2020 - 16:21:18: [SM] Changed map to "italy"
+L 07/13/2020 - 16:21:19: -------- Mapchange to cs_italy --------
+L 07/13/2020 - 17:24:27: -------- Mapchange to de_chlorine --------
+L 07/13/2020 - 17:28:57: -------- Mapchange to de_mirage --------
+L 07/13/2020 - 17:45:58: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" renamed "kr0md<16><STEAM_1:0:125290236><>" (to "retard")
+L 07/13/2020 - 17:47:43: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "retard<16><STEAM_1:0:125290236><>"
+L 07/13/2020 - 17:48:42: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" kicked "retard<16><STEAM_1:0:125290236><>" (reason "")
+L 07/13/2020 - 18:17:38: -------- Mapchange to de_overpass --------
+L 07/13/2020 - 18:20:23: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" kicked "Leo Dooly<54><STEAM_1:0:109554979><>" (reason "")
+L 07/13/2020 - 18:34:29: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 07/13/2020 - 18:35:15: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/13/2020 - 18:36:49: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 07/13/2020 - 18:37:49: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/13/2020 - 18:39:07: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/13/2020 - 18:39:13: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/13/2020 - 18:40:23: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/13/2020 - 18:42:06: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/13/2020 - 18:44:01: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/13/2020 - 18:50:11: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/13/2020 - 18:52:17: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/13/2020 - 18:52:29: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/13/2020 - 18:53:25: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/13/2020 - 18:53:43: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 07/13/2020 - 19:09:26: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/13/2020 - 19:12:02: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body ")
+L 07/13/2020 - 19:12:03: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/13/2020 - 19:17:04: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" kicked "Cassie ♡<64><STEAM_1:0:556972683><>" (reason "")
+L 07/13/2020 - 19:17:19: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_limitteams 5")
+L 07/13/2020 - 19:22:35: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/13/2020 - 19:22:42: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/13/2020 - 19:23:52: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/13/2020 - 19:24:20: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/13/2020 - 19:31:12: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/13/2020 - 19:35:56: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_limitteams 5")
+L 07/13/2020 - 19:38:01: -------- Mapchange to de_inferno --------
+L 07/13/2020 - 19:39:08: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_limitteams 5")
+L 07/13/2020 - 19:39:23: [basecommands.smx] "Leo Dooly<60><STEAM_1:0:109554979><>" kicked "Cassie ♡<65><STEAM_1:0:556972683><>" (reason "")
+L 07/13/2020 - 19:41:36: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/13/2020 - 19:41:37: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 07/13/2020 - 19:45:18: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/13/2020 - 19:47:17: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" kicked "autumn<61><STEAM_1:0:455995156><>" (reason "")
+L 07/13/2020 - 19:50:05: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/13/2020 - 19:57:53: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "Shooterz<66><STEAM_1:1:548450362><>"
+L 07/13/2020 - 19:57:53: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "Leo Dooly<60><STEAM_1:0:109554979><>"
+L 07/13/2020 - 19:57:53: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "cytex<48><STEAM_1:0:222979716><>"
+L 07/13/2020 - 19:57:53: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "mortal<67><STEAM_1:1:61686><>"
+L 07/13/2020 - 19:57:53: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "pl<68><STEAM_1:1:420715917><>"
+L 07/13/2020 - 19:57:53: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "dylan<19><STEAM_1:0:152419574><>"
+L 07/13/2020 - 19:57:53: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "jwn<69><STEAM_1:0:534535148><>"
+L 07/13/2020 - 19:57:53: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "bvf<70><STEAM_1:1:548269000><>"
+L 07/13/2020 - 19:57:53: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "vexxed<62><STEAM_1:1:96039723><>"
+L 07/13/2020 - 19:58:51: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "pl<68><STEAM_1:1:420715917><>"
+L 07/13/2020 - 19:58:51: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "jwn<69><STEAM_1:0:534535148><>"
+L 07/13/2020 - 19:58:51: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "bvf<70><STEAM_1:1:548269000><>"
+L 07/13/2020 - 19:58:51: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "vexxed<62><STEAM_1:1:96039723><>"
+L 07/13/2020 - 19:59:06: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_restartgame 1")
+L 07/13/2020 - 19:59:12: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "pl<68><STEAM_1:1:420715917><>"
+L 07/13/2020 - 19:59:12: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "jwn<69><STEAM_1:0:534535148><>"
+L 07/13/2020 - 19:59:12: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "bvf<70><STEAM_1:1:548269000><>"
+L 07/13/2020 - 19:59:12: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "vexxed<62><STEAM_1:1:96039723><>"
+L 07/13/2020 - 19:59:18: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "pl<68><STEAM_1:1:420715917><>"
+L 07/13/2020 - 19:59:18: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "jwn<69><STEAM_1:0:534535148><>"
+L 07/13/2020 - 19:59:18: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "bvf<70><STEAM_1:1:548269000><>"
+L 07/13/2020 - 19:59:30: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "pl<68><STEAM_1:1:420715917><>"
+L 07/13/2020 - 19:59:30: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "jwn<69><STEAM_1:0:534535148><>"
+L 07/13/2020 - 19:59:30: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "bvf<70><STEAM_1:1:548269000><>"
+L 07/13/2020 - 19:59:36: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "pl<68><STEAM_1:1:420715917><>"
+L 07/13/2020 - 19:59:36: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "jwn<69><STEAM_1:0:534535148><>"
+L 07/13/2020 - 19:59:36: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "bvf<70><STEAM_1:1:548269000><>"
+L 07/13/2020 - 19:59:42: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "pl<68><STEAM_1:1:420715917><>"
+L 07/13/2020 - 19:59:42: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "jwn<69><STEAM_1:0:534535148><>"
+L 07/13/2020 - 19:59:42: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "bvf<70><STEAM_1:1:548269000><>"
+L 07/13/2020 - 19:59:47: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "jwn<69><STEAM_1:0:534535148><>"
+L 07/13/2020 - 19:59:47: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "bvf<70><STEAM_1:1:548269000><>"
+L 07/13/2020 - 20:01:08: [basecommands.smx] "dylan<19><STEAM_1:0:152419574><>" console command (cmdline "mp_restartgame 1")
+L 07/13/2020 - 20:05:04: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200713.log") (Version "1.10.0.6490")
+L 07/13/2020 - 20:05:04: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/13/2020 - 20:05:09: -------- Mapchange to de_dust2 --------
+L 07/13/2020 - 20:10:59: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200713.log") (Version "1.10.0.6490")
+L 07/13/2020 - 20:10:59: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/13/2020 - 20:12:29: -------- Mapchange to de_dust2 --------
+L 07/13/2020 - 20:16:32: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200713.log") (Version "1.10.0.6490")
+L 07/13/2020 - 20:16:32: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/14/2020 - 00:52:39: Log file closed.

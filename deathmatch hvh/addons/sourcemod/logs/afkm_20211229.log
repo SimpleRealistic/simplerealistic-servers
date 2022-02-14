@@ -1,0 +1,24 @@
+L 12/29/2021 - 08:47:38: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/29/2021 - 08:49:07: [afk_manager4.smx] gRust<26><STEAM_1:0:631747284><> was moved to spectate for being AFK too long.
+L 12/29/2021 - 09:16:54: [afk_manager4.smx] 0<28><STEAM_1:1:634071775><> was moved to spectate for being AFK too long.
+L 12/29/2021 - 09:17:21: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 12/29/2021 - 15:28:17: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/29/2021 - 15:37:15: [afk_manager4.smx] Player count for AFK Kick minimum has been reached, feature is now enabled: sm_afk_kick_min_players = 6 Current Players = 6
+L 12/29/2021 - 15:41:22: [afk_manager4.smx] Player count for AFK Kick minimum is below requirements, feature is now disabled: sm_afk_kick_min_players = 6 Current Players = 5
+L 12/29/2021 - 15:48:40: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 12/29/2021 - 20:26:03: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/29/2021 - 20:34:49: [afk_manager4.smx] Player count for AFK Kick minimum has been reached, feature is now enabled: sm_afk_kick_min_players = 6 Current Players = 6
+L 12/29/2021 - 20:35:29: [afk_manager4.smx] pA Kyzo<13><STEAM_1:1:607550104><> was moved to spectate for being AFK too long.
+L 12/29/2021 - 20:35:49: [afk_manager4.smx] SRT<16><STEAM_1:1:118503132><> was moved to spectate for being AFK too long.
+L 12/29/2021 - 20:37:56: [afk_manager4.smx] Player count for AFK Kick minimum is below requirements, feature is now disabled: sm_afk_kick_min_players = 6 Current Players = 5
+L 12/29/2021 - 20:44:34: [afk_manager4.smx] SRT<18><STEAM_1:1:118503132><> was moved to spectate for being AFK too long.
+L 12/29/2021 - 20:51:08: [afk_manager4.smx] Player count for AFK Kick minimum has been reached, feature is now enabled: sm_afk_kick_min_players = 6 Current Players = 6
+L 12/29/2021 - 20:51:45: [afk_manager4.smx] SRT<21><STEAM_1:1:118503132><> was moved to spectate for being AFK too long.
+L 12/29/2021 - 20:54:28: [afk_manager4.smx] pA Kyzo<20><STEAM_1:1:607550104><> was moved to spectate for being AFK too long.
+L 12/29/2021 - 20:55:03: [afk_manager4.smx] SRT<21><STEAM_1:1:118503132><> was moved to spectate for being AFK too long.
+L 12/29/2021 - 21:01:20: [afk_manager4.smx] Player count for AFK Kick minimum is below requirements, feature is now disabled: sm_afk_kick_min_players = 6 Current Players = 5
+L 12/29/2021 - 21:02:28: [afk_manager4.smx] SRT<22><STEAM_1:1:118503132><> was moved to spectate for being AFK too long.
+L 12/29/2021 - 21:05:28: [afk_manager4.smx] pA Kyzo<23><STEAM_1:1:607550104><> was moved to spectate for being AFK too long.
+L 12/29/2021 - 21:18:14: [afk_manager4.smx] ?<12><STEAM_1:0:142893540><> was moved to spectate for being AFK too long.
+L 12/29/2021 - 21:29:55: [afk_manager4.smx] pA Kyzo<24><STEAM_1:1:607550104><> was moved to spectate for being AFK too long.
+L 12/29/2021 - 22:14:04: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3

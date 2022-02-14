@@ -1,0 +1,51 @@
+L 08/14/2020 - 03:43:29: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200814.log") (Version "1.10.0.6490")
+L 08/14/2020 - 03:43:29: -------- Mapchange to de_mirage --------
+L 08/14/2020 - 03:50:45: -------- Mapchange to cs_italy --------
+L 08/14/2020 - 10:45:48: -------- Mapchange to cs_italy --------
+L 08/14/2020 - 11:18:31: -------- Mapchange to cs_italy --------
+L 08/14/2020 - 16:08:45: -------- Mapchange to cs_italy --------
+L 08/14/2020 - 16:16:42: -------- Mapchange to de_overpass --------
+L 08/14/2020 - 16:17:50: [basecommands.smx] "dylan<324><STEAM_1:0:152419574><>" console command (cmdline "mp_restartgame 1")
+L 08/14/2020 - 16:23:43: [basecommands.smx] "dylan<324><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 08/14/2020 - 16:37:06: [basecommands.smx] "dylan<324><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 08/14/2020 - 16:47:06: -------- Mapchange to de_dust2 --------
+L 08/14/2020 - 16:55:25: [basecommands.smx] "dylan<340><STEAM_1:0:152419574><>" console command (cmdline "bot_kick")
+L 08/14/2020 - 17:01:32: [playercommands.smx] "dylan<340><STEAM_1:0:152419574><>" renamed "idump (Zelqx)<342><STEAM_1:0:524788386><>" (to "zelqx")
+L 08/14/2020 - 17:04:45: [basecommands.smx] "dylan<340><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/14/2020 - 17:05:30: [basecommands.smx] "dylan<340><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/14/2020 - 17:05:48: [basecommands.smx] "dylan<340><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/14/2020 - 17:08:03: [basecommands.smx] "dylan<340><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/14/2020 - 17:08:10: [basecommands.smx] "dylan<340><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/14/2020 - 17:10:06: [basecommands.smx] "dylan<340><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/14/2020 - 18:24:12: -------- Mapchange to de_dust2 --------
+L 08/14/2020 - 18:24:41: -------- Mapchange to de_dust2 --------
+L 08/14/2020 - 18:49:36: -------- Mapchange to de_inferno --------
+L 08/14/2020 - 20:18:33: -------- Mapchange to de_dust2 --------
+L 08/14/2020 - 20:51:00: -------- Mapchange to de_dust2 --------
+L 08/14/2020 - 20:51:22: -------- Mapchange to de_dust2 --------
+L 08/14/2020 - 21:03:05: -------- Mapchange to de_mirage --------
+L 08/14/2020 - 21:05:50: [playercommands.smx] "dylan<394><STEAM_1:0:82476261><>" slayed "yung child $upport<400><STEAM_1:1:239457999><>"
+L 08/14/2020 - 21:15:50: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/14/2020 - 21:19:12: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/14/2020 - 21:20:28: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/14/2020 - 21:21:34: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/14/2020 - 21:37:33: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/14/2020 - 21:37:40: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 08/14/2020 - 21:38:34: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 08/14/2020 - 21:39:06: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 08/14/2020 - 21:40:05: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 08/14/2020 - 21:41:11: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 08/14/2020 - 21:41:27: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 08/14/2020 - 21:41:46: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 08/14/2020 - 21:42:39: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 08/14/2020 - 21:43:05: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 08/14/2020 - 21:43:43: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 08/14/2020 - 21:44:33: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 08/14/2020 - 21:44:54: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 08/14/2020 - 21:45:32: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 08/14/2020 - 21:46:06: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 08/14/2020 - 21:46:56: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 08/14/2020 - 21:47:09: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 08/14/2020 - 21:47:13: [basecommands.smx] "dylan<394><STEAM_1:0:82476261><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 08/14/2020 - 22:24:16: -------- Mapchange to de_mirage --------
+L 08/15/2020 - 04:28:09: Log file closed.

@@ -1,0 +1,55 @@
+L 12/18/2021 - 01:45:04: SourceMod error session started
+L 12/18/2021 - 01:45:04: Info (map "de_mirage") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20211218.log")
+L 12/18/2021 - 01:45:04: [SM] Error parsing gameconfig file "/home/steam/minigames/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/18/2021 - 01:45:04: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/18/2021 - 01:45:04: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/18/2021 - 01:45:04: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/18/2021 - 01:45:04: [SM] Call stack trace:
+L 12/18/2021 - 01:45:04: [SM]   [0] LoadGameConfigFile
+L 12/18/2021 - 01:45:04: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/18/2021 - 01:45:04: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/18/2021 - 01:45:31: Error log file session closed.
+L 12/18/2021 - 01:45:49: SourceMod error session started
+L 12/18/2021 - 01:45:49: Info (map "de_mirage") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20211218.log")
+L 12/18/2021 - 01:45:49: [SM] Error parsing gameconfig file "/home/steam/minigames/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/18/2021 - 01:45:49: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/18/2021 - 01:45:49: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/18/2021 - 01:45:49: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/18/2021 - 01:45:49: [SM] Call stack trace:
+L 12/18/2021 - 01:45:49: [SM]   [0] LoadGameConfigFile
+L 12/18/2021 - 01:45:49: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/18/2021 - 01:45:49: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/18/2021 - 01:46:46: Error log file session closed.
+L 12/18/2021 - 01:48:44: SourceMod error session started
+L 12/18/2021 - 01:48:44: Info (map "mg_mario_noble") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20211218.log")
+L 12/18/2021 - 01:48:44: [SM] Error parsing gameconfig file "/home/steam/minigames/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/18/2021 - 01:48:44: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/18/2021 - 01:48:44: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/18/2021 - 01:48:44: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/18/2021 - 01:48:44: [SM] Call stack trace:
+L 12/18/2021 - 01:48:44: [SM]   [0] LoadGameConfigFile
+L 12/18/2021 - 01:48:44: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/18/2021 - 01:48:44: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/18/2021 - 02:15:06: Error log file session closed.
+L 12/18/2021 - 02:15:16: SourceMod error session started
+L 12/18/2021 - 02:15:16: Info (map "mg_mario_noble") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20211218.log")
+L 12/18/2021 - 02:15:16: [SM] Error parsing gameconfig file "/home/steam/minigames/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/18/2021 - 02:15:16: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/18/2021 - 02:15:16: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/18/2021 - 02:15:16: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/18/2021 - 02:15:16: [SM] Call stack trace:
+L 12/18/2021 - 02:15:16: [SM]   [0] LoadGameConfigFile
+L 12/18/2021 - 02:15:16: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/18/2021 - 02:15:16: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/18/2021 - 02:15:20: Error log file session closed.
+L 12/18/2021 - 02:32:57: SourceMod error session started
+L 12/18/2021 - 02:32:57: Info (map "mg_mario_noble") (file "/home/steam/minigames/csgo/addons/sourcemod/logs/errors_20211218.log")
+L 12/18/2021 - 02:32:57: [SM] Error parsing gameconfig file "/home/steam/minigames/csgo/addons/sourcemod/gamedata/LagExploitFix_3_7_2020.txt":
+L 12/18/2021 - 02:32:57: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/18/2021 - 02:32:57: [SM] Exception reported: Unable to open LagExploitFix_3_7_2020: File could not be opened: No such file or directory
+L 12/18/2021 - 02:32:57: [SM] Blaming: ServerLagExploitFix_3_7_2020 (2).smx
+L 12/18/2021 - 02:32:57: [SM] Call stack trace:
+L 12/18/2021 - 02:32:57: [SM]   [0] LoadGameConfigFile
+L 12/18/2021 - 02:32:57: [SM]   [1] Line 14, /home/forums/content/files/2/4/6/0/2/9/180045.attach::OnPluginStart
+L 12/18/2021 - 02:32:57: [SM] Unable to load plugin "ServerLagExploitFix_3_7_2020 (2).smx": Error detected in plugin startup (see error logs)
+L 12/18/2021 - 02:33:01: Error log file session closed.

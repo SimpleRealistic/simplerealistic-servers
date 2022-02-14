@@ -1,0 +1,32 @@
+// Advertisements 2.0
+// by Tsunami
+//
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+// top: Top message
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+    "1"
+    {
+        "chat"			"{darkblue}[{purple}changeme{darkblue}]{lime} Join the changeme Community! {lightred}discordurl"
+    }
+	"2"
+    {
+        "chat"			"{darkblue}[{purple}changeme{darkblue}]{lime} You can type {lightred}!guns {lime}to change your weapons!"
+    }
+	"3"
+    {
+        "chat"			"{darkblue}[{purple}changeme{darkblue}]{lime} There are no rules on any of our hvh servers, so do whatever!"
+    }
+}

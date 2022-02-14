@@ -1,0 +1,44 @@
+L 12/31/2020 - 17:14:55: SourceMod error session started
+L 12/31/2020 - 17:14:55: Info (map "de_mirage") (file "/home/tcagame/jackm1/599/csgo/addons/sourcemod/logs/errors_20201231.log")
+L 12/31/2020 - 17:14:55: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 12/31/2020 - 17:14:55: [SM] Error (line 0, column 0): Stream failed to open
+L 12/31/2020 - 17:15:06: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 12/31/2020 - 17:15:06: [SM] Blaming: weapon_restrict.smx
+L 12/31/2020 - 17:15:06: [SM] Call stack trace:
+L 12/31/2020 - 17:15:06: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 12/31/2020 - 17:15:14: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 12/31/2020 - 17:15:14: [SM] Blaming: weapon_restrict.smx
+L 12/31/2020 - 17:15:14: [SM] Call stack trace:
+L 12/31/2020 - 17:15:14: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 12/31/2020 - 17:18:07: [SM] Exception reported: Language phrase "Player_Connected_From" not found (arg 3)
+L 12/31/2020 - 17:18:07: [SM] Blaming: advadmin.smx
+L 12/31/2020 - 17:18:07: [SM] Call stack trace:
+L 12/31/2020 - 17:18:07: [SM]   [0] VFormat
+L 12/31/2020 - 17:18:07: [SM]   [1] Line 386, /groups/sourcemod/compiler-1.10/include/halflife.inc::PrintToChatAll
+L 12/31/2020 - 17:18:07: [SM]   [2] Line 141, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::OnClientAuthorized
+L 12/31/2020 - 17:20:25: [SM] Exception reported: Language phrase "CMD_Health_Usage" not found (arg 4)
+L 12/31/2020 - 17:20:25: [SM] Blaming: advadmin.smx
+L 12/31/2020 - 17:20:25: [SM] Call stack trace:
+L 12/31/2020 - 17:20:25: [SM]   [0] ReplyToCommand
+L 12/31/2020 - 17:20:25: [SM]   [1] Line 1292, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::CMD_Health
+L 12/31/2020 - 17:20:27: [SM] Exception reported: Language phrase "CMD_Health_Usage" not found (arg 4)
+L 12/31/2020 - 17:20:27: [SM] Blaming: advadmin.smx
+L 12/31/2020 - 17:20:27: [SM] Call stack trace:
+L 12/31/2020 - 17:20:27: [SM]   [0] ReplyToCommand
+L 12/31/2020 - 17:20:27: [SM]   [1] Line 1292, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::CMD_Health
+L 12/31/2020 - 17:20:31: [SM] Exception reported: Language phrase "CMD_Health" not found (arg 5)
+L 12/31/2020 - 17:20:31: [SM] Blaming: advadmin.smx
+L 12/31/2020 - 17:20:31: [SM] Call stack trace:
+L 12/31/2020 - 17:20:31: [SM]   [0] ShowActivity2
+L 12/31/2020 - 17:20:31: [SM]   [1] Line 1329, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::CMD_Health
+L 12/31/2020 - 17:20:33: [SM] Exception reported: Language phrase "CMD_Health" not found (arg 5)
+L 12/31/2020 - 17:20:33: [SM] Blaming: advadmin.smx
+L 12/31/2020 - 17:20:33: [SM] Call stack trace:
+L 12/31/2020 - 17:20:33: [SM]   [0] ShowActivity2
+L 12/31/2020 - 17:20:33: [SM]   [1] Line 1329, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::CMD_Health
+L 12/31/2020 - 17:25:27: Error log file session closed.
+L 12/31/2020 - 17:25:27: SourceMod error session started
+L 12/31/2020 - 17:25:27: Info (map "de_mirage") (file "/home/tcagame/jackm1/599/csgo/addons/sourcemod/logs/errors_20201231.log")
+L 12/31/2020 - 17:25:27: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 12/31/2020 - 17:25:27: [SM] Error (line 0, column 0): Stream failed to open
+L 01/01/2021 - 19:15:30: Error log file session closed.

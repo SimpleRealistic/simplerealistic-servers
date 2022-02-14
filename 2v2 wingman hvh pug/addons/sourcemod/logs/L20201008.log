@@ -1,0 +1,39 @@
+L 10/08/2020 - 14:13:11: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201008.log") (Version "1.10.0.6490")
+L 10/08/2020 - 14:13:11: -------- Mapchange to de_mirage --------
+L 10/08/2020 - 14:49:46: -------- Mapchange to de_mirage --------
+L 10/08/2020 - 20:52:29: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201008.log") (Version "1.10.0.6490")
+L 10/08/2020 - 20:52:29: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 10/08/2020 - 20:52:34: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201008.log") (Version "1.10.0.6490")
+L 10/08/2020 - 20:52:34: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 10/08/2020 - 20:52:38: [UPDATER] Successfully updated gamedata file "sdktools.games/game.left4dead2.txt"
+L 10/08/2020 - 20:52:38: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.l4d2.txt"
+L 10/08/2020 - 20:52:38: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 10/08/2020 - 20:52:40: -------- Mapchange to de_dust2 --------
+L 10/08/2020 - 20:54:59: [basecommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" console command (cmdline "bot_kick")
+L 10/08/2020 - 20:56:52: [basecommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" changed map to "mirage"
+L 10/08/2020 - 20:56:55: [SM] Changed map to "mirage"
+L 10/08/2020 - 20:56:55: -------- Mapchange to de_mirage --------
+L 10/08/2020 - 21:20:54: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "InternationalOS<3><STEAM_1:1:61686><>" (damage "0")
+L 10/08/2020 - 21:20:57: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "CSGO BOOSTING SERVICE<8><STEAM_1:0:74717497><>" (damage "0")
+L 10/08/2020 - 21:20:58: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "CSGO BOOSTING SERVICE<8><STEAM_1:0:74717497><>" (damage "0")
+L 10/08/2020 - 21:20:58: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "CSGO BOOSTING SERVICE<8><STEAM_1:0:74717497><>" (damage "0")
+L 10/08/2020 - 21:20:58: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "CSGO BOOSTING SERVICE<8><STEAM_1:0:74717497><>" (damage "0")
+L 10/08/2020 - 21:20:58: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "CSGO BOOSTING SERVICE<8><STEAM_1:0:74717497><>" (damage "0")
+L 10/08/2020 - 21:20:59: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "CSGO BOOSTING SERVICE<8><STEAM_1:0:74717497><>" (damage "0")
+L 10/08/2020 - 21:20:59: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "InternationalOS<3><STEAM_1:1:61686><>" (damage "0")
+L 10/08/2020 - 21:20:59: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "InternationalOS<3><STEAM_1:1:61686><>" (damage "0")
+L 10/08/2020 - 21:20:59: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "InternationalOS<3><STEAM_1:1:61686><>" (damage "0")
+L 10/08/2020 - 21:20:59: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "InternationalOS<3><STEAM_1:1:61686><>" (damage "0")
+L 10/08/2020 - 21:21:05: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "Leo Dooly<2><STEAM_1:0:109554979><>" (damage "0")
+L 10/08/2020 - 21:21:05: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "Leo Dooly<2><STEAM_1:0:109554979><>" (damage "0")
+L 10/08/2020 - 21:21:06: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "Leo Dooly<2><STEAM_1:0:109554979><>" (damage "0")
+L 10/08/2020 - 21:21:06: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "Leo Dooly<2><STEAM_1:0:109554979><>" (damage "0")
+L 10/08/2020 - 21:21:06: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "Leo Dooly<2><STEAM_1:0:109554979><>" (damage "0")
+L 10/08/2020 - 21:21:06: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "Leo Dooly<2><STEAM_1:0:109554979><>" (damage "0")
+L 10/08/2020 - 21:21:06: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "Leo Dooly<2><STEAM_1:0:109554979><>" (damage "0")
+L 10/08/2020 - 21:21:07: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "Leo Dooly<2><STEAM_1:0:109554979><>" (damage "0")
+L 10/08/2020 - 21:21:07: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "Leo Dooly<2><STEAM_1:0:109554979><>" (damage "0")
+L 10/08/2020 - 21:21:07: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "Leo Dooly<2><STEAM_1:0:109554979><>" (damage "0")
+L 10/08/2020 - 21:21:07: [playercommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" slapped "Leo Dooly<2><STEAM_1:0:109554979><>" (damage "0")
+L 10/08/2020 - 21:32:54: [basecommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" console command (cmdline "bot_kick")
+L 10/09/2020 - 13:33:08: Log file closed.

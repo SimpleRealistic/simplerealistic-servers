@@ -1,0 +1,47 @@
+L 12/11/2020 - 17:00:00: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201211.log") (Version "1.10.0.6490")
+L 12/11/2020 - 17:00:00: -------- Mapchange to de_bank --------
+L 12/11/2020 - 17:00:32: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201211.log") (Version "1.10.0.6490")
+L 12/11/2020 - 17:00:32: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/11/2020 - 17:00:38: -------- Mapchange to de_dust2 --------
+L 12/11/2020 - 17:01:44: [basecommands.smx] "Leo Dooly<3><STEAM_1:0:109554979><>" changed map to "mirage"
+L 12/11/2020 - 17:01:47: [SM] Changed map to "mirage"
+L 12/11/2020 - 17:01:48: -------- Mapchange to de_mirage --------
+L 12/11/2020 - 17:29:50: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201211.log") (Version "1.10.0.6490")
+L 12/11/2020 - 17:29:50: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/11/2020 - 17:30:23: -------- Mapchange to de_dust2 --------
+L 12/11/2020 - 17:33:00: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201211.log") (Version "1.10.0.6490")
+L 12/11/2020 - 17:33:00: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/11/2020 - 17:33:05: -------- Mapchange to de_dust2 --------
+L 12/11/2020 - 17:36:55: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201211.log") (Version "1.10.0.6490")
+L 12/11/2020 - 17:36:55: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/11/2020 - 17:37:15: -------- Mapchange to de_dust2 --------
+L 12/11/2020 - 17:37:36: [basecommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" changed map to "mirage"
+L 12/11/2020 - 17:37:39: [SM] Changed map to "mirage"
+L 12/11/2020 - 17:37:40: -------- Mapchange to de_mirage --------
+L 12/11/2020 - 17:41:39: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201211.log") (Version "1.10.0.6490")
+L 12/11/2020 - 17:41:39: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/11/2020 - 17:41:48: -------- Mapchange to de_dust2 --------
+L 12/11/2020 - 17:42:34: [basecommands.smx] "Leo Dooly<2><STEAM_1:0:109554979><>" changed map to "mirage"
+L 12/11/2020 - 17:42:37: [SM] Changed map to "mirage"
+L 12/11/2020 - 17:42:38: -------- Mapchange to de_mirage --------
+L 12/11/2020 - 17:45:16: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201211.log") (Version "1.10.0.6490")
+L 12/11/2020 - 17:45:16: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/11/2020 - 17:45:22: -------- Mapchange to de_dust2 --------
+L 12/11/2020 - 17:49:15: -------- Mapchange to de_dust2 --------
+L 12/11/2020 - 18:02:55: [basecommands.smx] "Leo Dooly<13><STEAM_1:0:109554979><>" console command (cmdline "bot_kick")
+L 12/11/2020 - 18:05:22: -------- Mapchange to de_overpass --------
+L 12/11/2020 - 18:43:43: [basecommands.smx] "Leo Dooly<13><STEAM_1:0:109554979><>" console command (cmdline "sv_airaccelerate 300")
+L 12/11/2020 - 19:04:45: [basecommands.smx] "Leo Dooly<13><STEAM_1:0:109554979><>" kicked "bo<30><STEAM_1:0:557141193><>" (reason "")
+L 12/11/2020 - 20:08:14: -------- Mapchange to de_overpass --------
+L 12/11/2020 - 20:09:35: [basecommands.smx] "Leo Dooly<42><STEAM_1:0:109554979><>" changed map to "dust"
+L 12/11/2020 - 20:09:39: [SM] Changed map to "dust"
+L 12/11/2020 - 20:09:39: -------- Mapchange to de_shortdust --------
+L 12/11/2020 - 20:09:56: [basecommands.smx] "Leo Dooly<42><STEAM_1:0:109554979><>" changed map to "dust2"
+L 12/11/2020 - 20:09:59: [SM] Changed map to "dust2"
+L 12/11/2020 - 20:10:01: -------- Mapchange to de_dust2 --------
+L 12/11/2020 - 20:20:04: [basecommands.smx] "Leo Dooly<42><STEAM_1:0:109554979><>" kicked "zAW<73><STEAM_1:0:462000592><>" (reason "")
+L 12/11/2020 - 20:20:06: [basecommands.smx] "Leo Dooly<42><STEAM_1:0:109554979><>" kicked "watV4<74><STEAM_1:1:194289763><>" (reason "")
+L 12/11/2020 - 20:28:11: [basecommands.smx] "Leo Dooly<42><STEAM_1:0:109554979><>" console command (cmdline "sv_airaccelerate 250")
+L 12/11/2020 - 20:28:13: [basecommands.smx] "Leo Dooly<42><STEAM_1:0:109554979><>" console command (cmdline "sv_airaccelerate 350")
+L 12/11/2020 - 20:51:25: -------- Mapchange to de_dust2 --------
+L 12/12/2020 - 10:11:44: Log file closed.

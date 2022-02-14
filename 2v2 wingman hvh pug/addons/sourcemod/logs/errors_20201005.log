@@ -1,0 +1,45 @@
+L 10/05/2020 - 13:25:39: SourceMod error session started
+L 10/05/2020 - 13:25:39: Info (map "de_mirage") (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/errors_20201005.log")
+L 10/05/2020 - 13:25:39: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 10/05/2020 - 13:25:39: [SM] Error (line 0, column 0): Stream failed to open
+L 10/05/2020 - 14:33:06: Error log file session closed.
+L 10/05/2020 - 14:33:06: SourceMod error session started
+L 10/05/2020 - 14:33:06: Info (map "de_mirage") (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/errors_20201005.log")
+L 10/05/2020 - 14:33:06: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 10/05/2020 - 14:33:06: [SM] Error (line 0, column 0): Stream failed to open
+L 10/05/2020 - 20:08:16: Error log file session closed.
+L 10/05/2020 - 20:08:16: SourceMod error session started
+L 10/05/2020 - 20:08:16: Info (map "de_mirage") (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/errors_20201005.log")
+L 10/05/2020 - 20:08:16: [SM] Fatal error encountered parsing translation file "advadmin.phrases.txt"
+L 10/05/2020 - 20:08:16: [SM] Error (line 0, column 0): Stream failed to open
+L 10/05/2020 - 20:08:34: [SM] Exception reported: Language phrase "Player_Connected_From" not found (arg 3)
+L 10/05/2020 - 20:08:34: [SM] Blaming: advadmin.smx
+L 10/05/2020 - 20:08:34: [SM] Call stack trace:
+L 10/05/2020 - 20:08:34: [SM]   [0] VFormat
+L 10/05/2020 - 20:08:34: [SM]   [1] Line 386, /groups/sourcemod/compiler-1.10/include/halflife.inc::PrintToChatAll
+L 10/05/2020 - 20:08:34: [SM]   [2] Line 141, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::OnClientAuthorized
+L 10/05/2020 - 20:10:15: [SM] Exception reported: Language phrase "Player_Connected_From" not found (arg 3)
+L 10/05/2020 - 20:10:15: [SM] Blaming: advadmin.smx
+L 10/05/2020 - 20:10:15: [SM] Call stack trace:
+L 10/05/2020 - 20:10:15: [SM]   [0] VFormat
+L 10/05/2020 - 20:10:15: [SM]   [1] Line 386, /groups/sourcemod/compiler-1.10/include/halflife.inc::PrintToChatAll
+L 10/05/2020 - 20:10:15: [SM]   [2] Line 141, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::OnClientAuthorized
+L 10/05/2020 - 20:13:00: [SM] Exception reported: Language phrase "Player_Connected_From" not found (arg 3)
+L 10/05/2020 - 20:13:00: [SM] Blaming: advadmin.smx
+L 10/05/2020 - 20:13:00: [SM] Call stack trace:
+L 10/05/2020 - 20:13:00: [SM]   [0] VFormat
+L 10/05/2020 - 20:13:00: [SM]   [1] Line 386, /groups/sourcemod/compiler-1.10/include/halflife.inc::PrintToChatAll
+L 10/05/2020 - 20:13:00: [SM]   [2] Line 141, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::OnClientAuthorized
+L 10/05/2020 - 20:16:00: [SM] Exception reported: Language phrase "Player_Connected_From" not found (arg 3)
+L 10/05/2020 - 20:16:00: [SM] Blaming: advadmin.smx
+L 10/05/2020 - 20:16:00: [SM] Call stack trace:
+L 10/05/2020 - 20:16:00: [SM]   [0] VFormat
+L 10/05/2020 - 20:16:00: [SM]   [1] Line 386, /groups/sourcemod/compiler-1.10/include/halflife.inc::PrintToChatAll
+L 10/05/2020 - 20:16:00: [SM]   [2] Line 141, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::OnClientAuthorized
+L 10/05/2020 - 20:19:41: [SM] Exception reported: Language phrase "Player_Connected_From" not found (arg 3)
+L 10/05/2020 - 20:19:41: [SM] Blaming: advadmin.smx
+L 10/05/2020 - 20:19:41: [SM] Call stack trace:
+L 10/05/2020 - 20:19:41: [SM]   [0] VFormat
+L 10/05/2020 - 20:19:41: [SM]   [1] Line 386, /groups/sourcemod/compiler-1.10/include/halflife.inc::PrintToChatAll
+L 10/05/2020 - 20:19:41: [SM]   [2] Line 141, /home/groups/sourcemod/upload_tmp/phpRYtiXm.sp::OnClientAuthorized
+L 10/06/2020 - 07:45:36: Error log file session closed.

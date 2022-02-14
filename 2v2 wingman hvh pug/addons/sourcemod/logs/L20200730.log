@@ -1,0 +1,37 @@
+L 07/30/2020 - 19:06:52: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200730.log") (Version "1.10.0.6490")
+L 07/30/2020 - 19:06:52: -------- Mapchange to cs_office --------
+L 07/30/2020 - 19:44:02: [basecommands.smx] "Leo dooly<39><STEAM_1:1:549009141><>" console command (cmdline "bot_kick")
+L 07/30/2020 - 19:44:12: -------- Mapchange to de_inferno --------
+L 07/30/2020 - 19:45:43: [basecommands.smx] "Leo dooly<39><STEAM_1:1:549009141><>" console command (cmdline "bot_kick")
+L 07/30/2020 - 19:51:26: [basecomm.smx] "dylan<31><STEAM_1:0:152419574><>" muted "TURKEY BOSS #293<41><STEAM_1:0:543646408><>"
+L 07/30/2020 - 19:53:57: [basecomm.smx] "dylan<31><STEAM_1:0:152419574><>" gagged "TURKEY BOSS #293<41><STEAM_1:0:543646408><>"
+L 07/30/2020 - 20:11:32: [basecommands.smx] "dylan<31><STEAM_1:0:152419574><>" changed map to "overpass"
+L 07/30/2020 - 20:11:35: [SM] Changed map to "overpass"
+L 07/30/2020 - 20:11:36: -------- Mapchange to de_overpass --------
+L 07/30/2020 - 20:12:48: [basecommands.smx] "dylan<31><STEAM_1:0:152419574><>" kicked "$K$<45><STEAM_1:1:196094535><>" (reason "")
+L 07/30/2020 - 20:14:51: [basecommands.smx] "dylan<31><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 07/30/2020 - 20:14:54: [basecommands.smx] "dylan<31><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/30/2020 - 20:15:09: [basecommands.smx] "dylan<31><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/30/2020 - 20:21:24: [basecommands.smx] "dylan<31><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/30/2020 - 20:23:34: [basecommands.smx] "dylan<31><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/30/2020 - 20:27:34: [basecommands.smx] "dylan<31><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/30/2020 - 20:28:12: [basecommands.smx] "dylan<31><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 07/30/2020 - 20:40:43: [basecommands.smx] "dylan<31><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/30/2020 - 20:40:54: [basecommands.smx] "dylan<31><STEAM_1:0:152419574><>" changed map to "de_shortdust"
+L 07/30/2020 - 20:40:57: [SM] Changed map to "de_shortdust"
+L 07/30/2020 - 20:40:57: -------- Mapchange to de_shortdust --------
+L 07/30/2020 - 20:44:23: [basecommands.smx] "dylan<31><STEAM_1:0:152419574><>" console command (cmdline "mp_maxrounds 16")
+L 07/30/2020 - 20:46:48: [basecommands.smx] "dylan<31><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body ")
+L 07/30/2020 - 20:46:51: [basecommands.smx] "dylan<31><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/30/2020 - 20:49:50: [basecommands.smx] "dylan<31><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/30/2020 - 20:49:52: [basecommands.smx] "dylan<31><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 07/30/2020 - 20:55:30: [basecommands.smx] "dylan<31><STEAM_1:0:152419574><>" kicked "Acupz the hvh mafia boss<57><STEAM_1:1:188473848><>" (reason "")
+L 07/30/2020 - 20:56:01: [basecommands.smx] "dylan<31><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/30/2020 - 20:59:22: -------- Mapchange to de_train --------
+L 07/30/2020 - 21:00:14: [basecommands.smx] "dylan<31><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/30/2020 - 21:01:08: [basecommands.smx] "dylan<31><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 07/30/2020 - 21:05:54: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200730.log") (Version "1.10.0.6490")
+L 07/30/2020 - 21:05:54: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/30/2020 - 21:06:28: -------- Mapchange to de_dust2 --------
+L 07/30/2020 - 21:37:38: -------- Mapchange to de_dust2 --------
+L 07/31/2020 - 15:45:16: Log file closed.

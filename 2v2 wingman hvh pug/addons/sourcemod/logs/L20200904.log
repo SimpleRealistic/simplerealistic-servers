@@ -1,0 +1,29 @@
+L 09/04/2020 - 18:04:19: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20200904.log") (Version "1.10.0.6490")
+L 09/04/2020 - 18:04:19: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 09/04/2020 - 18:06:23: -------- Mapchange to de_dust2 --------
+L 09/04/2020 - 18:08:22: [basecommands.smx] "firley<2><STEAM_1:1:557846803><>" console command (cmdline "bot_kick")
+L 09/04/2020 - 18:09:10: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20200904.log") (Version "1.10.0.6490")
+L 09/04/2020 - 18:09:10: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 09/04/2020 - 18:10:19: -------- Mapchange to de_dust2 --------
+L 09/04/2020 - 18:11:15: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20200904.log") (Version "1.10.0.6490")
+L 09/04/2020 - 18:11:15: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 09/04/2020 - 18:11:55: -------- Mapchange to de_dust2 --------
+L 09/04/2020 - 18:13:09: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20200904.log") (Version "1.10.0.6490")
+L 09/04/2020 - 18:13:09: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 09/04/2020 - 18:13:26: -------- Mapchange to de_dust2 --------
+L 09/04/2020 - 18:17:07: -------- Mapchange to de_lake --------
+L 09/04/2020 - 18:18:43: [playercommands.smx] "firley<2><STEAM_1:1:557846803><>" slayed "firley<2><STEAM_1:1:557846803><>"
+L 09/04/2020 - 18:18:43: [playercommands.smx] "firley<2><STEAM_1:1:557846803><>" slayed "Precision<3><STEAM_1:1:548670004><>"
+L 09/04/2020 - 18:18:43: [playercommands.smx] "firley<2><STEAM_1:1:557846803><>" slayed "Brylan B. "Woods"<4><STEAM_1:1:523672030><>"
+L 09/04/2020 - 19:20:56: -------- Mapchange to de_lake --------
+L 09/04/2020 - 19:21:24: -------- Mapchange to de_lake --------
+L 09/04/2020 - 19:54:23: -------- Mapchange to de_lake --------
+L 09/04/2020 - 19:55:22: [basecommands.smx] "Leo Dooly<6><STEAM_1:0:109554979><>" changed map to "mirage"
+L 09/04/2020 - 19:55:25: [SM] Changed map to "mirage"
+L 09/04/2020 - 19:55:25: -------- Mapchange to de_mirage --------
+L 09/04/2020 - 19:58:47: [basecommands.smx] "Leo Dooly<6><STEAM_1:0:109554979><>" console command (cmdline "bot_kick")
+L 09/04/2020 - 20:01:43: [basecommands.smx] "Leo Dooly<6><STEAM_1:0:109554979><>" console command (cmdline "bot_kick")
+L 09/04/2020 - 21:01:59: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20200904.log") (Version "1.10.0.6490")
+L 09/04/2020 - 21:01:59: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 09/04/2020 - 21:02:22: -------- Mapchange to de_dust2 --------
+L 09/05/2020 - 13:28:17: Log file closed.

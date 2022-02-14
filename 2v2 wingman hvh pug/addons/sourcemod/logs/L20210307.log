@@ -1,0 +1,11 @@
+L 03/07/2021 - 22:20:25: SourceMod log file session started (file "/home/steam/2v2/csgo/addons/sourcemod/logs/L20210307.log") (Version "1.10.0.6502")
+L 03/07/2021 - 22:20:25: -------- Mapchange to de_train --------
+L 03/07/2021 - 22:21:06: -------- Mapchange to de_train --------
+L 03/07/2021 - 22:26:15: [basecommands.smx] "killing hause<27><STEAM_1:0:23861894><>" console command (cmdline "mp_roundtime 60")
+L 03/07/2021 - 22:26:27: [basecommands.smx] "killing hause<27><STEAM_1:0:23861894><>" console command (cmdline "mp_roundtime_defuse 60")
+L 03/07/2021 - 22:26:31: [basecommands.smx] "killing hause<27><STEAM_1:0:23861894><>" console command (cmdline "mp_restartgame 1")
+L 03/07/2021 - 22:34:59: [basebans.smx] "killing hause<27><STEAM_1:0:23861894><>" banned "perry<30><STEAM_1:1:512700261><>" (minutes "0") (reason "")
+L 03/07/2021 - 22:35:02: [basebans.smx] "killing hause<27><STEAM_1:0:23861894><>" banned "delta<32><STEAM_1:1:89148858><>" (minutes "0") (reason "")
+L 03/07/2021 - 22:35:13: [basebans.smx] "killing hause<27><STEAM_1:0:23861894><>" banned "...<31><STEAM_1:0:594231982><>" (minutes "0") (reason "")
+L 03/07/2021 - 22:37:22: [basebans.smx] "killing hause<27><STEAM_1:0:23861894><>" banned "Shuno<33><STEAM_1:0:155370567><>" (minutes "0") (reason "")
+L 03/08/2021 - 09:43:28: Log file closed.

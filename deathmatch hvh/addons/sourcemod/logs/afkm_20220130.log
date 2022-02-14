@@ -1,0 +1,20 @@
+L 01/30/2022 - 09:27:04: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 01/30/2022 - 09:28:00: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 01/30/2022 - 09:30:00: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 01/30/2022 - 09:35:11: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 01/30/2022 - 10:32:35: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 01/30/2022 - 10:45:56: [afk_manager4.smx] Silly Rabbit...<53><STEAM_1:1:551493052><> was moved to spectate for being AFK too long.
+L 01/30/2022 - 10:53:50: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 01/30/2022 - 11:15:18: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 01/30/2022 - 11:16:46: [afk_manager4.smx] NoName<58><STEAM_1:1:551493052><> was moved to spectate for being AFK too long.
+L 01/30/2022 - 11:26:07: [afk_manager4.smx] NoName<58><STEAM_1:1:551493052><> was moved to spectate for being AFK too long.
+L 01/30/2022 - 11:28:37: [afk_manager4.smx] Player count for AFK Kick minimum has been reached, feature is now enabled: sm_afk_kick_min_players = 6 Current Players = 6
+L 01/30/2022 - 11:32:47: [afk_manager4.smx] sasaparsukov417<60><STEAM_1:0:639346762><> was moved to spectate for being AFK too long.
+L 01/30/2022 - 11:33:23: [afk_manager4.smx] Player count for AFK Kick minimum is below requirements, feature is now disabled: sm_afk_kick_min_players = 6 Current Players = 5
+L 01/30/2022 - 11:38:45: [afk_manager4.smx] NoName<58><STEAM_1:1:551493052><> was moved to spectate for being AFK too long.
+L 01/30/2022 - 11:43:34: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3
+L 01/30/2022 - 13:44:48: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 01/30/2022 - 13:47:57: [afk_manager4.smx] Erik Swanson<67><STEAM_1:1:600514810><> was moved to spectate for being AFK too long.
+L 01/30/2022 - 13:56:14: [afk_manager4.smx] Player count for AFK Kick minimum has been reached, feature is now enabled: sm_afk_kick_min_players = 6 Current Players = 6
+L 01/30/2022 - 13:59:07: [afk_manager4.smx] Player count for AFK Kick minimum is below requirements, feature is now disabled: sm_afk_kick_min_players = 6 Current Players = 5
+L 01/30/2022 - 14:01:38: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3

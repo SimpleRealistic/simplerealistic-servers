@@ -1,0 +1,13 @@
+L 12/17/2021 - 16:27:48: SourceMod error session started
+L 12/17/2021 - 16:27:48: Info (map "dm_mirage_v3_noble") (file "/home/steam/deathmatch/csgo/addons/sourcemod/logs/errors_20211217.log")
+L 12/17/2021 - 16:27:48: [SM] Exception reported: Entity 2 (2) is invalid
+L 12/17/2021 - 16:27:48: [SM] Blaming: DisableRadar.smx
+L 12/17/2021 - 16:27:48: [SM] Call stack trace:
+L 12/17/2021 - 16:27:48: [SM]   [0] GetEntProp
+L 12/17/2021 - 16:27:48: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 12/17/2021 - 16:27:48: [SM] Exception reported: Entity 2 (2) is invalid
+L 12/17/2021 - 16:27:48: [SM] Blaming: DisableRadar.smx
+L 12/17/2021 - 16:27:48: [SM] Call stack trace:
+L 12/17/2021 - 16:27:48: [SM]   [0] GetEntProp
+L 12/17/2021 - 16:27:48: [SM]   [1] Line 33, /home/forums/content/files/2/4/8/3/8/6/133573.attach::RemoveRadar
+L 12/17/2021 - 20:31:29: Error log file session closed.

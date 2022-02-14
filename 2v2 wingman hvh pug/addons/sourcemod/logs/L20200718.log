@@ -1,0 +1,77 @@
+L 07/18/2020 - 15:17:04: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200718.log") (Version "1.10.0.6490")
+L 07/18/2020 - 15:17:04: [basecommands.smx] "dylan<52><STEAM_1:0:152419574><>" changed map to "mirage"
+L 07/18/2020 - 15:17:07: [SM] Changed map to "mirage"
+L 07/18/2020 - 15:17:08: -------- Mapchange to de_mirage --------
+L 07/18/2020 - 15:28:55: [playercommands.smx] "dylan<52><STEAM_1:0:152419574><>" slayed "kr0md<53><STEAM_1:0:125290236><>"
+L 07/18/2020 - 15:38:22: [playercommands.smx] "dylan<52><STEAM_1:0:152419574><>" slayed "jwn<54><STEAM_1:0:534535148><>"
+L 07/18/2020 - 15:38:28: [funcommands.smx] "dylan<52><STEAM_1:0:152419574><>" drugged "kr0md<55><STEAM_1:0:125290236><>"
+L 07/18/2020 - 15:38:28: [funcommands.smx] "dylan<52><STEAM_1:0:152419574><>" drugged "dylan<52><STEAM_1:0:152419574><>"
+L 07/18/2020 - 15:38:28: [funcommands.smx] "dylan<52><STEAM_1:0:152419574><>" drugged "jwn<54><STEAM_1:0:534535148><>"
+L 07/18/2020 - 15:39:17: [funcommands.smx] "dylan<52><STEAM_1:0:152419574><>" undrugged "kr0md<55><STEAM_1:0:125290236><>"
+L 07/18/2020 - 15:39:17: [funcommands.smx] "dylan<52><STEAM_1:0:152419574><>" undrugged "jwn<54><STEAM_1:0:534535148><>"
+L 07/18/2020 - 16:15:30: -------- Mapchange to de_mirage --------
+L 07/18/2020 - 16:16:05: [basecommands.smx] "dylan<57><STEAM_1:0:152419574><>" console command (cmdline "sv_maxusrcmdprocessticks 64")
+L 07/18/2020 - 16:16:31: [basecommands.smx] "dylan<58><STEAM_1:0:152419574><>" console command (cmdline "sv_maxusrcmdprocessticks 64")
+L 07/18/2020 - 16:18:06: [basecommands.smx] "dylan<59><STEAM_1:0:152419574><>" console command (cmdline "sv_maxusrcmdprocessticks 128")
+L 07/18/2020 - 16:33:22: [basecommands.smx] "Leo Dooly<61><STEAM_1:0:109554979><>" console command (cmdline "bot_kick")
+L 07/18/2020 - 16:43:17: [basecommands.smx] "Leo Dooly<61><STEAM_1:0:109554979><>" console command (cmdline "bot_kick")
+L 07/18/2020 - 16:47:06: [basecommands.smx] "dylan<60><STEAM_1:0:152419574><>" console command (cmdline "sv_maxusrcmdprocessticks ")
+L 07/18/2020 - 16:47:16: [basecommands.smx] "dylan<60><STEAM_1:0:152419574><>" console command (cmdline "sv_maxunlag")
+L 07/18/2020 - 16:47:16: [basecommands.smx] "dylan<60><STEAM_1:0:152419574><>" console command (cmdline "sv_maxunlag 1")
+L 07/18/2020 - 16:48:09: [basecommands.smx] "dylan<60><STEAM_1:0:152419574><>" console command (cmdline "sv_maxunlag ")
+L 07/18/2020 - 16:48:42: [basecommands.smx] "Leo Dooly<61><STEAM_1:0:109554979><>" console command (cmdline "bot_kick")
+L 07/18/2020 - 16:50:35: [basecommands.smx] "dylan<65><STEAM_1:0:152419574><>" console command (cmdline "sv_maxusrcmdprocessticks 16")
+L 07/18/2020 - 16:55:10: [playercommands.smx] "dylan<65><STEAM_1:0:152419574><>" slayed "cytex<62><STEAM_1:0:222979716><>"
+L 07/18/2020 - 19:15:18: [basecommands.smx] "Leo Dooly<61><STEAM_1:0:109554979><>" console command (cmdline "exec hvhprac")
+L 07/18/2020 - 19:44:50: [basecommands.smx] "Leo Dooly<61><STEAM_1:0:109554979><>" changed map to "mirage"
+L 07/18/2020 - 19:44:53: [SM] Changed map to "mirage"
+L 07/18/2020 - 19:44:54: -------- Mapchange to de_mirage --------
+L 07/18/2020 - 19:54:30: [basecommands.smx] "Leo Dooly<61><STEAM_1:0:109554979><>" console command (cmdline "bot_kick")
+L 07/18/2020 - 20:23:06: -------- Mapchange to de_mirage --------
+L 07/18/2020 - 20:34:28: [playercommands.smx] "dylan<81><STEAM_1:0:152419574><>" slayed "negro nitro<82><STEAM_1:0:104530359><>"
+L 07/18/2020 - 20:35:41: [playercommands.smx] "dylan<81><STEAM_1:0:152419574><>" slayed "negro nitro<82><STEAM_1:0:104530359><>"
+L 07/18/2020 - 20:44:15: [playercommands.smx] "dylan<81><STEAM_1:0:152419574><>" slayed "cytex<79><STEAM_1:0:222979716><>"
+L 07/18/2020 - 20:47:20: [basecommands.smx] "dylan<81><STEAM_1:0:152419574><>" console command (cmdline "sm_unpause ")
+L 07/18/2020 - 20:48:02: [basecommands.smx] "dylan<81><STEAM_1:0:152419574><>" console command (cmdline "sm_unpause")
+L 07/18/2020 - 20:48:07: [basecommands.smx] "dylan<81><STEAM_1:0:152419574><>" console command (cmdline "sm_unpause")
+L 07/18/2020 - 20:48:13: [basecommands.smx] "dylan<81><STEAM_1:0:152419574><>" kicked "cytex<85><STEAM_1:0:222979716><>" (reason "")
+L 07/18/2020 - 20:48:13: [basecommands.smx] "dylan<81><STEAM_1:0:152419574><>" console command (cmdline "sm_unpause")
+L 07/18/2020 - 22:11:01: [basecommands.smx] "Leo Dooly<83><STEAM_1:0:109554979><>" changed map to "overpass"
+L 07/18/2020 - 22:11:04: [SM] Changed map to "overpass"
+L 07/18/2020 - 22:11:04: -------- Mapchange to de_overpass --------
+L 07/18/2020 - 22:12:42: [basecommands.smx] "Leo Dooly<83><STEAM_1:0:109554979><>" console command (cmdline "exec prachvh")
+L 07/18/2020 - 22:12:46: [basecommands.smx] "Leo Dooly<83><STEAM_1:0:109554979><>" console command (cmdline "exec hvhprac")
+L 07/18/2020 - 22:17:55: [basecommands.smx] "dylan<91><STEAM_1:0:152419574><>" console command (cmdline "bot_kick")
+L 07/18/2020 - 22:48:16: [basecommands.smx] "dylan<95><STEAM_1:0:152419574><>" console command (cmdline "host_timescale 10")
+L 07/18/2020 - 22:48:21: [basecommands.smx] "dylan<95><STEAM_1:0:152419574><>" console command (cmdline "host_timescale 1")
+L 07/18/2020 - 22:48:45: [basecommands.smx] "dylan<95><STEAM_1:0:152419574><>" console command (cmdline "host_timescale 0.0001")
+L 07/18/2020 - 22:50:18: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200718.log") (Version "1.10.0.6490")
+L 07/18/2020 - 22:50:18: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/18/2020 - 22:51:20: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200718.log") (Version "1.10.0.6490")
+L 07/18/2020 - 22:51:20: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/18/2020 - 22:52:02: -------- Mapchange to de_dust2 --------
+L 07/18/2020 - 22:52:38: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" changed map to "mirage"
+L 07/18/2020 - 22:52:41: [SM] Changed map to "mirage"
+L 07/18/2020 - 22:52:42: -------- Mapchange to de_mirage --------
+L 07/18/2020 - 22:53:07: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" changed map to "overpas"
+L 07/18/2020 - 22:53:10: [SM] Changed map to "overpas"
+L 07/18/2020 - 22:53:11: -------- Mapchange to de_overpass --------
+L 07/18/2020 - 22:53:36: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" console command (cmdline "viewmodel_fov")
+L 07/18/2020 - 22:53:39: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" console command (cmdline "fov")
+L 07/18/2020 - 22:53:49: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" console command (cmdline "viewmodel_fov")
+L 07/18/2020 - 22:54:05: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" console command (cmdline "viewmodel_offset_y ")
+L 07/18/2020 - 22:55:53: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" console command (cmdline "mp_roundtime_defuse 60")
+L 07/18/2020 - 22:55:58: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" console command (cmdline "sv_cheats 1")
+L 07/18/2020 - 23:00:04: [basecommands.smx] "Leo Dooly<7><STEAM_1:0:109554979><>" console command (cmdline "mp_limit_team 50")
+L 07/18/2020 - 23:01:10: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" console command (cmdline "mp_ignore_round_win_conditions 1")
+L 07/18/2020 - 23:01:17: [basecommands.smx] "Leo Dooly<7><STEAM_1:0:109554979><>" console command (cmdline "exec hvhprac")
+L 07/18/2020 - 23:02:01: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" console command (cmdline "enable_skeleton_draw 1")
+L 07/18/2020 - 23:02:03: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" console command (cmdline "enable_skeleton_draw ")
+L 07/18/2020 - 23:30:33: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200718.log") (Version "1.10.0.6490")
+L 07/18/2020 - 23:30:33: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/18/2020 - 23:31:12: -------- Mapchange to de_dust2 --------
+L 07/18/2020 - 23:31:38: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" changed map to "overpass"
+L 07/18/2020 - 23:31:41: [SM] Changed map to "overpass"
+L 07/18/2020 - 23:31:42: -------- Mapchange to de_overpass --------
+L 07/18/2020 - 23:39:07: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" console command (cmdline "mp_restartgame 1")
+L 07/19/2020 - 00:00:14: Log file closed.

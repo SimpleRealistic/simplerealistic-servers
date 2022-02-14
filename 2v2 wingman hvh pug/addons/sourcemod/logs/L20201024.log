@@ -1,0 +1,59 @@
+L 10/24/2020 - 00:38:05: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201024.log") (Version "1.10.0.6490")
+L 10/24/2020 - 00:38:05: -------- Mapchange to de_bank --------
+L 10/24/2020 - 03:34:10: -------- Mapchange to de_bank --------
+L 10/24/2020 - 03:46:11: -------- Mapchange to de_bank --------
+L 10/24/2020 - 14:24:55: -------- Mapchange to de_bank --------
+L 10/24/2020 - 14:29:31: [SM] Changed map to "de_dust2"
+L 10/24/2020 - 14:29:33: -------- Mapchange to de_dust2 --------
+L 10/24/2020 - 15:15:39: -------- Mapchange to de_dust2 --------
+L 10/24/2020 - 15:23:28: -------- Mapchange to de_dust2 --------
+L 10/24/2020 - 15:24:46: -------- Mapchange to de_dust2 --------
+L 10/24/2020 - 15:30:27: -------- Mapchange to de_dust2 --------
+L 10/24/2020 - 15:33:09: -------- Mapchange to de_dust2 --------
+L 10/24/2020 - 15:35:33: -------- Mapchange to de_dust2 --------
+L 10/24/2020 - 15:37:45: -------- Mapchange to de_dust2 --------
+L 10/24/2020 - 15:49:18: -------- Mapchange to de_overpass --------
+L 10/24/2020 - 16:02:28: [basecommands.smx] "dylan<106><STEAM_1:0:152419574><>" kicked "Goonziii<105><STEAM_1:1:232490612><>" (reason "")
+L 10/24/2020 - 16:04:27: [basecommands.smx] "dylan<106><STEAM_1:0:152419574><>" console command (cmdline "mp_restartgame 1")
+L 10/24/2020 - 16:11:02: [basecommands.smx] "dylan<106><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .3")
+L 10/24/2020 - 16:11:04: [basecommands.smx] "dylan<106><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 10/24/2020 - 16:14:07: [basecommands.smx] "dylan<106><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .3")
+L 10/24/2020 - 16:14:35: [basecommands.smx] "dylan<106><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 10/24/2020 - 16:28:37: [basecommands.smx] "dylan<106><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 10/24/2020 - 16:28:49: [basecommands.smx] "dylan<106><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 10/24/2020 - 16:30:17: [basecommands.smx] "dylan<106><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 10/24/2020 - 16:30:19: [basecommands.smx] "dylan<106><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 10/24/2020 - 16:40:48: [basecommands.smx] "dylan<106><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 10/24/2020 - 16:41:13: [basecommands.smx] "dylan<106><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 10/24/2020 - 16:47:31: [playercommands.smx] "youtube.com/dylanhook<106><STEAM_1:0:152419574><>" renamed "goofy<107><STEAM_1:1:564496711><>" (to "youtube.com/goofyhook")
+L 10/24/2020 - 16:47:48: [playercommands.smx] "youtube.com/dylanhook<106><STEAM_1:0:152419574><>" renamed "gosu<108><STEAM_1:0:567757789><>" (to "youtube.com/gosuhook")
+L 10/24/2020 - 16:48:09: [playercommands.smx] "youtube.com/dylanhook<106><STEAM_1:0:152419574><>" renamed "lord prev!<115><STEAM_1:0:74717497><>" (to "youtube.com/prevhook")
+L 10/24/2020 - 16:54:40: [basecommands.smx] "youtube.com/dylanhook<106><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 10/24/2020 - 16:56:58: [basecommands.smx] "youtube.com/dylanhook<106><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 10/24/2020 - 16:57:44: [basecommands.smx] "youtube.com/dylanhook<106><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 10/24/2020 - 16:57:51: [basecommands.smx] "youtube.com/dylanhook<106><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 10/24/2020 - 17:03:16: [basecommands.smx] "youtube.com/dylanhook<106><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 10/24/2020 - 17:04:41: [basecommands.smx] "youtube.com/dylanhook<106><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 10/24/2020 - 17:05:12: [basecommands.smx] "youtube.com/dylanhook<106><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 10/24/2020 - 17:05:13: [basecommands.smx] "youtube.com/dylanhook<106><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 10/24/2020 - 20:59:57: -------- Mapchange to de_overpass --------
+L 10/24/2020 - 21:10:28: [playercommands.smx] "youtube.com/dylanhook<136><STEAM_1:0:152419574><>" renamed "Leo Dooly<131><STEAM_1:0:109554979><>" (to "youtube.com/leohook")
+L 10/24/2020 - 21:10:52: [playercommands.smx] "youtube.com/dylanhook<136><STEAM_1:0:152419574><>" renamed "ghost<129><STEAM_1:0:567757789><>" (to "youtube.com/ghosthook")
+L 10/24/2020 - 21:11:09: [playercommands.smx] "youtube.com/dylanhook<136><STEAM_1:0:152419574><>" renamed "Jamsheed, the RPG God<130><STEAM_1:0:74717497><>" (to "youtube.com/jamsheedhook")
+L 10/24/2020 - 21:11:37: [playercommands.smx] "youtube.com/dylanhook<136><STEAM_1:0:152419574><>" renamed "cytex<132><STEAM_1:0:222979716><>" (to "youtube.com/cytexhook")
+L 10/24/2020 - 21:12:21: -------- Mapchange to de_inferno --------
+L 10/24/2020 - 21:26:39: [basecommands.smx] "youtube.com/dylanhook<136><STEAM_1:0:152419574><>" kicked "ghost<129><STEAM_1:0:567757789><>" (reason "game has ended")
+L 10/24/2020 - 21:26:39: [basecommands.smx] "youtube.com/dylanhook<136><STEAM_1:0:152419574><>" kicked "Jamsheed, the RPG God<130><STEAM_1:0:74717497><>" (reason "game has ended")
+L 10/24/2020 - 21:26:39: [basecommands.smx] "youtube.com/dylanhook<136><STEAM_1:0:152419574><>" kicked "cytex<132><STEAM_1:0:222979716><>" (reason "game has ended")
+L 10/24/2020 - 21:26:39: [basecommands.smx] "youtube.com/dylanhook<136><STEAM_1:0:152419574><>" kicked "po0rui-<133><STEAM_1:0:555642625><>" (reason "game has ended")
+L 10/24/2020 - 21:26:39: [basecommands.smx] "youtube.com/dylanhook<136><STEAM_1:0:152419574><>" kicked "z0nc<140><STEAM_1:0:562409113><>" (reason "game has ended")
+L 10/24/2020 - 21:26:39: [basecommands.smx] "youtube.com/dylanhook<136><STEAM_1:0:152419574><>" kicked "youtube.com/dylanhook<136><STEAM_1:0:152419574><>" (reason "game has ended")
+L 10/24/2020 - 21:26:53: -------- Mapchange to de_inferno --------
+L 10/24/2020 - 21:33:15: -------- Mapchange to de_inferno --------
+L 10/24/2020 - 22:14:25: -------- Mapchange to de_inferno --------
+L 10/24/2020 - 22:25:15: -------- Mapchange to de_mirage --------
+L 10/24/2020 - 23:45:12: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201024.log") (Version "1.10.0.6490")
+L 10/24/2020 - 23:45:12: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 10/24/2020 - 23:45:20: -------- Mapchange to de_dust2 --------
+L 10/24/2020 - 23:47:26: -------- Mapchange to de_safehouse --------
+L 10/25/2020 - 00:00:43: Log file closed.

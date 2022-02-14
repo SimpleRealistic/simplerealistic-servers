@@ -1,0 +1,180 @@
+L 07/14/2020 - 01:05:36: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200714.log") (Version "1.10.0.6490")
+L 07/14/2020 - 01:05:36: -------- Mapchange to de_dust2 --------
+L 07/14/2020 - 15:01:31: -------- Mapchange to de_dust2 --------
+L 07/14/2020 - 15:40:13: [basecommands.smx] "dylan<5><STEAM_1:0:152419574><>" console command (cmdline "bot_add t")
+L 07/14/2020 - 15:40:13: [basecommands.smx] "dylan<5><STEAM_1:0:152419574><>" console command (cmdline "bot_add t")
+L 07/14/2020 - 15:40:13: [basecommands.smx] "dylan<5><STEAM_1:0:152419574><>" console command (cmdline "bot_add t")
+L 07/14/2020 - 15:40:14: [basecommands.smx] "dylan<5><STEAM_1:0:152419574><>" console command (cmdline "bot_add t")
+L 07/14/2020 - 15:52:52: -------- Mapchange to de_inferno --------
+L 07/14/2020 - 16:11:47: [basecommands.smx] "dylan<5><STEAM_1:0:152419574><>" kicked "Raw Dog<26><STEAM_1:0:549496907><>" (reason "play next game when u know what to do")
+L 07/14/2020 - 16:19:41: [playercommands.smx] "dylan<5><STEAM_1:0:152419574><>" renamed "christine<27><STEAM_1:1:556639459><>" (to "chris")
+L 07/14/2020 - 16:23:05: [basecommands.smx] "dylan<5><STEAM_1:0:152419574><>" console command (cmdline "sm_restartgame 1")
+L 07/14/2020 - 16:23:10: [basecommands.smx] "dylan<5><STEAM_1:0:152419574><>" console command (cmdline "sm_restartgame 1")
+L 07/14/2020 - 16:23:13: [basecommands.smx] "dylan<5><STEAM_1:0:152419574><>" console command (cmdline "sm_restartgame 0.1")
+L 07/14/2020 - 16:23:44: [basecommands.smx] "dylan<5><STEAM_1:0:152419574><>" console command (cmdline "sm_restartgame 1")
+L 07/14/2020 - 16:24:13: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200714.log") (Version "1.10.0.6490")
+L 07/14/2020 - 16:24:13: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/14/2020 - 16:24:21: -------- Mapchange to de_dust2 --------
+L 07/14/2020 - 16:24:48: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" changed map to "inferno"
+L 07/14/2020 - 16:24:51: [SM] Changed map to "inferno"
+L 07/14/2020 - 16:24:53: -------- Mapchange to de_inferno --------
+L 07/14/2020 - 16:35:52: [playercommands.smx] "dylan<2><STEAM_1:0:152419574><>" slayed "kr0md<4><STEAM_1:0:125290236><>"
+L 07/14/2020 - 16:35:52: [playercommands.smx] "dylan<2><STEAM_1:0:152419574><>" slayed "Leo Dooly<5><STEAM_1:0:109554979><>"
+L 07/14/2020 - 16:35:52: [playercommands.smx] "dylan<2><STEAM_1:0:152419574><>" slayed "Prozonl126<7><STEAM_1:0:548805194><>"
+L 07/14/2020 - 16:41:03: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" console command (cmdline "mp_limitteams 5")
+L 07/14/2020 - 17:03:35: [playercommands.smx] "dylan<2><STEAM_1:0:152419574><>" slayed "christine<12><STEAM_1:1:556639459><>"
+L 07/14/2020 - 17:12:57: [basechat.smx] "dylan<2><STEAM_1:0:152419574><>" triggered sm_say (text sm_rcon sm_resolvefix 4)
+L 07/14/2020 - 17:14:43: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" kicked "hHAhAhAHAHAHahahAHA<14><STEAM_1:1:420715917><>" (reason "")
+L 07/14/2020 - 17:14:45: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" console command (cmdline "mp_limitteams 5")
+L 07/14/2020 - 17:17:17: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 07/14/2020 - 17:20:33: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/14/2020 - 17:22:57: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" kicked "hHAhAhAHAHAHahahAHA<16><STEAM_1:1:420715917><>" (reason "")
+L 07/14/2020 - 17:23:25: [basebans.smx] "dylan<2><STEAM_1:0:152419574><>" banned "hHAhAhAHAHAHahahAHA<17><STEAM_1:1:420715917><>" (minutes "1") (reason "")
+L 07/14/2020 - 17:25:18: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 07/14/2020 - 17:25:27: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/14/2020 - 17:26:57: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 07/14/2020 - 17:27:12: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/14/2020 - 17:27:46: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 07/14/2020 - 17:29:29: [basecommands.smx] "dylan<2><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/14/2020 - 17:33:30: [playercommands.smx] "dylan<19><STEAM_1:0:152419574><>" slayed "mortal<9><STEAM_1:1:61686><>"
+L 07/14/2020 - 17:59:01: [basecommands.smx] "dylan<22><STEAM_1:0:152419574><>" console command (cmdline "bot_kick")
+L 07/14/2020 - 18:14:00: [funcommands.smx] "dylan<22><STEAM_1:0:152419574><>" set a FreezeBomb on "jwn<20><STEAM_1:0:534535148><>"
+L 07/14/2020 - 18:14:00: [funcommands.smx] "dylan<22><STEAM_1:0:152419574><>" set a FreezeBomb on "cytex<23><STEAM_1:0:222979716><>"
+L 07/14/2020 - 18:14:08: [funcommands.smx] "dylan<22><STEAM_1:0:152419574><>" removed a FreezeBomb on "jwn<20><STEAM_1:0:534535148><>"
+L 07/14/2020 - 18:14:08: [funcommands.smx] "dylan<22><STEAM_1:0:152419574><>" set a FreezeBomb on "cytex<23><STEAM_1:0:222979716><>"
+L 07/14/2020 - 18:19:31: [basecommands.smx] "dylan<22><STEAM_1:0:152419574><>" changed map to "overpass"
+L 07/14/2020 - 18:19:34: [SM] Changed map to "overpass"
+L 07/14/2020 - 18:19:34: -------- Mapchange to de_overpass --------
+L 07/14/2020 - 18:20:10: [basecommands.smx] "dylan<22><STEAM_1:0:152419574><>" console command (cmdline "mp_afterroundmoney 16000")
+L 07/14/2020 - 18:20:33: [basecommands.smx] "dylan<22><STEAM_1:0:152419574><>" console command (cmdline "mp_restartgame 1")
+L 07/14/2020 - 18:28:35: [funcommands.smx] "Leo Dooly<24><STEAM_1:0:109554979><>" froze "Leo Dooly<24><STEAM_1:0:109554979><>"
+L 07/14/2020 - 18:28:37: [funcommands.smx] "Leo Dooly<24><STEAM_1:0:109554979><>" froze "Leo Dooly<24><STEAM_1:0:109554979><>"
+L 07/14/2020 - 18:43:20: -------- Mapchange to de_overpass --------
+L 07/14/2020 - 18:47:49: -------- Mapchange to de_overpass --------
+L 07/14/2020 - 19:32:55: -------- Mapchange to de_overpass --------
+L 07/14/2020 - 19:48:02: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "SV_INFINITE_AMMO 1")
+L 07/14/2020 - 19:51:03: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "BOT_KICK")
+L 07/14/2020 - 20:44:23: [funcommands.smx] "dylan<32><STEAM_1:0:152419574><>" toggled noclip on "dylan<32><STEAM_1:0:152419574><>"
+L 07/14/2020 - 20:45:40: [funcommands.smx] "dylan<32><STEAM_1:0:152419574><>" toggled noclip on "dylan<32><STEAM_1:0:152419574><>"
+L 07/14/2020 - 20:45:50: [playercommands.smx] "dylan<32><STEAM_1:0:152419574><>" slayed "dylan<32><STEAM_1:0:152419574><>"
+L 07/14/2020 - 20:45:50: [playercommands.smx] "dylan<32><STEAM_1:0:152419574><>" slayed "mortal<37><STEAM_1:1:61686><>"
+L 07/14/2020 - 20:45:50: [playercommands.smx] "dylan<32><STEAM_1:0:152419574><>" slayed "cytex<38><STEAM_1:0:222979716><>"
+L 07/14/2020 - 20:45:50: [playercommands.smx] "dylan<32><STEAM_1:0:152419574><>" slayed "alexpsp00<39><STEAM_1:0:88446723><>"
+L 07/14/2020 - 20:45:50: [playercommands.smx] "dylan<32><STEAM_1:0:152419574><>" slayed "Leo Dooly<41><STEAM_1:0:109554979><>"
+L 07/14/2020 - 20:45:50: [playercommands.smx] "dylan<32><STEAM_1:0:152419574><>" slayed "LoOsE<42><STEAM_1:0:427941824><>"
+L 07/14/2020 - 20:45:50: [playercommands.smx] "dylan<32><STEAM_1:0:152419574><>" slayed "hHAhAhAHAHAHahahAHA<43><STEAM_1:1:420715917><>"
+L 07/14/2020 - 20:47:17: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" changed map to "inferno"
+L 07/14/2020 - 20:47:20: [SM] Changed map to "inferno"
+L 07/14/2020 - 20:47:21: -------- Mapchange to de_inferno --------
+L 07/14/2020 - 20:49:19: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" changed map to "overpass"
+L 07/14/2020 - 20:49:22: [SM] Changed map to "overpass"
+L 07/14/2020 - 20:49:23: -------- Mapchange to de_overpass --------
+L 07/14/2020 - 20:50:53: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "sv_infinite_ammo 1")
+L 07/14/2020 - 21:07:30: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 07/14/2020 - 21:08:18: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/14/2020 - 21:08:38: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 07/14/2020 - 21:08:55: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/14/2020 - 21:09:10: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 07/14/2020 - 21:09:28: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/14/2020 - 21:10:05: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 07/14/2020 - 21:10:07: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/14/2020 - 21:10:33: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 07/14/2020 - 21:11:18: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/14/2020 - 21:11:23: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/14/2020 - 21:12:11: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/14/2020 - 21:12:37: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/14/2020 - 21:15:41: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/14/2020 - 21:17:28: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/14/2020 - 21:21:00: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/14/2020 - 21:21:24: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/14/2020 - 21:23:35: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/14/2020 - 21:24:38: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/14/2020 - 21:25:38: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/14/2020 - 21:27:23: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/14/2020 - 21:27:24: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 07/14/2020 - 22:03:31: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/14/2020 - 22:03:44: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 07/14/2020 - 22:05:21: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/14/2020 - 22:05:27: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/14/2020 - 22:11:00: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body")
+L 07/14/2020 - 22:15:24: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body ")
+L 07/14/2020 - 22:15:27: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 07/14/2020 - 22:26:57: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/14/2020 - 22:29:49: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 07/14/2020 - 22:29:51: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 07/14/2020 - 22:42:00: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" kicked "mortal<37><STEAM_1:1:61686><>" (reason "game has ended.")
+L 07/14/2020 - 22:42:00: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" kicked "cytex<38><STEAM_1:0:222979716><>" (reason "game has ended.")
+L 07/14/2020 - 22:42:00: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" kicked "Leo Dooly<56><STEAM_1:0:109554979><>" (reason "game has ended.")
+L 07/14/2020 - 22:42:00: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" kicked "autumn<52><STEAM_1:0:455995156><>" (reason "game has ended.")
+L 07/14/2020 - 22:42:00: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" kicked "kr0md<44><STEAM_1:0:125290236><>" (reason "game has ended.")
+L 07/14/2020 - 22:42:00: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" kicked "CONFIG MERCHANT (1986 og mod)<53><STEAM_1:0:531057368><>" (reason "game has ended.")
+L 07/14/2020 - 22:42:00: [basecommands.smx] "dylan<32><STEAM_1:0:152419574><>" kicked "dylan<32><STEAM_1:0:152419574><>" (reason "game has ended.")
+L 07/14/2020 - 22:43:28: [basecommands.smx] "dylan<57><STEAM_1:0:152419574><>" console command (cmdline "sv_infinite_ammo 1")
+L 07/14/2020 - 22:53:30: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "dylan<57><STEAM_1:0:152419574><>"
+L 07/14/2020 - 22:53:30: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "CONFIG MERCHANT (1986 og mod)<58><STEAM_1:0:531057368><>"
+L 07/14/2020 - 22:53:30: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "Leo Dooly<59><STEAM_1:0:109554979><>"
+L 07/14/2020 - 22:53:38: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "dylan<57><STEAM_1:0:152419574><>"
+L 07/14/2020 - 22:53:38: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "CONFIG MERCHANT (1986 og mod)<58><STEAM_1:0:531057368><>"
+L 07/14/2020 - 22:53:38: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "Leo Dooly<59><STEAM_1:0:109554979><>"
+L 07/14/2020 - 22:53:41: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "dylan<57><STEAM_1:0:152419574><>"
+L 07/14/2020 - 22:53:41: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "CONFIG MERCHANT (1986 og mod)<58><STEAM_1:0:531057368><>"
+L 07/14/2020 - 22:53:41: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "Leo Dooly<59><STEAM_1:0:109554979><>"
+L 07/14/2020 - 22:53:43: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "dylan<57><STEAM_1:0:152419574><>"
+L 07/14/2020 - 22:53:43: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "CONFIG MERCHANT (1986 og mod)<58><STEAM_1:0:531057368><>"
+L 07/14/2020 - 22:53:43: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "Leo Dooly<59><STEAM_1:0:109554979><>"
+L 07/14/2020 - 22:53:45: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "dylan<57><STEAM_1:0:152419574><>"
+L 07/14/2020 - 22:53:45: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "CONFIG MERCHANT (1986 og mod)<58><STEAM_1:0:531057368><>"
+L 07/14/2020 - 22:53:45: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "Leo Dooly<59><STEAM_1:0:109554979><>"
+L 07/14/2020 - 22:53:55: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "dylan<57><STEAM_1:0:152419574><>"
+L 07/14/2020 - 22:53:55: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "CONFIG MERCHANT (1986 og mod)<58><STEAM_1:0:531057368><>"
+L 07/14/2020 - 22:53:55: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "Leo Dooly<59><STEAM_1:0:109554979><>"
+L 07/14/2020 - 22:53:57: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "dylan<57><STEAM_1:0:152419574><>"
+L 07/14/2020 - 22:53:57: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "CONFIG MERCHANT (1986 og mod)<58><STEAM_1:0:531057368><>"
+L 07/14/2020 - 22:53:57: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "Leo Dooly<59><STEAM_1:0:109554979><>"
+L 07/14/2020 - 22:54:02: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "dylan<57><STEAM_1:0:152419574><>"
+L 07/14/2020 - 22:54:02: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "CONFIG MERCHANT (1986 og mod)<58><STEAM_1:0:531057368><>"
+L 07/14/2020 - 22:54:02: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "Leo Dooly<59><STEAM_1:0:109554979><>"
+L 07/14/2020 - 22:54:04: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "dylan<57><STEAM_1:0:152419574><>"
+L 07/14/2020 - 22:54:04: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "CONFIG MERCHANT (1986 og mod)<58><STEAM_1:0:531057368><>"
+L 07/14/2020 - 22:54:04: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "Leo Dooly<59><STEAM_1:0:109554979><>"
+L 07/14/2020 - 22:54:05: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "dylan<57><STEAM_1:0:152419574><>"
+L 07/14/2020 - 22:54:05: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "CONFIG MERCHANT (1986 og mod)<58><STEAM_1:0:531057368><>"
+L 07/14/2020 - 22:54:05: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "Leo Dooly<59><STEAM_1:0:109554979><>"
+L 07/14/2020 - 22:54:07: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "dylan<57><STEAM_1:0:152419574><>"
+L 07/14/2020 - 22:54:07: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "CONFIG MERCHANT (1986 og mod)<58><STEAM_1:0:531057368><>"
+L 07/14/2020 - 22:54:07: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "Leo Dooly<59><STEAM_1:0:109554979><>"
+L 07/14/2020 - 22:54:08: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "dylan<57><STEAM_1:0:152419574><>"
+L 07/14/2020 - 22:54:08: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "CONFIG MERCHANT (1986 og mod)<58><STEAM_1:0:531057368><>"
+L 07/14/2020 - 22:54:08: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "Leo Dooly<59><STEAM_1:0:109554979><>"
+L 07/14/2020 - 22:54:12: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "dylan<57><STEAM_1:0:152419574><>"
+L 07/14/2020 - 22:54:12: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "CONFIG MERCHANT (1986 og mod)<58><STEAM_1:0:531057368><>"
+L 07/14/2020 - 22:54:12: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "Leo Dooly<59><STEAM_1:0:109554979><>"
+L 07/14/2020 - 22:54:13: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "dylan<57><STEAM_1:0:152419574><>"
+L 07/14/2020 - 22:54:13: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "CONFIG MERCHANT (1986 og mod)<58><STEAM_1:0:531057368><>"
+L 07/14/2020 - 22:54:13: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "Leo Dooly<59><STEAM_1:0:109554979><>"
+L 07/14/2020 - 22:54:15: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "dylan<57><STEAM_1:0:152419574><>"
+L 07/14/2020 - 22:54:15: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "CONFIG MERCHANT (1986 og mod)<58><STEAM_1:0:531057368><>"
+L 07/14/2020 - 22:54:15: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "Leo Dooly<59><STEAM_1:0:109554979><>"
+L 07/14/2020 - 22:54:17: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "dylan<57><STEAM_1:0:152419574><>"
+L 07/14/2020 - 22:54:17: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "CONFIG MERCHANT (1986 og mod)<58><STEAM_1:0:531057368><>"
+L 07/14/2020 - 22:54:17: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "Leo Dooly<59><STEAM_1:0:109554979><>"
+L 07/14/2020 - 22:54:17: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "dylan<57><STEAM_1:0:152419574><>"
+L 07/14/2020 - 22:54:17: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "CONFIG MERCHANT (1986 og mod)<58><STEAM_1:0:531057368><>"
+L 07/14/2020 - 22:54:17: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "Leo Dooly<59><STEAM_1:0:109554979><>"
+L 07/14/2020 - 22:54:20: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "dylan<57><STEAM_1:0:152419574><>"
+L 07/14/2020 - 22:54:20: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "CONFIG MERCHANT (1986 og mod)<58><STEAM_1:0:531057368><>"
+L 07/14/2020 - 22:54:20: [funcommands.smx] "dylan<57><STEAM_1:0:152419574><>" toggled noclip on "Leo Dooly<59><STEAM_1:0:109554979><>"
+L 07/14/2020 - 22:56:56: [funcommands.smx] "Leo Dooly<59><STEAM_1:0:109554979><>" toggled noclip on "Leo Dooly<59><STEAM_1:0:109554979><>"
+L 07/14/2020 - 22:56:58: [funcommands.smx] "Leo Dooly<59><STEAM_1:0:109554979><>" toggled noclip on "Leo Dooly<59><STEAM_1:0:109554979><>"
+L 07/14/2020 - 23:08:35: -------- Mapchange to de_inferno --------
+L 07/14/2020 - 23:25:38: [playercommands.smx] "dylan<57><STEAM_1:0:152419574><>" slayed "kr0md<61><STEAM_1:0:125290236><>"
+L 07/14/2020 - 23:26:59: [playercommands.smx] "dylan<57><STEAM_1:0:152419574><>" slayed "kr0md<61><STEAM_1:0:125290236><>"
+L 07/14/2020 - 23:27:03: [playercommands.smx] "dylan<57><STEAM_1:0:152419574><>" slayed "kr0md<61><STEAM_1:0:125290236><>"
+L 07/14/2020 - 23:27:05: [playercommands.smx] "dylan<57><STEAM_1:0:152419574><>" slayed "kr0md<61><STEAM_1:0:125290236><>"
+L 07/14/2020 - 23:41:20: [basecommands.smx] "dylan<57><STEAM_1:0:152419574><>" changed map to "gd_cbble"
+L 07/14/2020 - 23:41:23: [SM] Changed map to "gd_cbble"
+L 07/14/2020 - 23:41:24: -------- Mapchange to gd_cbble --------
+L 07/14/2020 - 23:42:59: [basecommands.smx] "dylan<57><STEAM_1:0:152419574><>" changed map to "shortdust"
+L 07/14/2020 - 23:43:02: [SM] Changed map to "shortdust"
+L 07/14/2020 - 23:43:02: -------- Mapchange to de_shortdust --------
+L 07/15/2020 - 00:00:42: Log file closed.

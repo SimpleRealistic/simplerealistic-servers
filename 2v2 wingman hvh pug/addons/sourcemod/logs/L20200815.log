@@ -1,0 +1,63 @@
+L 08/15/2020 - 15:17:28: SourceMod log file session started (file "/home/tcagame/jackm1/488/csgo/addons/sourcemod/logs/L20200815.log") (Version "1.10.0.6490")
+L 08/15/2020 - 15:17:28: -------- Mapchange to de_mirage --------
+L 08/15/2020 - 15:34:16: -------- Mapchange to de_mirage --------
+L 08/15/2020 - 15:42:00: -------- Mapchange to cs_office --------
+L 08/15/2020 - 16:19:01: -------- Mapchange to de_dust2 --------
+L 08/15/2020 - 16:26:45: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 08/15/2020 - 16:41:56: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 08/15/2020 - 16:42:25: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 08/15/2020 - 16:52:29: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 08/15/2020 - 16:54:15: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/15/2020 - 17:04:55: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/15/2020 - 17:26:02: -------- Mapchange to cs_office --------
+L 08/15/2020 - 17:50:37: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/15/2020 - 17:51:30: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/15/2020 - 17:52:08: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/15/2020 - 17:53:17: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/15/2020 - 17:54:52: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/15/2020 - 17:55:16: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/15/2020 - 17:56:49: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/15/2020 - 17:57:44: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/15/2020 - 18:02:52: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/15/2020 - 18:03:12: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/15/2020 - 18:03:51: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/15/2020 - 18:04:00: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/15/2020 - 18:04:41: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/15/2020 - 18:04:54: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/15/2020 - 18:06:40: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body .5")
+L 08/15/2020 - 18:08:31: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/15/2020 - 18:10:55: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/15/2020 - 18:10:58: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 08/15/2020 - 18:11:43: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_t_body 1")
+L 08/15/2020 - 18:11:48: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 08/15/2020 - 18:12:02: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 08/15/2020 - 18:12:07: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 08/15/2020 - 18:13:44: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 08/15/2020 - 18:16:23: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body .5")
+L 08/15/2020 - 18:16:33: [basecommands.smx] "dylan<430><STEAM_1:0:152419574><>" console command (cmdline "mp_damage_scale_ct_body 1")
+L 08/15/2020 - 18:41:41: -------- Mapchange to cs_office --------
+L 08/15/2020 - 20:11:27: [basechat.smx] "kr0md<483><STEAM_1:0:125290236><>" triggered sm_say (text wanna quit talking)
+L 08/15/2020 - 20:11:33: [basechat.smx] "kr0md<483><STEAM_1:0:125290236><>" triggered sm_say (text you're annoyinh)
+L 08/15/2020 - 20:12:03: -------- Mapchange to de_mirage --------
+L 08/15/2020 - 20:18:29: [basechat.smx] "kr0md<483><STEAM_1:0:125290236><>" triggered sm_say (text What was the pause for?)
+L 08/15/2020 - 20:18:59: [basecomm.smx] "kr0md<483><STEAM_1:0:125290236><>" muted "seprent<472><STEAM_1:0:208222972><>"
+L 08/15/2020 - 20:18:59: [basecomm.smx] "kr0md<483><STEAM_1:0:125290236><>" muted "328913<473><STEAM_1:1:523096674><>"
+L 08/15/2020 - 20:18:59: [basecomm.smx] "kr0md<483><STEAM_1:0:125290236><>" muted "nogo<474><STEAM_1:1:472520671><>"
+L 08/15/2020 - 20:18:59: [basecomm.smx] "kr0md<483><STEAM_1:0:125290236><>" muted "Boosted<475><STEAM_1:0:532967798><>"
+L 08/15/2020 - 20:18:59: [basecomm.smx] "kr0md<483><STEAM_1:0:125290236><>" muted "Bout to gun ya down pew pew<476><STEAM_1:1:561466945><>"
+L 08/15/2020 - 20:18:59: [basecomm.smx] "kr0md<483><STEAM_1:0:125290236><>" muted "rye-<477><STEAM_1:1:560661294><>"
+L 08/15/2020 - 20:18:59: [basecomm.smx] "kr0md<483><STEAM_1:0:125290236><>" muted "Perhks-<479><STEAM_1:0:166523379><>"
+L 08/15/2020 - 20:18:59: [basecomm.smx] "kr0md<483><STEAM_1:0:125290236><>" muted "7/16s Grade 5 Flange Lock Nut<461><STEAM_1:1:548976529><>"
+L 08/15/2020 - 20:18:59: [basecomm.smx] "kr0md<483><STEAM_1:0:125290236><>" muted "normie<481><STEAM_1:0:64686495><>"
+L 08/15/2020 - 20:18:59: [basecomm.smx] "kr0md<483><STEAM_1:0:125290236><>" muted "kr0md<483><STEAM_1:0:125290236><>"
+L 08/15/2020 - 20:19:14: [basecomm.smx] "kr0md<483><STEAM_1:0:125290236><>" unmuted "seprent<472><STEAM_1:0:208222972><>"
+L 08/15/2020 - 20:19:14: [basecomm.smx] "kr0md<483><STEAM_1:0:125290236><>" unmuted "328913<473><STEAM_1:1:523096674><>"
+L 08/15/2020 - 20:19:14: [basecomm.smx] "kr0md<483><STEAM_1:0:125290236><>" unmuted "nogo<474><STEAM_1:1:472520671><>"
+L 08/15/2020 - 20:19:14: [basecomm.smx] "kr0md<483><STEAM_1:0:125290236><>" unmuted "Boosted<475><STEAM_1:0:532967798><>"
+L 08/15/2020 - 20:19:14: [basecomm.smx] "kr0md<483><STEAM_1:0:125290236><>" unmuted "Bout to gun ya down pew pew<476><STEAM_1:1:561466945><>"
+L 08/15/2020 - 20:19:14: [basecomm.smx] "kr0md<483><STEAM_1:0:125290236><>" unmuted "rye-<477><STEAM_1:1:560661294><>"
+L 08/15/2020 - 20:19:14: [basecomm.smx] "kr0md<483><STEAM_1:0:125290236><>" unmuted "Perhks-<479><STEAM_1:0:166523379><>"
+L 08/15/2020 - 20:19:14: [basecomm.smx] "kr0md<483><STEAM_1:0:125290236><>" unmuted "7/16s Grade 5 Flange Lock Nut<461><STEAM_1:1:548976529><>"
+L 08/15/2020 - 20:19:14: [basecomm.smx] "kr0md<483><STEAM_1:0:125290236><>" unmuted "normie<481><STEAM_1:0:64686495><>"
+L 08/15/2020 - 20:19:14: [basecomm.smx] "kr0md<483><STEAM_1:0:125290236><>" unmuted "kr0md<483><STEAM_1:0:125290236><>"
+L 08/16/2020 - 16:35:01: Log file closed.

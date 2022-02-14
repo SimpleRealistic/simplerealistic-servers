@@ -1,0 +1,34 @@
+L 12/29/2020 - 01:01:09: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201229.log") (Version "1.10.0.6502")
+L 12/29/2020 - 01:01:09: -------- Mapchange to cs_office --------
+L 12/29/2020 - 01:26:49: -------- Mapchange to de_train --------
+L 12/29/2020 - 06:40:31: -------- Mapchange to de_train --------
+L 12/29/2020 - 06:59:59: -------- Mapchange to de_overpass --------
+L 12/29/2020 - 11:14:17: -------- Mapchange to de_overpass --------
+L 12/29/2020 - 11:16:01: [basecommands.smx] "Leo Dooly<424><STEAM_1:0:109554979><>" changed map to "mirage"
+L 12/29/2020 - 11:16:04: [SM] Changed map to "mirage"
+L 12/29/2020 - 11:16:04: -------- Mapchange to de_mirage --------
+L 12/29/2020 - 14:58:20: -------- Mapchange to de_mirage --------
+L 12/29/2020 - 15:00:01: -------- Mapchange to de_overpass --------
+L 12/29/2020 - 16:12:51: [basechat.smx] "Leo Dooly<437><STEAM_1:0:109554979><>" triggered sm_say (text how tf r u losing on ct)
+L 12/29/2020 - 16:13:04: [basechat.smx] "ilioz<432><STEAM_1:1:7942706><>" triggered sm_chat (text we are trolling{)
+L 12/29/2020 - 16:14:03: [basechat.smx] "Leo Dooly<437><STEAM_1:0:109554979><>" triggered sm_say (text we got server next tho)
+L 12/29/2020 - 16:14:10: [basechat.smx] "ilioz<432><STEAM_1:1:7942706><>" triggered sm_chat (text ok)
+L 12/29/2020 - 16:24:24: [basechat.smx] "Leo Dooly<437><STEAM_1:0:109554979><>" triggered sm_say (text how long is fuckinging game going to take)
+L 12/29/2020 - 16:25:36: [basecommands.smx] "Leo Dooly<437><STEAM_1:0:109554979><>" changed map to "mirage"
+L 12/29/2020 - 16:25:39: [SM] Changed map to "mirage"
+L 12/29/2020 - 16:25:40: -------- Mapchange to de_mirage --------
+L 12/29/2020 - 16:28:55: [basechat.smx] "ilioz<432><STEAM_1:1:7942706><>" triggered sm_chat (text top)
+L 12/29/2020 - 16:42:11: [basecommands.smx] "Leo Dooly<437><STEAM_1:0:109554979><>" kicked "rat<440><STEAM_1:0:522665646><>" (reason "")
+L 12/29/2020 - 16:42:31: [basecommands.smx] "Leo Dooly<437><STEAM_1:0:109554979><>" kicked "rat<441><STEAM_1:0:522665646><>" (reason "")
+L 12/29/2020 - 17:46:24: -------- Mapchange to de_mirage --------
+L 12/29/2020 - 19:14:44: -------- Mapchange to de_mirage --------
+L 12/29/2020 - 19:40:48: -------- Mapchange to de_overpass --------
+L 12/29/2020 - 21:16:07: SourceMod log file session started (file "/home/tcagame/jackm1/599/csgo/addons/sourcemod/logs/L20201229.log") (Version "1.10.0.6502")
+L 12/29/2020 - 21:16:07: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/29/2020 - 21:18:15: SourceMod log file session started (file "/home/tcagame/jackm1/599/csgo/addons/sourcemod/logs/L20201229.log") (Version "1.10.0.6502")
+L 12/29/2020 - 21:18:15: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/29/2020 - 21:19:52: -------- Mapchange to de_mirage --------
+L 12/29/2020 - 21:21:58: SourceMod log file session started (file "/home/tcagame/jackm1/599/csgo/addons/sourcemod/logs/L20201229.log") (Version "1.10.0.6502")
+L 12/29/2020 - 21:21:58: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/29/2020 - 21:22:03: -------- Mapchange to de_mirage --------
+L 12/30/2020 - 14:05:11: Log file closed.

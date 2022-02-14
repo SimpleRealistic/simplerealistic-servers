@@ -1,0 +1,11 @@
+L 12/31/2021 - 03:32:05: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/31/2021 - 03:38:24: [afk_manager4.smx] Player count for AFK Kick minimum has been reached, feature is now enabled: sm_afk_kick_min_players = 6 Current Players = 6
+L 12/31/2021 - 03:51:41: [afk_manager4.smx] The Rat ⚕<20><STEAM_1:0:23152805><> was moved to spectate for being AFK too long.
+L 12/31/2021 - 03:51:42: [afk_manager4.smx] Poop Goblin<15><STEAM_1:0:62810479><> was moved to spectate for being AFK too long.
+L 12/31/2021 - 03:52:58: [afk_manager4.smx] Haldor-Of-The-Hammer<18><STEAM_1:0:168703954><> was moved to spectate for being AFK too long.
+L 12/31/2021 - 03:59:26: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 1
+L 12/31/2021 - 03:59:26: [afk_manager4.smx] Player count for AFK Kick minimum is below requirements, feature is now disabled: sm_afk_kick_min_players = 6 Current Players = 1
+L 12/31/2021 - 03:59:39: [afk_manager4.smx] Player count for AFK Move minimum has been reached, feature is now enabled: sm_afk_move_min_players = 4 Current Players = 4
+L 12/31/2021 - 03:59:57: [afk_manager4.smx] Player count for AFK Kick minimum has been reached, feature is now enabled: sm_afk_kick_min_players = 6 Current Players = 6
+L 12/31/2021 - 04:11:56: [afk_manager4.smx] Player count for AFK Kick minimum is below requirements, feature is now disabled: sm_afk_kick_min_players = 6 Current Players = 5
+L 12/31/2021 - 04:13:18: [afk_manager4.smx] Player count for AFK Move minimum is below requirements, feature is now disabled: sm_afk_move_min_players = 4 Current Players = 3

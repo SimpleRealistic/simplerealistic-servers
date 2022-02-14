@@ -1,0 +1,65 @@
+L 11/26/2020 - 00:50:47: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201126.log") (Version "1.10.0.6490")
+L 11/26/2020 - 00:50:47: [basecommands.smx] "dylan<22><STEAM_1:0:23861894><>" console command (cmdline "mp_freezetime 1")
+L 11/26/2020 - 01:33:43: [funcommands.smx] "dylan<46><STEAM_1:0:23861894><>" toggled noclip on "dylan<46><STEAM_1:0:23861894><>"
+L 11/26/2020 - 01:33:46: [funcommands.smx] "dylan<46><STEAM_1:0:23861894><>" toggled noclip on "dylan<46><STEAM_1:0:23861894><>"
+L 11/26/2020 - 01:34:11: [funcommands.smx] "dylan<46><STEAM_1:0:23861894><>" toggled noclip on "dylan<46><STEAM_1:0:23861894><>"
+L 11/26/2020 - 01:34:15: [funcommands.smx] "dylan<46><STEAM_1:0:23861894><>" toggled noclip on "dylan<46><STEAM_1:0:23861894><>"
+L 11/26/2020 - 01:40:52: [funcommands.smx] "dylan<46><STEAM_1:0:23861894><>" toggled noclip on "dylan<46><STEAM_1:0:23861894><>"
+L 11/26/2020 - 01:40:55: [funcommands.smx] "dylan<46><STEAM_1:0:23861894><>" toggled noclip on "dylan<46><STEAM_1:0:23861894><>"
+L 11/26/2020 - 02:17:56: [basecommands.smx] "dylan<50><STEAM_1:0:23861894><>" console command (cmdline "mp_anyone_can_pickup_c4 1")
+L 11/26/2020 - 02:17:59: [funcommands.smx] "dylan<50><STEAM_1:0:23861894><>" toggled noclip on "dylan<50><STEAM_1:0:23861894><>"
+L 11/26/2020 - 02:18:07: [funcommands.smx] "dylan<50><STEAM_1:0:23861894><>" toggled noclip on "dylan<50><STEAM_1:0:23861894><>"
+L 11/26/2020 - 10:58:39: -------- Mapchange to de_dust2 --------
+L 11/26/2020 - 11:03:06: -------- Mapchange to de_overpass --------
+L 11/26/2020 - 11:30:11: -------- Mapchange to de_inferno --------
+L 11/26/2020 - 11:52:08: -------- Mapchange to de_inferno --------
+L 11/26/2020 - 12:53:20: -------- Mapchange to de_canals --------
+L 11/26/2020 - 12:56:16: -------- Mapchange to de_bank --------
+L 11/26/2020 - 13:23:05: -------- Mapchange to de_overpass --------
+L 11/26/2020 - 14:04:01: -------- Mapchange to de_overpass --------
+L 11/26/2020 - 14:06:02: -------- Mapchange to de_bank --------
+L 11/26/2020 - 19:22:57: -------- Mapchange to de_bank --------
+L 11/26/2020 - 19:53:47: -------- Mapchange to de_inferno --------
+L 11/26/2020 - 20:15:52: -------- Mapchange to de_overpass --------
+L 11/26/2020 - 22:52:53: -------- Mapchange to de_overpass --------
+L 11/26/2020 - 22:53:18: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201126.log") (Version "1.10.0.6490")
+L 11/26/2020 - 22:53:18: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 11/26/2020 - 22:54:44: -------- Mapchange to de_dust2 --------
+L 11/26/2020 - 22:55:48: [basecommands.smx] "dylan<2><STEAM_1:0:23861894><>" console command (cmdline "plugin_print")
+L 11/26/2020 - 22:58:56: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201126.log") (Version "1.10.0.6490")
+L 11/26/2020 - 22:58:56: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 11/26/2020 - 22:59:17: -------- Mapchange to de_dust2 --------
+L 11/26/2020 - 22:59:34: [basecommands.smx] "dylan<2><STEAM_1:0:23861894><>" console command (cmdline "plugin_print")
+L 11/26/2020 - 23:01:58: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201126.log") (Version "1.10.0.6490")
+L 11/26/2020 - 23:01:58: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 11/26/2020 - 23:02:30: -------- Mapchange to de_dust2 --------
+L 11/26/2020 - 23:04:49: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201126.log") (Version "1.10.0.6490")
+L 11/26/2020 - 23:04:49: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 11/26/2020 - 23:04:54: -------- Mapchange to de_dust2 --------
+L 11/26/2020 - 23:05:25: [basecommands.smx] "dylan<2><STEAM_1:0:23861894><>" console command (cmdline "sv_inbullrush")
+L 11/26/2020 - 23:06:14: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201126.log") (Version "1.10.0.6490")
+L 11/26/2020 - 23:06:14: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 11/26/2020 - 23:06:28: -------- Mapchange to de_dust2 --------
+L 11/26/2020 - 23:06:46: [basecommands.smx] "dylan<2><STEAM_1:0:23861894><>" console command (cmdline "sv_inbullrush")
+L 11/26/2020 - 23:08:40: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201126.log") (Version "1.10.0.6490")
+L 11/26/2020 - 23:08:40: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 11/26/2020 - 23:09:18: -------- Mapchange to de_dust2 --------
+L 11/26/2020 - 23:14:46: [basecommands.smx] "dylan<2><STEAM_1:0:23861894><>" console command (cmdline "sv_maxusrcmdprocessticks 0")
+L 11/26/2020 - 23:14:48: [basecommands.smx] "dylan<2><STEAM_1:0:23861894><>" console command (cmdline "sv_maxusrcmdprocessticks ")
+L 11/26/2020 - 23:14:52: [basecommands.smx] "dylan<2><STEAM_1:0:23861894><>" console command (cmdline "sv_maxusrcmdprocessticks 1")
+L 11/26/2020 - 23:15:06: [basecommands.smx] "dylan<2><STEAM_1:0:23861894><>" console command (cmdline "sv_maxusrcmdprocessticks 4")
+L 11/26/2020 - 23:15:10: [basecommands.smx] "dylan<2><STEAM_1:0:23861894><>" console command (cmdline "sv_maxusrcmdprocessticks 9")
+L 11/26/2020 - 23:15:12: [basecommands.smx] "dylan<2><STEAM_1:0:23861894><>" console command (cmdline "sv_maxusrcmdprocessticks 8")
+L 11/26/2020 - 23:15:25: [basecommands.smx] "dylan<2><STEAM_1:0:23861894><>" console command (cmdline "sv_maxusrcmdprocessticks 1")
+L 11/26/2020 - 23:15:33: [basecommands.smx] "dylan<2><STEAM_1:0:23861894><>" console command (cmdline "sv_maxusrcmdprocessticks 2")
+L 11/26/2020 - 23:15:43: [basecommands.smx] "dylan<2><STEAM_1:0:23861894><>" console command (cmdline "sv_maxusrcmdprocessticks 4")
+L 11/26/2020 - 23:19:42: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201126.log") (Version "1.10.0.6490")
+L 11/26/2020 - 23:19:42: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 11/26/2020 - 23:19:46: -------- Mapchange to de_dust2 --------
+L 11/26/2020 - 23:30:59: SourceMod log file session started (file "/home/tcagame/jackm1/527/csgo/addons/sourcemod/logs/L20201126.log") (Version "1.10.0.6490")
+L 11/26/2020 - 23:30:59: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 11/26/2020 - 23:31:03: -------- Mapchange to de_dust2 --------
+L 11/26/2020 - 23:39:15: [basecommands.smx] "dylan<3><STEAM_1:0:23861894><>" console command (cmdline "sv_maxusrcmdprocessticks 6")
+L 11/26/2020 - 23:45:55: [basecommands.smx] "dylan<3><STEAM_1:0:23861894><>" console command (cmdline "bot_kick")
+L 11/26/2020 - 23:49:59: [basecommands.smx] "Leo Dooly<4><STEAM_1:0:109554979><>" kicked "EthanSouza47<2><STEAM_1:0:74717497><>" (reason "retard")
+L 11/27/2020 - 00:00:01: Log file closed.
